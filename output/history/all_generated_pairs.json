@@ -35,7 +35,25 @@
       "american": "cookie",
       "category": "food and drink",
       "generated_at": "2026-07-02T06:49:26.984399"
+    },
+    {
+      "british": "sweets",
+      "american": "candy",
+      "category": "food and drink",
+      "generated_at": "2026-07-02T12:10:32.687679"
+    },
+    {
+      "british": "jelly",
+      "american": "jam",
+      "category": "food and drink",
+      "generated_at": "2026-07-02T12:10:32.687687"
+    },
+    {
+      "british": "plaster",
+      "american": "band-aid",
+      "category": "food and drink",
+      "generated_at": "2026-07-02T12:10:32.687689"
     }
   ],
-  "last_updated": "2026-07-02T06:49:26.984401"
+  "last_updated": "2026-07-02T12:10:32.687690"
 }
