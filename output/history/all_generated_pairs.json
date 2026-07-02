@@ -53,7 +53,25 @@
       "american": "band-aid",
       "category": "food and drink",
       "generated_at": "2026-07-02T12:10:32.687689"
+    },
+    {
+      "british": "pudding",
+      "american": "dessert",
+      "category": "food and drink",
+      "generated_at": "2026-07-02T16:00:15.788787"
+    },
+    {
+      "british": "bap",
+      "american": "roll",
+      "category": "food and drink",
+      "generated_at": "2026-07-02T16:00:15.788796"
+    },
+    {
+      "british": "gherkin",
+      "american": "pickle",
+      "category": "food and drink",
+      "generated_at": "2026-07-02T16:00:15.788797"
     }
   ],
-  "last_updated": "2026-07-02T12:10:32.687690"
+  "last_updated": "2026-07-02T16:00:15.788799"
 }
