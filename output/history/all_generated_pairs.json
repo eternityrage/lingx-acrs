@@ -161,7 +161,25 @@
       "american": "undershirt",
       "category": "clothing",
       "generated_at": "2026-07-03T15:48:25.599535"
+    },
+    {
+      "british": "capsicum",
+      "american": "pepper",
+      "category": "food and drink",
+      "generated_at": "2026-07-03T19:26:02.016563"
+    },
+    {
+      "british": "nappy",
+      "american": "diaper",
+      "category": "clothing",
+      "generated_at": "2026-07-03T19:26:02.016574"
+    },
+    {
+      "british": "frock",
+      "american": "dress",
+      "category": "clothing",
+      "generated_at": "2026-07-03T19:26:02.016575"
     }
   ],
-  "last_updated": "2026-07-03T15:48:25.599536"
+  "last_updated": "2026-07-03T19:26:02.016577"
 }
