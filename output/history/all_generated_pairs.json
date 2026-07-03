@@ -125,7 +125,25 @@
       "american": "sneakers",
       "category": "clothing",
       "generated_at": "2026-07-03T09:28:31.075737"
+    },
+    {
+      "british": "cabbage",
+      "american": "kale",
+      "category": "food and drink",
+      "generated_at": "2026-07-03T12:11:09.214484"
+    },
+    {
+      "british": "springs",
+      "american": "scallions",
+      "category": "food and drink",
+      "generated_at": "2026-07-03T12:11:09.214493"
+    },
+    {
+      "british": "parsnip",
+      "american": "turnip",
+      "category": "food and drink",
+      "generated_at": "2026-07-03T12:11:09.214494"
     }
   ],
-  "last_updated": "2026-07-03T09:28:31.075739"
+  "last_updated": "2026-07-03T12:11:09.214496"
 }
