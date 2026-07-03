@@ -143,7 +143,25 @@
       "american": "turnip",
       "category": "food and drink",
       "generated_at": "2026-07-03T12:11:09.214494"
+    },
+    {
+      "british": "waistcoat",
+      "american": "vest",
+      "category": "clothing",
+      "generated_at": "2026-07-03T15:48:25.599522"
+    },
+    {
+      "british": "pullover",
+      "american": "sweater",
+      "category": "clothing",
+      "generated_at": "2026-07-03T15:48:25.599533"
+    },
+    {
+      "british": "vest",
+      "american": "undershirt",
+      "category": "clothing",
+      "generated_at": "2026-07-03T15:48:25.599535"
     }
   ],
-  "last_updated": "2026-07-03T12:11:09.214496"
+  "last_updated": "2026-07-03T15:48:25.599536"
 }
