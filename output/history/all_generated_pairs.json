@@ -215,7 +215,25 @@
       "american": "flaxseed",
       "category": "food and drink",
       "generated_at": "2026-07-04T08:45:39.261724"
+    },
+    {
+      "british": "biscuits",
+      "american": "cookies",
+      "category": "food and drink",
+      "generated_at": "2026-07-04T11:31:59.607269"
+    },
+    {
+      "british": "cardigan",
+      "american": "sweater",
+      "category": "clothing",
+      "generated_at": "2026-07-04T11:31:59.607279"
+    },
+    {
+      "british": "pinafore",
+      "american": "apron",
+      "category": "clothing",
+      "generated_at": "2026-07-04T11:31:59.607280"
     }
   ],
-  "last_updated": "2026-07-04T08:45:39.261725"
+  "last_updated": "2026-07-04T11:31:59.607286"
 }
