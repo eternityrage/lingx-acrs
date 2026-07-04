@@ -179,7 +179,25 @@
       "american": "dress",
       "category": "clothing",
       "generated_at": "2026-07-03T19:26:02.016575"
+    },
+    {
+      "british": "wellies",
+      "american": "galoshes",
+      "category": "clothing",
+      "generated_at": "2026-07-04T05:34:38.326039"
+    },
+    {
+      "british": "anorak",
+      "american": "parka",
+      "category": "clothing",
+      "generated_at": "2026-07-04T05:34:38.326048"
+    },
+    {
+      "british": "jersey",
+      "american": "shirt",
+      "category": "clothing",
+      "generated_at": "2026-07-04T05:34:38.326050"
     }
   ],
-  "last_updated": "2026-07-03T19:26:02.016577"
+  "last_updated": "2026-07-04T05:34:38.326051"
 }
