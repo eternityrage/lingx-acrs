@@ -269,7 +269,25 @@
       "american": "mailbox",
       "category": "food and drink",
       "generated_at": "2026-07-04T19:16:49.192251"
+    },
+    {
+      "british": "sweetcorn",
+      "american": "corn",
+      "category": "food and drink",
+      "generated_at": "2026-07-05T05:52:30.601983"
+    },
+    {
+      "british": "marmalade",
+      "american": "jam",
+      "category": "food and drink",
+      "generated_at": "2026-07-05T05:52:30.601995"
+    },
+    {
+      "british": "butters",
+      "american": "butter",
+      "category": "food and drink",
+      "generated_at": "2026-07-05T05:52:30.601997"
     }
   ],
-  "last_updated": "2026-07-04T19:16:49.192253"
+  "last_updated": "2026-07-05T05:52:30.601999"
 }
