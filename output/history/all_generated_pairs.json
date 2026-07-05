@@ -287,7 +287,25 @@
       "american": "butter",
       "category": "food and drink",
       "generated_at": "2026-07-05T05:52:30.601997"
+    },
+    {
+      "british": "sweet",
+      "american": "candy",
+      "category": "food and drink",
+      "generated_at": "2026-07-05T09:14:54.245559"
+    },
+    {
+      "british": "pepper",
+      "american": "capsicum",
+      "category": "food and drink",
+      "generated_at": "2026-07-05T09:14:54.245567"
+    },
+    {
+      "british": "braces",
+      "american": "suspenders",
+      "category": "clothing",
+      "generated_at": "2026-07-05T09:14:54.245569"
     }
   ],
-  "last_updated": "2026-07-05T05:52:30.601999"
+  "last_updated": "2026-07-05T09:14:54.245571"
 }
