@@ -305,7 +305,25 @@
       "american": "suspenders",
       "category": "clothing",
       "generated_at": "2026-07-05T09:14:54.245569"
+    },
+    {
+      "british": "beetroot",
+      "american": "beets",
+      "category": "food and drink",
+      "generated_at": "2026-07-05T11:37:22.872475"
+    },
+    {
+      "british": "jam",
+      "american": "jelly",
+      "category": "food and drink",
+      "generated_at": "2026-07-05T11:37:22.872484"
+    },
+    {
+      "british": "gherkins",
+      "american": "pickles",
+      "category": "food and drink",
+      "generated_at": "2026-07-05T11:37:22.872486"
     }
   ],
-  "last_updated": "2026-07-05T09:14:54.245571"
+  "last_updated": "2026-07-05T11:37:22.872488"
 }
