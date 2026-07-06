@@ -359,7 +359,25 @@
       "american": "highway",
       "category": "food and drink",
       "generated_at": "2026-07-05T19:20:45.977331"
+    },
+    {
+      "british": "treacle",
+      "american": "molasses",
+      "category": "food and drink",
+      "generated_at": "2026-07-06T06:16:12.623118"
+    },
+    {
+      "british": "bilberry",
+      "american": "huckleberry",
+      "category": "food and drink",
+      "generated_at": "2026-07-06T06:16:12.623126"
+    },
+    {
+      "british": "gilet",
+      "american": "vest",
+      "category": "clothing",
+      "generated_at": "2026-07-06T06:16:12.623128"
     }
   ],
-  "last_updated": "2026-07-05T19:20:45.977333"
+  "last_updated": "2026-07-06T06:16:12.623130"
 }
