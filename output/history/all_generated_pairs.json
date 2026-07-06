@@ -431,7 +431,25 @@
       "american": "underwear",
       "category": "clothing",
       "generated_at": "2026-07-06T16:48:05.821239"
+    },
+    {
+      "british": "bonnet",
+      "american": "hood",
+      "category": "clothing",
+      "generated_at": "2026-07-06T20:00:46.857913"
+    },
+    {
+      "british": "wellies",
+      "american": "boots",
+      "category": "clothing",
+      "generated_at": "2026-07-06T20:00:46.857922"
+    },
+    {
+      "british": "underskirt",
+      "american": "slip",
+      "category": "clothing",
+      "generated_at": "2026-07-06T20:00:46.857924"
     }
   ],
-  "last_updated": "2026-07-06T16:48:05.821241"
+  "last_updated": "2026-07-06T20:00:46.857926"
 }
