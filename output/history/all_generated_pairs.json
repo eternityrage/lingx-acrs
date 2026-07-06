@@ -377,7 +377,25 @@
       "american": "vest",
       "category": "clothing",
       "generated_at": "2026-07-06T06:16:12.623128"
+    },
+    {
+      "british": "mac",
+      "american": "raincoat",
+      "category": "clothing",
+      "generated_at": "2026-07-06T10:50:46.129506"
+    },
+    {
+      "british": "overalls",
+      "american": "jumpsuit",
+      "category": "clothing",
+      "generated_at": "2026-07-06T10:50:46.129514"
+    },
+    {
+      "british": "wears",
+      "american": "attire",
+      "category": "clothing",
+      "generated_at": "2026-07-06T10:50:46.129516"
     }
   ],
-  "last_updated": "2026-07-06T06:16:12.623130"
+  "last_updated": "2026-07-06T10:50:46.129518"
 }
