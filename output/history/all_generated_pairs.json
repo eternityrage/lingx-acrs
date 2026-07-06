@@ -413,7 +413,25 @@
       "american": "lingerie",
       "category": "clothing",
       "generated_at": "2026-07-06T13:48:05.731351"
+    },
+    {
+      "british": "caramel",
+      "american": "taffy",
+      "category": "food and drink",
+      "generated_at": "2026-07-06T16:48:05.821228"
+    },
+    {
+      "british": "mushrooms",
+      "american": "fungi",
+      "category": "food and drink",
+      "generated_at": "2026-07-06T16:48:05.821238"
+    },
+    {
+      "british": "underpants",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-07-06T16:48:05.821239"
     }
   ],
-  "last_updated": "2026-07-06T13:48:05.731353"
+  "last_updated": "2026-07-06T16:48:05.821241"
 }
