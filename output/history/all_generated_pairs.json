@@ -467,7 +467,25 @@
       "american": "vegemite",
       "category": "food and drink",
       "generated_at": "2026-07-07T05:57:01.324157"
+    },
+    {
+      "british": "groundsel",
+      "american": "gravel",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T09:53:04.405645"
+    },
+    {
+      "british": "plums",
+      "american": "prunes",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T09:53:04.405654"
+    },
+    {
+      "british": "marmalade",
+      "american": "preserves",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T09:53:04.405656"
     }
   ],
-  "last_updated": "2026-07-07T05:57:01.324159"
+  "last_updated": "2026-07-07T09:53:04.405658"
 }
