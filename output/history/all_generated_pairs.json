@@ -449,7 +449,25 @@
       "american": "slip",
       "category": "clothing",
       "generated_at": "2026-07-06T20:00:46.857924"
+    },
+    {
+      "british": "squash",
+      "american": "gourd",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T05:57:01.324148"
+    },
+    {
+      "british": "digestive",
+      "american": "graham",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T05:57:01.324155"
+    },
+    {
+      "british": "marmite",
+      "american": "vegemite",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T05:57:01.324157"
     }
   ],
-  "last_updated": "2026-07-06T20:00:46.857926"
+  "last_updated": "2026-07-07T05:57:01.324159"
 }
