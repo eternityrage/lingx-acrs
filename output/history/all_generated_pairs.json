@@ -485,7 +485,25 @@
       "american": "preserves",
       "category": "food and drink",
       "generated_at": "2026-07-07T09:53:04.405656"
+    },
+    {
+      "british": "plimsolls",
+      "american": "sneakers",
+      "category": "clothing",
+      "generated_at": "2026-07-07T12:28:56.624521"
+    },
+    {
+      "british": "mackintosh",
+      "american": "raincoat",
+      "category": "clothing",
+      "generated_at": "2026-07-07T12:28:56.624530"
+    },
+    {
+      "british": "knickers",
+      "american": "panties",
+      "category": "clothing",
+      "generated_at": "2026-07-07T12:28:56.624531"
     }
   ],
-  "last_updated": "2026-07-07T09:53:04.405658"
+  "last_updated": "2026-07-07T12:28:56.624533"
 }
