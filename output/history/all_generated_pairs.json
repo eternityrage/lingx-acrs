@@ -503,7 +503,25 @@
       "american": "panties",
       "category": "clothing",
       "generated_at": "2026-07-07T12:28:56.624531"
+    },
+    {
+      "british": "herbs",
+      "american": "seasoning",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T19:58:11.840788"
+    },
+    {
+      "british": "undies",
+      "american": "panties",
+      "category": "clothing",
+      "generated_at": "2026-07-07T19:58:11.840798"
+    },
+    {
+      "british": "galoshes",
+      "american": "rubbers",
+      "category": "clothing",
+      "generated_at": "2026-07-07T19:58:11.840799"
     }
   ],
-  "last_updated": "2026-07-07T12:28:56.624533"
+  "last_updated": "2026-07-07T19:58:11.840801"
 }
