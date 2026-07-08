@@ -611,7 +611,25 @@
       "american": "can",
       "category": "food and drink",
       "generated_at": "2026-07-08T15:58:18.808761"
+    },
+    {
+      "british": "petrol",
+      "american": "gas",
+      "category": "transport",
+      "generated_at": "2026-07-08T19:28:23.400444"
+    },
+    {
+      "british": "tyre",
+      "american": "tire",
+      "category": "transport",
+      "generated_at": "2026-07-08T19:28:23.400454"
+    },
+    {
+      "british": "underground",
+      "american": "subway",
+      "category": "transport",
+      "generated_at": "2026-07-08T19:28:23.400455"
     }
   ],
-  "last_updated": "2026-07-08T15:58:18.808763"
+  "last_updated": "2026-07-08T19:28:23.400456"
 }
