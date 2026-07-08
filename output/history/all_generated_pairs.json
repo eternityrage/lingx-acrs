@@ -521,7 +521,25 @@
       "american": "rubbers",
       "category": "clothing",
       "generated_at": "2026-07-07T19:58:11.840799"
+    },
+    {
+      "british": "margarine",
+      "american": "oleo",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T23:58:58.870516"
+    },
+    {
+      "british": "nectar",
+      "american": "juice",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T23:58:58.870524"
+    },
+    {
+      "british": "chocolates",
+      "american": "candies",
+      "category": "food and drink",
+      "generated_at": "2026-07-07T23:58:58.870525"
     }
   ],
-  "last_updated": "2026-07-07T19:58:11.840801"
+  "last_updated": "2026-07-07T23:58:58.870527"
 }
