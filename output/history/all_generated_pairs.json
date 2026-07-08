@@ -593,7 +593,25 @@
       "american": "lingerie",
       "category": "clothing",
       "generated_at": "2026-07-08T11:48:30.357486"
+    },
+    {
+      "british": "grill",
+      "american": "broiler",
+      "category": "food and drink",
+      "generated_at": "2026-07-08T15:58:18.808750"
+    },
+    {
+      "british": "fry",
+      "american": "pan-fry",
+      "category": "food and drink",
+      "generated_at": "2026-07-08T15:58:18.808759"
+    },
+    {
+      "british": "tin",
+      "american": "can",
+      "category": "food and drink",
+      "generated_at": "2026-07-08T15:58:18.808761"
     }
   ],
-  "last_updated": "2026-07-08T11:48:30.357488"
+  "last_updated": "2026-07-08T15:58:18.808763"
 }
