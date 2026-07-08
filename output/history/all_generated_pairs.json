@@ -575,7 +575,25 @@
       "american": "leggings",
       "category": "clothing",
       "generated_at": "2026-07-08T08:39:15.053913"
+    },
+    {
+      "british": "fresher",
+      "american": "dairy",
+      "category": "food and drink",
+      "generated_at": "2026-07-08T11:48:30.357474"
+    },
+    {
+      "british": "takeaway",
+      "american": "carryout",
+      "category": "food and drink",
+      "generated_at": "2026-07-08T11:48:30.357485"
+    },
+    {
+      "british": "underclothes",
+      "american": "lingerie",
+      "category": "clothing",
+      "generated_at": "2026-07-08T11:48:30.357486"
     }
   ],
-  "last_updated": "2026-07-08T08:39:15.053915"
+  "last_updated": "2026-07-08T11:48:30.357488"
 }
