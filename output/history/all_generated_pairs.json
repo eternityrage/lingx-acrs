@@ -557,7 +557,25 @@
       "american": "undergarments",
       "category": "clothing",
       "generated_at": "2026-07-08T04:56:16.909707"
+    },
+    {
+      "british": "mack",
+      "american": "raincoat",
+      "category": "clothing",
+      "generated_at": "2026-07-08T08:39:15.053898"
+    },
+    {
+      "british": "slacks",
+      "american": "trousers",
+      "category": "clothing",
+      "generated_at": "2026-07-08T08:39:15.053907"
+    },
+    {
+      "british": "gaiters",
+      "american": "leggings",
+      "category": "clothing",
+      "generated_at": "2026-07-08T08:39:15.053913"
     }
   ],
-  "last_updated": "2026-07-08T04:56:16.909709"
+  "last_updated": "2026-07-08T08:39:15.053915"
 }
