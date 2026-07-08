@@ -539,7 +539,25 @@
       "american": "candies",
       "category": "food and drink",
       "generated_at": "2026-07-07T23:58:58.870525"
+    },
+    {
+      "british": "chips",
+      "american": "crisps",
+      "category": "food and drink",
+      "generated_at": "2026-07-08T04:56:16.909695"
+    },
+    {
+      "british": "tracksuit",
+      "american": "sweatsuit",
+      "category": "clothing",
+      "generated_at": "2026-07-08T04:56:16.909705"
+    },
+    {
+      "british": "underwear",
+      "american": "undergarments",
+      "category": "clothing",
+      "generated_at": "2026-07-08T04:56:16.909707"
     }
   ],
-  "last_updated": "2026-07-07T23:58:58.870527"
+  "last_updated": "2026-07-08T04:56:16.909709"
 }
