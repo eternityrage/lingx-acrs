@@ -701,7 +701,25 @@
       "american": "closet",
       "category": "clothing",
       "generated_at": "2026-07-09T16:22:06.138234"
+    },
+    {
+      "british": "icing",
+      "american": "frosting",
+      "category": "food and drink",
+      "generated_at": "2026-07-09T19:49:28.224408"
+    },
+    {
+      "british": "sweets",
+      "american": "confectionery",
+      "category": "food and drink",
+      "generated_at": "2026-07-09T19:49:28.224421"
+    },
+    {
+      "british": "ground",
+      "american": "mince",
+      "category": "food and drink",
+      "generated_at": "2026-07-09T19:49:28.224422"
     }
   ],
-  "last_updated": "2026-07-09T16:22:06.138236"
+  "last_updated": "2026-07-09T19:49:28.224424"
 }
