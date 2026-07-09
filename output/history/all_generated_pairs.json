@@ -683,7 +683,25 @@
       "american": "cassis",
       "category": "food and drink",
       "generated_at": "2026-07-09T12:37:29.989004"
+    },
+    {
+      "british": "tingler",
+      "american": "jelly",
+      "category": "food and drink",
+      "generated_at": "2026-07-09T16:22:06.138222"
+    },
+    {
+      "british": "bras",
+      "american": "bra",
+      "category": "clothing",
+      "generated_at": "2026-07-09T16:22:06.138233"
+    },
+    {
+      "british": "wardrobe",
+      "american": "closet",
+      "category": "clothing",
+      "generated_at": "2026-07-09T16:22:06.138234"
     }
   ],
-  "last_updated": "2026-07-09T12:37:29.989006"
+  "last_updated": "2026-07-09T16:22:06.138236"
 }
