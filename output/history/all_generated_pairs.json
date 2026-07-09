@@ -665,7 +665,25 @@
       "american": "jumpsuit",
       "category": "clothing",
       "generated_at": "2026-07-09T10:00:45.617891"
+    },
+    {
+      "british": "muesli",
+      "american": "granola",
+      "category": "food and drink",
+      "generated_at": "2026-07-09T12:37:29.988993"
+    },
+    {
+      "british": "pop",
+      "american": "soda",
+      "category": "food and drink",
+      "generated_at": "2026-07-09T12:37:29.989002"
+    },
+    {
+      "british": "blackcurrant",
+      "american": "cassis",
+      "category": "food and drink",
+      "generated_at": "2026-07-09T12:37:29.989004"
     }
   ],
-  "last_updated": "2026-07-09T10:00:45.617893"
+  "last_updated": "2026-07-09T12:37:29.989006"
 }
