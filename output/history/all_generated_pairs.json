@@ -629,7 +629,25 @@
       "american": "subway",
       "category": "transport",
       "generated_at": "2026-07-08T19:28:23.400455"
+    },
+    {
+      "british": "pyjamas",
+      "american": "pajamas",
+      "category": "clothing",
+      "generated_at": "2026-07-09T05:53:32.663737"
+    },
+    {
+      "british": "underpants",
+      "american": "briefs",
+      "category": "clothing",
+      "generated_at": "2026-07-09T05:53:32.663746"
+    },
+    {
+      "british": "dungarees",
+      "american": "overalls",
+      "category": "clothing",
+      "generated_at": "2026-07-09T05:53:32.663747"
     }
   ],
-  "last_updated": "2026-07-08T19:28:23.400456"
+  "last_updated": "2026-07-09T05:53:32.663749"
 }
