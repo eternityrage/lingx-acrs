@@ -647,7 +647,25 @@
       "american": "overalls",
       "category": "clothing",
       "generated_at": "2026-07-09T05:53:32.663747"
+    },
+    {
+      "british": "slips",
+      "american": "underskirts",
+      "category": "clothing",
+      "generated_at": "2026-07-09T10:00:45.617878"
+    },
+    {
+      "british": "bolero",
+      "american": "shrug",
+      "category": "clothing",
+      "generated_at": "2026-07-09T10:00:45.617889"
+    },
+    {
+      "british": "boilersuit",
+      "american": "jumpsuit",
+      "category": "clothing",
+      "generated_at": "2026-07-09T10:00:45.617891"
     }
   ],
-  "last_updated": "2026-07-09T05:53:32.663749"
+  "last_updated": "2026-07-09T10:00:45.617893"
 }
