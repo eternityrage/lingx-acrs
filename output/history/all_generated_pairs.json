@@ -755,7 +755,25 @@
       "american": "shirt",
       "category": "clothing",
       "generated_at": "2026-07-10T09:46:32.679200"
+    },
+    {
+      "british": "panties",
+      "american": "underpants",
+      "category": "clothing",
+      "generated_at": "2026-07-10T12:28:57.296451"
+    },
+    {
+      "british": "well-known",
+      "american": "famous",
+      "category": "clothing",
+      "generated_at": "2026-07-10T12:28:57.296461"
+    },
+    {
+      "british": "windscreen",
+      "american": "windshield",
+      "category": "transport",
+      "generated_at": "2026-07-10T12:28:57.296462"
     }
   ],
-  "last_updated": "2026-07-10T09:46:32.679202"
+  "last_updated": "2026-07-10T12:28:57.296464"
 }
