@@ -773,7 +773,25 @@
       "american": "windshield",
       "category": "transport",
       "generated_at": "2026-07-10T12:28:57.296462"
+    },
+    {
+      "british": "madame",
+      "american": "madam",
+      "category": "food and drink",
+      "generated_at": "2026-07-10T16:13:46.524808"
+    },
+    {
+      "british": "leggings",
+      "american": "tights",
+      "category": "clothing",
+      "generated_at": "2026-07-10T16:13:46.524817"
+    },
+    {
+      "british": "raincoat",
+      "american": "slicker",
+      "category": "clothing",
+      "generated_at": "2026-07-10T16:13:46.524819"
     }
   ],
-  "last_updated": "2026-07-10T12:28:57.296464"
+  "last_updated": "2026-07-10T16:13:46.524820"
 }
