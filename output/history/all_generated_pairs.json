@@ -737,7 +737,25 @@
       "american": "zipper",
       "category": "clothing",
       "generated_at": "2026-07-10T05:51:16.738635"
+    },
+    {
+      "british": "nectarine",
+      "american": "peach",
+      "category": "food and drink",
+      "generated_at": "2026-07-10T09:46:32.679189"
+    },
+    {
+      "british": "underwear",
+      "american": "underclothes",
+      "category": "clothing",
+      "generated_at": "2026-07-10T09:46:32.679199"
+    },
+    {
+      "british": "blouse",
+      "american": "shirt",
+      "category": "clothing",
+      "generated_at": "2026-07-10T09:46:32.679200"
     }
   ],
-  "last_updated": "2026-07-10T05:51:16.738637"
+  "last_updated": "2026-07-10T09:46:32.679202"
 }
