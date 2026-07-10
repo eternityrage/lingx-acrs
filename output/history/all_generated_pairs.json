@@ -791,7 +791,25 @@
       "american": "slicker",
       "category": "clothing",
       "generated_at": "2026-07-10T16:13:46.524819"
+    },
+    {
+      "british": "chocolates",
+      "american": "candy",
+      "category": "food and drink",
+      "generated_at": "2026-07-10T19:36:13.276812"
+    },
+    {
+      "british": "chips",
+      "american": "potatoes",
+      "category": "food and drink",
+      "generated_at": "2026-07-10T19:36:13.276822"
+    },
+    {
+      "british": "undervest",
+      "american": "undershirt",
+      "category": "clothing",
+      "generated_at": "2026-07-10T19:36:13.276824"
     }
   ],
-  "last_updated": "2026-07-10T16:13:46.524820"
+  "last_updated": "2026-07-10T19:36:13.276826"
 }
