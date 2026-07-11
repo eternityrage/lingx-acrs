@@ -863,7 +863,25 @@
       "american": "sweater",
       "category": "clothing",
       "generated_at": "2026-07-11T11:07:52.343725"
+    },
+    {
+      "british": "muffin",
+      "american": "cupcake",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T14:43:58.976539"
+    },
+    {
+      "british": "punnet",
+      "american": "clamshell",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T14:43:58.976548"
+    },
+    {
+      "british": "bralette",
+      "american": "bra",
+      "category": "clothing",
+      "generated_at": "2026-07-11T14:43:58.976549"
     }
   ],
-  "last_updated": "2026-07-11T11:07:52.343727"
+  "last_updated": "2026-07-11T14:43:58.976551"
 }
