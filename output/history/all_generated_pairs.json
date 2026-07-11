@@ -845,7 +845,25 @@
       "american": "underwear",
       "category": "clothing",
       "generated_at": "2026-07-11T08:05:04.221123"
+    },
+    {
+      "british": "nut",
+      "american": "peanut",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T11:07:52.343715"
+    },
+    {
+      "british": "fresher",
+      "american": "cooler",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T11:07:52.343723"
+    },
+    {
+      "british": "jersey",
+      "american": "sweater",
+      "category": "clothing",
+      "generated_at": "2026-07-11T11:07:52.343725"
     }
   ],
-  "last_updated": "2026-07-11T08:05:04.221124"
+  "last_updated": "2026-07-11T11:07:52.343727"
 }
