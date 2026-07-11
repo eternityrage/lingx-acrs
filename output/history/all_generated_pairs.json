@@ -809,7 +809,25 @@
       "american": "undershirt",
       "category": "clothing",
       "generated_at": "2026-07-10T19:36:13.276824"
+    },
+    {
+      "british": "herbs",
+      "american": "seasonings",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T04:51:12.901784"
+    },
+    {
+      "british": "sorbet",
+      "american": "sherbet",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T04:51:12.901795"
+    },
+    {
+      "british": "squash",
+      "american": "juice",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T04:51:12.901797"
     }
   ],
-  "last_updated": "2026-07-10T19:36:13.276826"
+  "last_updated": "2026-07-11T04:51:12.901799"
 }
