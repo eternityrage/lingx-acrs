@@ -881,7 +881,25 @@
       "american": "bra",
       "category": "clothing",
       "generated_at": "2026-07-11T14:43:58.976549"
+    },
+    {
+      "british": "butty",
+      "american": "sandwich",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T19:06:15.152343"
+    },
+    {
+      "british": "tingles",
+      "american": "fries",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T19:06:15.152351"
+    },
+    {
+      "british": "scoff",
+      "american": "eat",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T19:06:15.152353"
     }
   ],
-  "last_updated": "2026-07-11T14:43:58.976551"
+  "last_updated": "2026-07-11T19:06:15.152355"
 }
