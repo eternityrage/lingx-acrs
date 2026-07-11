@@ -827,7 +827,25 @@
       "american": "juice",
       "category": "food and drink",
       "generated_at": "2026-07-11T04:51:12.901797"
+    },
+    {
+      "british": "takeaway",
+      "american": "takeout",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T08:05:04.221110"
+    },
+    {
+      "british": "jelly",
+      "american": "gelatin",
+      "category": "food and drink",
+      "generated_at": "2026-07-11T08:05:04.221121"
+    },
+    {
+      "british": "pants",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-07-11T08:05:04.221123"
     }
   ],
-  "last_updated": "2026-07-11T04:51:12.901799"
+  "last_updated": "2026-07-11T08:05:04.221124"
 }
