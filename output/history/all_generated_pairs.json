@@ -899,7 +899,25 @@
       "american": "eat",
       "category": "food and drink",
       "generated_at": "2026-07-11T19:06:15.152353"
+    },
+    {
+      "british": "crumble",
+      "american": "crisp",
+      "category": "food and drink",
+      "generated_at": "2026-07-12T05:13:27.821875"
+    },
+    {
+      "british": "chrysanthemum",
+      "american": "mum",
+      "category": "food and drink",
+      "generated_at": "2026-07-12T05:13:27.821884"
+    },
+    {
+      "british": "football",
+      "american": "soccer",
+      "category": "food and drink",
+      "generated_at": "2026-07-12T05:13:27.821886"
     }
   ],
-  "last_updated": "2026-07-11T19:06:15.152355"
+  "last_updated": "2026-07-12T05:13:27.821887"
 }
