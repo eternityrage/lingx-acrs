@@ -953,7 +953,25 @@
       "american": "hosiery",
       "category": "clothing",
       "generated_at": "2026-07-12T11:12:51.556804"
+    },
+    {
+      "british": "egg",
+      "american": "eggs",
+      "category": "food and drink",
+      "generated_at": "2026-07-12T14:47:27.287679"
+    },
+    {
+      "british": "railway",
+      "american": "train",
+      "category": "transport",
+      "generated_at": "2026-07-12T14:47:27.287688"
+    },
+    {
+      "british": "juggernaut",
+      "american": "truck",
+      "category": "transport",
+      "generated_at": "2026-07-12T14:47:27.287689"
     }
   ],
-  "last_updated": "2026-07-12T11:12:51.556805"
+  "last_updated": "2026-07-12T14:47:27.287691"
 }
