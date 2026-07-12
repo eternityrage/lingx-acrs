@@ -917,7 +917,25 @@
       "american": "soccer",
       "category": "food and drink",
       "generated_at": "2026-07-12T05:13:27.821886"
+    },
+    {
+      "british": "kilt",
+      "american": "skirt",
+      "category": "clothing",
+      "generated_at": "2026-07-12T08:27:30.425762"
+    },
+    {
+      "british": "bra",
+      "american": "brassiere",
+      "category": "clothing",
+      "generated_at": "2026-07-12T08:27:30.425769"
+    },
+    {
+      "british": "flyover",
+      "american": "overpass",
+      "category": "transport",
+      "generated_at": "2026-07-12T08:27:30.425771"
     }
   ],
-  "last_updated": "2026-07-12T05:13:27.821887"
+  "last_updated": "2026-07-12T08:27:30.425773"
 }
