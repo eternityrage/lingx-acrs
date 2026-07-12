@@ -935,7 +935,25 @@
       "american": "overpass",
       "category": "transport",
       "generated_at": "2026-07-12T08:27:30.425771"
+    },
+    {
+      "british": "candies",
+      "american": "sweets",
+      "category": "food and drink",
+      "generated_at": "2026-07-12T11:12:51.556792"
+    },
+    {
+      "british": "underclothes",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-07-12T11:12:51.556802"
+    },
+    {
+      "british": "stockings",
+      "american": "hosiery",
+      "category": "clothing",
+      "generated_at": "2026-07-12T11:12:51.556804"
     }
   ],
-  "last_updated": "2026-07-12T08:27:30.425773"
+  "last_updated": "2026-07-12T11:12:51.556805"
 }
