@@ -1061,7 +1061,25 @@
       "american": "underpants",
       "category": "clothing",
       "generated_at": "2026-07-13T16:20:55.331193"
+    },
+    {
+      "british": "sweets",
+      "american": "candies",
+      "category": "food and drink",
+      "generated_at": "2026-07-13T19:25:40.824679"
+    },
+    {
+      "british": "sultanas",
+      "american": "raisins",
+      "category": "food and drink",
+      "generated_at": "2026-07-13T19:25:40.824686"
+    },
+    {
+      "british": "vest",
+      "american": "waistcoat",
+      "category": "clothing",
+      "generated_at": "2026-07-13T19:25:40.824688"
     }
   ],
-  "last_updated": "2026-07-13T16:20:55.331195"
+  "last_updated": "2026-07-13T19:25:40.824690"
 }
