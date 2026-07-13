@@ -1025,7 +1025,25 @@
       "american": "frock",
       "category": "clothing",
       "generated_at": "2026-07-13T09:38:51.839562"
+    },
+    {
+      "british": "slips",
+      "american": "undergarments",
+      "category": "clothing",
+      "generated_at": "2026-07-13T12:34:37.518955"
+    },
+    {
+      "british": "blouse",
+      "american": "top",
+      "category": "clothing",
+      "generated_at": "2026-07-13T12:34:37.518964"
+    },
+    {
+      "british": "underwear",
+      "american": "underthings",
+      "category": "clothing",
+      "generated_at": "2026-07-13T12:34:37.518966"
     }
   ],
-  "last_updated": "2026-07-13T09:38:51.839564"
+  "last_updated": "2026-07-13T12:34:37.518968"
 }
