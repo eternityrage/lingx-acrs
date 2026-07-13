@@ -989,7 +989,25 @@
       "american": "raincoat",
       "category": "clothing",
       "generated_at": "2026-07-12T19:08:19.902618"
+    },
+    {
+      "british": "loganberry",
+      "american": "boysenberry",
+      "category": "food and drink",
+      "generated_at": "2026-07-13T05:22:18.721201"
+    },
+    {
+      "british": "watercress",
+      "american": "nasturtium",
+      "category": "food and drink",
+      "generated_at": "2026-07-13T05:22:18.721210"
+    },
+    {
+      "british": "pinafore",
+      "american": "jumper",
+      "category": "clothing",
+      "generated_at": "2026-07-13T05:22:18.721212"
     }
   ],
-  "last_updated": "2026-07-12T19:08:19.902620"
+  "last_updated": "2026-07-13T05:22:18.721214"
 }
