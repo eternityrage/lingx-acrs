@@ -1007,7 +1007,25 @@
       "american": "jumper",
       "category": "clothing",
       "generated_at": "2026-07-13T05:22:18.721212"
+    },
+    {
+      "british": "herbs",
+      "american": "greens",
+      "category": "food and drink",
+      "generated_at": "2026-07-13T09:38:51.839551"
+    },
+    {
+      "british": "undershirt",
+      "american": "t-shirt",
+      "category": "clothing",
+      "generated_at": "2026-07-13T09:38:51.839561"
+    },
+    {
+      "british": "dress",
+      "american": "frock",
+      "category": "clothing",
+      "generated_at": "2026-07-13T09:38:51.839562"
     }
   ],
-  "last_updated": "2026-07-13T05:22:18.721214"
+  "last_updated": "2026-07-13T09:38:51.839564"
 }
