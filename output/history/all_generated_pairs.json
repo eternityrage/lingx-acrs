@@ -1151,7 +1151,25 @@
       "american": "underwear",
       "category": "clothing",
       "generated_at": "2026-07-14T15:16:23.277447"
+    },
+    {
+      "british": "kerb",
+      "american": "curb",
+      "category": "transport",
+      "generated_at": "2026-07-14T19:23:00.332969"
+    },
+    {
+      "british": "timetable",
+      "american": "schedule",
+      "category": "transport",
+      "generated_at": "2026-07-14T19:23:00.332980"
+    },
+    {
+      "british": "verge",
+      "american": "shoulder",
+      "category": "transport",
+      "generated_at": "2026-07-14T19:23:00.332982"
     }
   ],
-  "last_updated": "2026-07-14T15:16:23.277449"
+  "last_updated": "2026-07-14T19:23:00.332984"
 }
