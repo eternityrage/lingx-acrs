@@ -1097,7 +1097,25 @@
       "american": "grape-nuts",
       "category": "food and drink",
       "generated_at": "2026-07-14T04:38:19.426343"
+    },
+    {
+      "british": "queue",
+      "american": "line",
+      "category": "food and drink",
+      "generated_at": "2026-07-14T08:19:14.194219"
+    },
+    {
+      "british": "coach",
+      "american": "bus",
+      "category": "transport",
+      "generated_at": "2026-07-14T08:19:14.194230"
+    },
+    {
+      "british": "pavement",
+      "american": "sidewalk",
+      "category": "transport",
+      "generated_at": "2026-07-14T08:19:14.194232"
     }
   ],
-  "last_updated": "2026-07-14T04:38:19.426345"
+  "last_updated": "2026-07-14T08:19:14.194234"
 }
