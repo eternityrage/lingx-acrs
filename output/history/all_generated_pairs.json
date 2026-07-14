@@ -1079,7 +1079,25 @@
       "american": "waistcoat",
       "category": "clothing",
       "generated_at": "2026-07-13T19:25:40.824688"
+    },
+    {
+      "british": "water",
+      "american": "soda",
+      "category": "food and drink",
+      "generated_at": "2026-07-14T04:38:19.426332"
+    },
+    {
+      "british": "whisky",
+      "american": "whiskey",
+      "category": "food and drink",
+      "generated_at": "2026-07-14T04:38:19.426342"
+    },
+    {
+      "british": "gravel",
+      "american": "grape-nuts",
+      "category": "food and drink",
+      "generated_at": "2026-07-14T04:38:19.426343"
     }
   ],
-  "last_updated": "2026-07-13T19:25:40.824690"
+  "last_updated": "2026-07-14T04:38:19.426345"
 }
