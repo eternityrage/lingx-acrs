@@ -1133,7 +1133,25 @@
       "american": "sorbet",
       "category": "food and drink",
       "generated_at": "2026-07-14T11:26:54.528390"
+    },
+    {
+      "british": "underpants",
+      "american": "panties",
+      "category": "clothing",
+      "generated_at": "2026-07-14T15:16:23.277435"
+    },
+    {
+      "british": "petticoat",
+      "american": "slip",
+      "category": "clothing",
+      "generated_at": "2026-07-14T15:16:23.277445"
+    },
+    {
+      "british": "panties",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-07-14T15:16:23.277447"
     }
   ],
-  "last_updated": "2026-07-14T11:26:54.528392"
+  "last_updated": "2026-07-14T15:16:23.277449"
 }
