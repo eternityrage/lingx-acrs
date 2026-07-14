@@ -1115,7 +1115,25 @@
       "american": "sidewalk",
       "category": "transport",
       "generated_at": "2026-07-14T08:19:14.194232"
+    },
+    {
+      "british": "nectarines",
+      "american": "peaches",
+      "category": "food and drink",
+      "generated_at": "2026-07-14T11:26:54.528382"
+    },
+    {
+      "british": "plum",
+      "american": "prune",
+      "category": "food and drink",
+      "generated_at": "2026-07-14T11:26:54.528389"
+    },
+    {
+      "british": "sherbet",
+      "american": "sorbet",
+      "category": "food and drink",
+      "generated_at": "2026-07-14T11:26:54.528390"
     }
   ],
-  "last_updated": "2026-07-14T08:19:14.194234"
+  "last_updated": "2026-07-14T11:26:54.528392"
 }
