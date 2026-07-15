@@ -1223,7 +1223,25 @@
       "american": "shortening",
       "category": "food and drink",
       "generated_at": "2026-07-15T11:37:32.539833"
+    },
+    {
+      "british": "polo-neck",
+      "american": "turtleneck",
+      "category": "clothing",
+      "generated_at": "2026-07-15T15:18:05.162940"
+    },
+    {
+      "british": "stockings",
+      "american": "nylons",
+      "category": "clothing",
+      "generated_at": "2026-07-15T15:18:05.162951"
+    },
+    {
+      "british": "lay-by",
+      "american": "pull-off",
+      "category": "transport",
+      "generated_at": "2026-07-15T15:18:05.162952"
     }
   ],
-  "last_updated": "2026-07-15T11:37:32.539835"
+  "last_updated": "2026-07-15T15:18:05.162953"
 }
