@@ -1187,7 +1187,25 @@
       "american": "leotard",
       "category": "clothing",
       "generated_at": "2026-07-15T04:38:02.224529"
+    },
+    {
+      "british": "sweets",
+      "american": "desserts",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T08:24:28.320688"
+    },
+    {
+      "british": "culottes",
+      "american": "skorts",
+      "category": "clothing",
+      "generated_at": "2026-07-15T08:24:28.320698"
+    },
+    {
+      "british": "pinafore",
+      "american": "smock",
+      "category": "clothing",
+      "generated_at": "2026-07-15T08:24:28.320699"
     }
   ],
-  "last_updated": "2026-07-15T04:38:02.224530"
+  "last_updated": "2026-07-15T08:24:28.320702"
 }
