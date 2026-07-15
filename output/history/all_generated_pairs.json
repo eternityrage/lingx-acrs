@@ -1169,7 +1169,25 @@
       "american": "shoulder",
       "category": "transport",
       "generated_at": "2026-07-14T19:23:00.332982"
+    },
+    {
+      "british": "whilst",
+      "american": "while",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T04:38:02.224518"
+    },
+    {
+      "british": "suet",
+      "american": "lard",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T04:38:02.224527"
+    },
+    {
+      "british": "bodysuit",
+      "american": "leotard",
+      "category": "clothing",
+      "generated_at": "2026-07-15T04:38:02.224529"
     }
   ],
-  "last_updated": "2026-07-14T19:23:00.332984"
+  "last_updated": "2026-07-15T04:38:02.224530"
 }
