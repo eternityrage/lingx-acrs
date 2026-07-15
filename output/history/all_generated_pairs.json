@@ -1205,7 +1205,25 @@
       "american": "smock",
       "category": "clothing",
       "generated_at": "2026-07-15T08:24:28.320699"
+    },
+    {
+      "british": "jelly",
+      "american": "Jell-O",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T11:37:32.539822"
+    },
+    {
+      "british": "toffees",
+      "american": "caramels",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T11:37:32.539831"
+    },
+    {
+      "british": "lard",
+      "american": "shortening",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T11:37:32.539833"
     }
   ],
-  "last_updated": "2026-07-15T08:24:28.320702"
+  "last_updated": "2026-07-15T11:37:32.539835"
 }
