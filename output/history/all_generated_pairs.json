@@ -1241,7 +1241,25 @@
       "american": "pull-off",
       "category": "transport",
       "generated_at": "2026-07-15T15:18:05.162952"
+    },
+    {
+      "british": "anorak",
+      "american": "windbreaker",
+      "category": "clothing",
+      "generated_at": "2026-07-15T19:14:06.625924"
+    },
+    {
+      "british": "jodhpurs",
+      "american": "breeches",
+      "category": "clothing",
+      "generated_at": "2026-07-15T19:14:06.625933"
+    },
+    {
+      "british": "railway",
+      "american": "railroad",
+      "category": "transport",
+      "generated_at": "2026-07-15T19:14:06.625935"
     }
   ],
-  "last_updated": "2026-07-15T15:18:05.162953"
+  "last_updated": "2026-07-15T19:14:06.625937"
 }
