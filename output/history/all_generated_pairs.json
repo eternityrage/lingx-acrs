@@ -1295,7 +1295,25 @@
       "american": "galoshes",
       "category": "clothing",
       "generated_at": "2026-07-16T08:23:45.772272"
+    },
+    {
+      "british": "bun",
+      "american": "roll",
+      "category": "food and drink",
+      "generated_at": "2026-07-16T11:41:59.246333"
+    },
+    {
+      "british": "slips",
+      "american": "camisole",
+      "category": "clothing",
+      "generated_at": "2026-07-16T11:41:59.246344"
+    },
+    {
+      "british": "culottes",
+      "american": "shorts",
+      "category": "clothing",
+      "generated_at": "2026-07-16T11:41:59.246346"
     }
   ],
-  "last_updated": "2026-07-16T08:23:45.772287"
+  "last_updated": "2026-07-16T11:41:59.246348"
 }
