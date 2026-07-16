@@ -1277,7 +1277,25 @@
       "american": "woolen",
       "category": "clothing",
       "generated_at": "2026-07-16T04:48:11.473677"
+    },
+    {
+      "british": "tinned",
+      "american": "canned",
+      "category": "food and drink",
+      "generated_at": "2026-07-16T08:23:45.772258"
+    },
+    {
+      "british": "porridge",
+      "american": "oatmeal",
+      "category": "food and drink",
+      "generated_at": "2026-07-16T08:23:45.772270"
+    },
+    {
+      "british": "goloshes",
+      "american": "galoshes",
+      "category": "clothing",
+      "generated_at": "2026-07-16T08:23:45.772272"
     }
   ],
-  "last_updated": "2026-07-16T04:48:11.473679"
+  "last_updated": "2026-07-16T08:23:45.772287"
 }
