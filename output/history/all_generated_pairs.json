@@ -1331,7 +1331,25 @@
       "american": "track",
       "category": "transport",
       "generated_at": "2026-07-16T15:25:17.382022"
+    },
+    {
+      "british": "grill",
+      "american": "broil",
+      "category": "food and drink",
+      "generated_at": "2026-07-16T19:14:22.213641"
+    },
+    {
+      "british": "footpath",
+      "american": "sidewalk",
+      "category": "transport",
+      "generated_at": "2026-07-16T19:14:22.213652"
+    },
+    {
+      "british": "diversion",
+      "american": "detour",
+      "category": "transport",
+      "generated_at": "2026-07-16T19:14:22.213653"
     }
   ],
-  "last_updated": "2026-07-16T15:25:17.382024"
+  "last_updated": "2026-07-16T19:14:22.213655"
 }
