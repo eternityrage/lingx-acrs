@@ -1313,7 +1313,25 @@
       "american": "shorts",
       "category": "clothing",
       "generated_at": "2026-07-16T11:41:59.246346"
+    },
+    {
+      "british": "overalls",
+      "american": "dungarees",
+      "category": "clothing",
+      "generated_at": "2026-07-16T15:25:17.382009"
+    },
+    {
+      "british": "carriageway",
+      "american": "roadway",
+      "category": "transport",
+      "generated_at": "2026-07-16T15:25:17.382020"
+    },
+    {
+      "british": "platform",
+      "american": "track",
+      "category": "transport",
+      "generated_at": "2026-07-16T15:25:17.382022"
     }
   ],
-  "last_updated": "2026-07-16T11:41:59.246348"
+  "last_updated": "2026-07-16T15:25:17.382024"
 }
