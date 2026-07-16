@@ -1259,7 +1259,25 @@
       "american": "railroad",
       "category": "transport",
       "generated_at": "2026-07-15T19:14:06.625935"
+    },
+    {
+      "british": "bill",
+      "american": "zipper",
+      "category": "clothing",
+      "generated_at": "2026-07-16T04:48:11.473667"
+    },
+    {
+      "british": "stockings",
+      "american": "hose",
+      "category": "clothing",
+      "generated_at": "2026-07-16T04:48:11.473676"
+    },
+    {
+      "british": "woollen",
+      "american": "woolen",
+      "category": "clothing",
+      "generated_at": "2026-07-16T04:48:11.473677"
     }
   ],
-  "last_updated": "2026-07-15T19:14:06.625937"
+  "last_updated": "2026-07-16T04:48:11.473679"
 }
