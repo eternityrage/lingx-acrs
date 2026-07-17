@@ -1385,7 +1385,25 @@
       "american": "pee",
       "category": "health",
       "generated_at": "2026-07-17T08:27:10.817290"
+    },
+    {
+      "british": "fresher",
+      "american": "refrigerator",
+      "category": "food and drink",
+      "generated_at": "2026-07-17T11:23:54.836797"
+    },
+    {
+      "british": "larder",
+      "american": "pantry",
+      "category": "food and drink",
+      "generated_at": "2026-07-17T11:23:54.836805"
+    },
+    {
+      "british": "nutty",
+      "american": "nutlike",
+      "category": "food and drink",
+      "generated_at": "2026-07-17T11:23:54.836807"
     }
   ],
-  "last_updated": "2026-07-17T08:27:10.817292"
+  "last_updated": "2026-07-17T11:23:54.836808"
 }
