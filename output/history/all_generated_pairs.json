@@ -1421,7 +1421,25 @@
       "american": "flavor",
       "category": "food and drink",
       "generated_at": "2026-07-17T15:06:04.208139"
+    },
+    {
+      "british": "custard",
+      "american": "pudding",
+      "category": "food and drink",
+      "generated_at": "2026-07-17T19:12:59.606300"
+    },
+    {
+      "british": "sweet",
+      "american": "dessert",
+      "category": "food and drink",
+      "generated_at": "2026-07-17T19:12:59.606311"
+    },
+    {
+      "british": "underpants",
+      "american": "underdrawers",
+      "category": "clothing",
+      "generated_at": "2026-07-17T19:12:59.606313"
     }
   ],
-  "last_updated": "2026-07-17T15:06:04.208141"
+  "last_updated": "2026-07-17T19:12:59.606315"
 }
