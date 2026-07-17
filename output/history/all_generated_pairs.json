@@ -1349,7 +1349,25 @@
       "american": "detour",
       "category": "transport",
       "generated_at": "2026-07-16T19:14:22.213653"
+    },
+    {
+      "british": "pinafore",
+      "american": "dress",
+      "category": "clothing",
+      "generated_at": "2026-07-17T04:56:03.745656"
+    },
+    {
+      "british": "bell-bottoms",
+      "american": "flares",
+      "category": "clothing",
+      "generated_at": "2026-07-17T04:56:03.745666"
+    },
+    {
+      "british": "flat",
+      "american": "apartment",
+      "category": "school",
+      "generated_at": "2026-07-17T04:56:03.745667"
     }
   ],
-  "last_updated": "2026-07-16T19:14:22.213655"
+  "last_updated": "2026-07-17T04:56:03.745669"
 }
