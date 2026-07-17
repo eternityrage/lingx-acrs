@@ -1367,7 +1367,25 @@
       "american": "apartment",
       "category": "school",
       "generated_at": "2026-07-17T04:56:03.745667"
+    },
+    {
+      "british": "jerkin",
+      "american": "vest",
+      "category": "clothing",
+      "generated_at": "2026-07-17T08:27:10.817279"
+    },
+    {
+      "british": "stomach",
+      "american": "abdomen",
+      "category": "health",
+      "generated_at": "2026-07-17T08:27:10.817289"
+    },
+    {
+      "british": "wee",
+      "american": "pee",
+      "category": "health",
+      "generated_at": "2026-07-17T08:27:10.817290"
     }
   ],
-  "last_updated": "2026-07-17T04:56:03.745669"
+  "last_updated": "2026-07-17T08:27:10.817292"
 }
