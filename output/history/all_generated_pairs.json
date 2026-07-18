@@ -1439,7 +1439,25 @@
       "american": "underdrawers",
       "category": "clothing",
       "generated_at": "2026-07-17T19:12:59.606313"
+    },
+    {
+      "british": "gaiter",
+      "american": "spat",
+      "category": "clothing",
+      "generated_at": "2026-07-18T04:36:00.199251"
+    },
+    {
+      "british": "panties",
+      "american": "knickers",
+      "category": "clothing",
+      "generated_at": "2026-07-18T04:36:00.199262"
+    },
+    {
+      "british": "slips",
+      "american": "petticoat",
+      "category": "clothing",
+      "generated_at": "2026-07-18T04:36:00.199264"
     }
   ],
-  "last_updated": "2026-07-17T19:12:59.606315"
+  "last_updated": "2026-07-18T04:36:00.199266"
 }
