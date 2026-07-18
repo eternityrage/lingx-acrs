@@ -1511,7 +1511,25 @@
       "american": "drugstore",
       "category": "transport",
       "generated_at": "2026-07-18T14:44:07.287922"
+    },
+    {
+      "british": "luggage",
+      "american": "baggage",
+      "category": "transport",
+      "generated_at": "2026-07-18T19:07:51.010046"
+    },
+    {
+      "british": "taxi",
+      "american": "cab",
+      "category": "transport",
+      "generated_at": "2026-07-18T19:07:51.010058"
+    },
+    {
+      "british": "flatmate",
+      "american": "roommate",
+      "category": "housing",
+      "generated_at": "2026-07-18T19:07:51.010060"
     }
   ],
-  "last_updated": "2026-07-18T14:44:07.287923"
+  "last_updated": "2026-07-18T19:07:51.010062"
 }
