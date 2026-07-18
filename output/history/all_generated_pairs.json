@@ -1457,7 +1457,25 @@
       "american": "petticoat",
       "category": "clothing",
       "generated_at": "2026-07-18T04:36:00.199264"
+    },
+    {
+      "british": "nettles",
+      "american": "spinach",
+      "category": "food and drink",
+      "generated_at": "2026-07-18T08:01:38.321436"
+    },
+    {
+      "british": "herring",
+      "american": "sardine",
+      "category": "food and drink",
+      "generated_at": "2026-07-18T08:01:38.321447"
+    },
+    {
+      "british": "chunky",
+      "american": "hearty",
+      "category": "food and drink",
+      "generated_at": "2026-07-18T08:01:38.321449"
     }
   ],
-  "last_updated": "2026-07-18T04:36:00.199266"
+  "last_updated": "2026-07-18T08:01:38.321451"
 }
