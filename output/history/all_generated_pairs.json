@@ -1493,7 +1493,25 @@
       "american": "semitruck",
       "category": "transport",
       "generated_at": "2026-07-18T11:06:28.134892"
+    },
+    {
+      "british": "skittles",
+      "american": "candies",
+      "category": "food and drink",
+      "generated_at": "2026-07-18T14:44:07.287912"
+    },
+    {
+      "british": "undies",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-07-18T14:44:07.287920"
+    },
+    {
+      "british": "chemist",
+      "american": "drugstore",
+      "category": "transport",
+      "generated_at": "2026-07-18T14:44:07.287922"
     }
   ],
-  "last_updated": "2026-07-18T11:06:28.134893"
+  "last_updated": "2026-07-18T14:44:07.287923"
 }
