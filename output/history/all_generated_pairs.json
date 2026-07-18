@@ -1475,7 +1475,25 @@
       "american": "hearty",
       "category": "food and drink",
       "generated_at": "2026-07-18T08:01:38.321449"
+    },
+    {
+      "british": "fagots",
+      "american": "meatballs",
+      "category": "food and drink",
+      "generated_at": "2026-07-18T11:06:28.134882"
+    },
+    {
+      "british": "jersey",
+      "american": "sweatshirt",
+      "category": "clothing",
+      "generated_at": "2026-07-18T11:06:28.134890"
+    },
+    {
+      "british": "juggernaut",
+      "american": "semitruck",
+      "category": "transport",
+      "generated_at": "2026-07-18T11:06:28.134892"
     }
   ],
-  "last_updated": "2026-07-18T08:01:38.321451"
+  "last_updated": "2026-07-18T11:06:28.134893"
 }
