@@ -1601,7 +1601,25 @@
       "american": "mac",
       "category": "clothing",
       "generated_at": "2026-07-19T14:46:36.160403"
+    },
+    {
+      "british": "line",
+      "american": "queue",
+      "category": "food and drink",
+      "generated_at": "2026-07-19T19:09:00.502631"
+    },
+    {
+      "british": "lolly",
+      "american": "popsicle",
+      "category": "food and drink",
+      "generated_at": "2026-07-19T19:09:00.502638"
+    },
+    {
+      "british": "fresher",
+      "american": "juice",
+      "category": "food and drink",
+      "generated_at": "2026-07-19T19:09:00.502640"
     }
   ],
-  "last_updated": "2026-07-19T14:46:36.160404"
+  "last_updated": "2026-07-19T19:09:00.502642"
 }
