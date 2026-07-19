@@ -1583,7 +1583,25 @@
       "american": "derby",
       "category": "clothing",
       "generated_at": "2026-07-19T11:09:59.415471"
+    },
+    {
+      "british": "pinafore",
+      "american": "overall",
+      "category": "clothing",
+      "generated_at": "2026-07-19T14:46:36.160389"
+    },
+    {
+      "british": "under-dress",
+      "american": "slip",
+      "category": "clothing",
+      "generated_at": "2026-07-19T14:46:36.160401"
+    },
+    {
+      "british": "raincoat",
+      "american": "mac",
+      "category": "clothing",
+      "generated_at": "2026-07-19T14:46:36.160403"
     }
   ],
-  "last_updated": "2026-07-19T11:09:59.415473"
+  "last_updated": "2026-07-19T14:46:36.160404"
 }
