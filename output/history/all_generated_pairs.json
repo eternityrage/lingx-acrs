@@ -1565,7 +1565,25 @@
       "american": "onesie",
       "category": "clothing",
       "generated_at": "2026-07-19T08:27:53.515037"
+    },
+    {
+      "british": "squash",
+      "american": "drink",
+      "category": "food and drink",
+      "generated_at": "2026-07-19T11:09:59.415461"
+    },
+    {
+      "british": "nettle",
+      "american": "spinach",
+      "category": "food and drink",
+      "generated_at": "2026-07-19T11:09:59.415470"
+    },
+    {
+      "british": "bowler",
+      "american": "derby",
+      "category": "clothing",
+      "generated_at": "2026-07-19T11:09:59.415471"
     }
   ],
-  "last_updated": "2026-07-19T08:27:53.515039"
+  "last_updated": "2026-07-19T11:09:59.415473"
 }
