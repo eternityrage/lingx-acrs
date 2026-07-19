@@ -1547,7 +1547,25 @@
       "american": "eggplants",
       "category": "food and drink",
       "generated_at": "2026-07-19T04:58:13.067179"
+    },
+    {
+      "british": "groundsel",
+      "american": "ragwort",
+      "category": "food and drink",
+      "generated_at": "2026-07-19T08:27:53.515024"
+    },
+    {
+      "british": "culottes",
+      "american": "skirt",
+      "category": "clothing",
+      "generated_at": "2026-07-19T08:27:53.515035"
+    },
+    {
+      "british": "rompers",
+      "american": "onesie",
+      "category": "clothing",
+      "generated_at": "2026-07-19T08:27:53.515037"
     }
   ],
-  "last_updated": "2026-07-19T04:58:13.067181"
+  "last_updated": "2026-07-19T08:27:53.515039"
 }
