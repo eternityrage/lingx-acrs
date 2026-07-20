@@ -1691,7 +1691,25 @@
       "american": "trash",
       "category": "workplace",
       "generated_at": "2026-07-20T15:47:13.357042"
+    },
+    {
+      "british": "punnet",
+      "american": "carton",
+      "category": "food and drink",
+      "generated_at": "2026-07-20T19:46:54.447844"
+    },
+    {
+      "british": "slip",
+      "american": "petticoat",
+      "category": "clothing",
+      "generated_at": "2026-07-20T19:46:54.447854"
+    },
+    {
+      "british": "barrow",
+      "american": "wheelbarrow",
+      "category": "transport",
+      "generated_at": "2026-07-20T19:46:54.447855"
     }
   ],
-  "last_updated": "2026-07-20T15:47:13.357044"
+  "last_updated": "2026-07-20T19:46:54.447857"
 }
