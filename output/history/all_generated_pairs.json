@@ -1619,7 +1619,25 @@
       "american": "juice",
       "category": "food and drink",
       "generated_at": "2026-07-19T19:09:00.502640"
+    },
+    {
+      "british": "drink",
+      "american": "soda",
+      "category": "food and drink",
+      "generated_at": "2026-07-20T05:26:42.770061"
+    },
+    {
+      "british": "motorway",
+      "american": "freeway",
+      "category": "transport",
+      "generated_at": "2026-07-20T05:26:42.770072"
+    },
+    {
+      "british": "breakdown",
+      "american": ")(",
+      "category": "transport",
+      "generated_at": "2026-07-20T05:26:42.770074"
     }
   ],
-  "last_updated": "2026-07-19T19:09:00.502642"
+  "last_updated": "2026-07-20T05:26:42.770076"
 }
