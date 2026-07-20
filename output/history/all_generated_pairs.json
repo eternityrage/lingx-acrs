@@ -1673,7 +1673,25 @@
       "american": "center",
       "category": "transport",
       "generated_at": "2026-07-20T12:18:52.134704"
+    },
+    {
+      "british": "handbag",
+      "american": "purse",
+      "category": "clothing",
+      "generated_at": "2026-07-20T15:47:13.357028"
+    },
+    {
+      "british": "bill",
+      "american": "check",
+      "category": "clothing",
+      "generated_at": "2026-07-20T15:47:13.357040"
+    },
+    {
+      "british": "rubbish",
+      "american": "trash",
+      "category": "workplace",
+      "generated_at": "2026-07-20T15:47:13.357042"
     }
   ],
-  "last_updated": "2026-07-20T12:18:52.134706"
+  "last_updated": "2026-07-20T15:47:13.357044"
 }
