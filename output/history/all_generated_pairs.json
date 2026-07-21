@@ -1781,7 +1781,25 @@
       "american": "Bermudas",
       "category": "clothing",
       "generated_at": "2026-07-21T15:29:33.281731"
+    },
+    {
+      "british": "bodice",
+      "american": "top",
+      "category": "clothing",
+      "generated_at": "2026-07-21T19:25:47.432493"
+    },
+    {
+      "british": "chinos",
+      "american": "khakis",
+      "category": "clothing",
+      "generated_at": "2026-07-21T19:25:47.432504"
+    },
+    {
+      "british": "omnibus",
+      "american": "bus",
+      "category": "transport",
+      "generated_at": "2026-07-21T19:25:47.432506"
     }
   ],
-  "last_updated": "2026-07-21T15:29:33.281733"
+  "last_updated": "2026-07-21T19:25:47.432508"
 }
