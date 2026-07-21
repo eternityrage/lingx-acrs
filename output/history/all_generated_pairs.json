@@ -1745,7 +1745,25 @@
       "american": "foyer",
       "category": "housing",
       "generated_at": "2026-07-21T08:38:56.075148"
+    },
+    {
+      "british": "herring",
+      "american": "kipper",
+      "category": "food and drink",
+      "generated_at": "2026-07-21T11:48:44.918172"
+    },
+    {
+      "british": "jersey",
+      "american": "t-shirt",
+      "category": "clothing",
+      "generated_at": "2026-07-21T11:48:44.918181"
+    },
+    {
+      "british": "slacks",
+      "american": "pants",
+      "category": "clothing",
+      "generated_at": "2026-07-21T11:48:44.918182"
     }
   ],
-  "last_updated": "2026-07-21T08:38:56.075150"
+  "last_updated": "2026-07-21T11:48:44.918184"
 }
