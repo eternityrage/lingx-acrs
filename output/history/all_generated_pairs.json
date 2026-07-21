@@ -1709,7 +1709,25 @@
       "american": "wheelbarrow",
       "category": "transport",
       "generated_at": "2026-07-20T19:46:54.447855"
+    },
+    {
+      "british": "sweets",
+      "american": "pudding",
+      "category": "food and drink",
+      "generated_at": "2026-07-21T04:56:05.946128"
+    },
+    {
+      "british": "sweets",
+      "american": "pastry",
+      "category": "food and drink",
+      "generated_at": "2026-07-21T04:56:05.946150"
+    },
+    {
+      "british": "sweets",
+      "american": "pie",
+      "category": "food and drink",
+      "generated_at": "2026-07-21T04:56:05.946152"
     }
   ],
-  "last_updated": "2026-07-20T19:46:54.447857"
+  "last_updated": "2026-07-21T04:56:05.946154"
 }
