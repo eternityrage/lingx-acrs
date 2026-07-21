@@ -1763,7 +1763,25 @@
       "american": "pants",
       "category": "clothing",
       "generated_at": "2026-07-21T11:48:44.918182"
+    },
+    {
+      "british": "galoshes",
+      "american": "overshoes",
+      "category": "clothing",
+      "generated_at": "2026-07-21T15:29:33.281709"
+    },
+    {
+      "british": "top",
+      "american": "shirt",
+      "category": "clothing",
+      "generated_at": "2026-07-21T15:29:33.281730"
+    },
+    {
+      "british": "shorts",
+      "american": "Bermudas",
+      "category": "clothing",
+      "generated_at": "2026-07-21T15:29:33.281731"
     }
   ],
-  "last_updated": "2026-07-21T11:48:44.918184"
+  "last_updated": "2026-07-21T15:29:33.281733"
 }
