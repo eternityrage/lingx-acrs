@@ -1727,7 +1727,25 @@
       "american": "pie",
       "category": "food and drink",
       "generated_at": "2026-07-21T04:56:05.946152"
+    },
+    {
+      "british": "garden",
+      "american": "yard",
+      "category": "housing",
+      "generated_at": "2026-07-21T08:38:56.075137"
+    },
+    {
+      "british": "cupboard",
+      "american": "closet",
+      "category": "housing",
+      "generated_at": "2026-07-21T08:38:56.075146"
+    },
+    {
+      "british": "hall",
+      "american": "foyer",
+      "category": "housing",
+      "generated_at": "2026-07-21T08:38:56.075148"
     }
   ],
-  "last_updated": "2026-07-21T04:56:05.946154"
+  "last_updated": "2026-07-21T08:38:56.075150"
 }
