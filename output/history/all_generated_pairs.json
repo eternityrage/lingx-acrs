@@ -1835,7 +1835,25 @@
       "american": "armor",
       "category": "clothing",
       "generated_at": "2026-07-22T04:56:11.052413"
+    },
+    {
+      "british": "well-fitting",
+      "american": "fitted",
+      "category": "clothing",
+      "generated_at": "2026-07-22T08:37:36.741582"
+    },
+    {
+      "british": "post",
+      "american": "mail",
+      "category": "transport",
+      "generated_at": "2026-07-22T08:37:36.741593"
+    },
+    {
+      "british": "torch",
+      "american": "flashlight",
+      "category": "housing",
+      "generated_at": "2026-07-22T08:37:36.741595"
     }
   ],
-  "last_updated": "2026-07-22T04:56:11.052415"
+  "last_updated": "2026-07-22T08:37:36.741597"
 }
