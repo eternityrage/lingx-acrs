@@ -1853,7 +1853,25 @@
       "american": "flashlight",
       "category": "housing",
       "generated_at": "2026-07-22T08:37:36.741595"
+    },
+    {
+      "british": "apron",
+      "american": "smock",
+      "category": "clothing",
+      "generated_at": "2026-07-22T11:49:29.716947"
+    },
+    {
+      "british": "winding",
+      "american": "curvy",
+      "category": "transport",
+      "generated_at": "2026-07-22T11:49:29.716957"
+    },
+    {
+      "british": "motorcycle",
+      "american": "bike",
+      "category": "transport",
+      "generated_at": "2026-07-22T11:49:29.716959"
     }
   ],
-  "last_updated": "2026-07-22T08:37:36.741597"
+  "last_updated": "2026-07-22T11:49:29.716960"
 }
