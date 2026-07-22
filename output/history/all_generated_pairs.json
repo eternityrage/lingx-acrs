@@ -1871,7 +1871,25 @@
       "american": "bike",
       "category": "transport",
       "generated_at": "2026-07-22T11:49:29.716959"
+    },
+    {
+      "british": "tights",
+      "american": "pantyhose",
+      "category": "clothing",
+      "generated_at": "2026-07-22T15:26:01.652977"
+    },
+    {
+      "british": "juggernaut",
+      "american": "tanker",
+      "category": "transport",
+      "generated_at": "2026-07-22T15:26:01.652989"
+    },
+    {
+      "british": "terrace",
+      "american": "townhouse",
+      "category": "housing",
+      "generated_at": "2026-07-22T15:26:01.652991"
     }
   ],
-  "last_updated": "2026-07-22T11:49:29.716960"
+  "last_updated": "2026-07-22T15:26:01.652993"
 }
