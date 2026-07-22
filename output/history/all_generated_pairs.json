@@ -1817,7 +1817,25 @@
       "american": "})(\n",
       "category": "transport",
       "generated_at": "2026-07-22T03:15:13.701512"
+    },
+    {
+      "british": "coke",
+      "american": "soda",
+      "category": "food and drink",
+      "generated_at": "2026-07-22T04:56:11.052401"
+    },
+    {
+      "british": "digestives",
+      "american": "cookies",
+      "category": "food and drink",
+      "generated_at": "2026-07-22T04:56:11.052412"
+    },
+    {
+      "british": "armour",
+      "american": "armor",
+      "category": "clothing",
+      "generated_at": "2026-07-22T04:56:11.052413"
     }
   ],
-  "last_updated": "2026-07-22T03:15:13.701514"
+  "last_updated": "2026-07-22T04:56:11.052415"
 }
