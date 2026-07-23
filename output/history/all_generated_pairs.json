@@ -1979,7 +1979,25 @@
       "american": "sneaker",
       "category": "workplace",
       "generated_at": "2026-07-23T11:54:45.610963"
+    },
+    {
+      "british": "syrup",
+      "american": "molasses",
+      "category": "food and drink",
+      "generated_at": "2026-07-23T12:18:31.846516"
+    },
+    {
+      "british": "vinegar",
+      "american": "cider",
+      "category": "food and drink",
+      "generated_at": "2026-07-23T12:18:31.846527"
+    },
+    {
+      "british": "track",
+      "american": "railroad",
+      "category": "transport",
+      "generated_at": "2026-07-23T12:18:31.846529"
     }
   ],
-  "last_updated": "2026-07-23T11:54:45.610965"
+  "last_updated": "2026-07-23T12:18:31.846531"
 }
