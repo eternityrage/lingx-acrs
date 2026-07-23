@@ -2033,7 +2033,25 @@
       "american": "math",
       "category": "school",
       "generated_at": "2026-07-23T13:37:05.372529"
+    },
+    {
+      "british": "parsnip",
+      "american": "parsley",
+      "category": "food and drink",
+      "generated_at": "2026-07-23T16:26:12.093797"
+    },
+    {
+      "british": "mug",
+      "american": "cup",
+      "category": "food and drink",
+      "generated_at": "2026-07-23T16:26:12.093806"
+    },
+    {
+      "british": "blackcurrant",
+      "american": "blackberry",
+      "category": "food and drink",
+      "generated_at": "2026-07-23T16:26:12.093808"
     }
   ],
-  "last_updated": "2026-07-23T13:37:05.372531"
+  "last_updated": "2026-07-23T16:26:12.093824"
 }
