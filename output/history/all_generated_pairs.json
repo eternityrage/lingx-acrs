@@ -1943,7 +1943,25 @@
       "american": "underskirt",
       "category": "clothing",
       "generated_at": "2026-07-23T08:39:24.585223"
+    },
+    {
+      "british": "golosh",
+      "american": "galosh",
+      "category": "clothing",
+      "generated_at": "2026-07-23T10:34:38.566558"
+    },
+    {
+      "british": "pedestrian",
+      "american": "walker",
+      "category": "transport",
+      "generated_at": "2026-07-23T10:34:38.566568"
+    },
+    {
+      "british": "car",
+      "american": "automobile",
+      "category": "transport",
+      "generated_at": "2026-07-23T10:34:38.566569"
     }
   ],
-  "last_updated": "2026-07-23T08:39:24.585224"
+  "last_updated": "2026-07-23T10:34:38.566571"
 }
