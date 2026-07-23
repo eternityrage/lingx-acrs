@@ -1961,7 +1961,25 @@
       "american": "automobile",
       "category": "transport",
       "generated_at": "2026-07-23T10:34:38.566569"
+    },
+    {
+      "british": "programme",
+      "american": "program",
+      "category": "transport",
+      "generated_at": "2026-07-23T11:54:45.610949"
+    },
+    {
+      "british": "aeroplane",
+      "american": "airplane",
+      "category": "transport",
+      "generated_at": "2026-07-23T11:54:45.610961"
+    },
+    {
+      "british": "trainer",
+      "american": "sneaker",
+      "category": "workplace",
+      "generated_at": "2026-07-23T11:54:45.610963"
     }
   ],
-  "last_updated": "2026-07-23T10:34:38.566571"
+  "last_updated": "2026-07-23T11:54:45.610965"
 }
