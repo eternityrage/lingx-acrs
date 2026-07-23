@@ -1907,7 +1907,25 @@
       "american": "checkered",
       "category": "transport",
       "generated_at": "2026-07-22T19:23:27.658916"
+    },
+    {
+      "british": "bacon",
+      "american": "rashers",
+      "category": "food and drink",
+      "generated_at": "2026-07-23T05:02:53.081322"
+    },
+    {
+      "british": "parsley",
+      "american": "celery",
+      "category": "food and drink",
+      "generated_at": "2026-07-23T05:02:53.081329"
+    },
+    {
+      "british": "peppermint",
+      "american": "mint",
+      "category": "food and drink",
+      "generated_at": "2026-07-23T05:02:53.081331"
     }
   ],
-  "last_updated": "2026-07-22T19:23:27.658918"
+  "last_updated": "2026-07-23T05:02:53.081333"
 }
