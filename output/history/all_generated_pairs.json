@@ -1997,7 +1997,25 @@
       "american": "railroad",
       "category": "transport",
       "generated_at": "2026-07-23T12:18:31.846529"
+    },
+    {
+      "british": "juice",
+      "american": "nectar",
+      "category": "food and drink",
+      "generated_at": "2026-07-23T13:30:30.996450"
+    },
+    {
+      "british": "caravan",
+      "american": "camper",
+      "category": "transport",
+      "generated_at": "2026-07-23T13:30:30.996461"
+    },
+    {
+      "british": "cinema",
+      "american": "movies",
+      "category": "housing",
+      "generated_at": "2026-07-23T13:30:30.996463"
     }
   ],
-  "last_updated": "2026-07-23T12:18:31.846531"
+  "last_updated": "2026-07-23T13:30:30.996465"
 }
