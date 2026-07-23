@@ -2015,7 +2015,25 @@
       "american": "movies",
       "category": "housing",
       "generated_at": "2026-07-23T13:30:30.996463"
+    },
+    {
+      "british": "holidays",
+      "american": "vacation",
+      "category": "school",
+      "generated_at": "2026-07-23T13:37:05.372518"
+    },
+    {
+      "british": "telly",
+      "american": "TV",
+      "category": "school",
+      "generated_at": "2026-07-23T13:37:05.372527"
+    },
+    {
+      "british": "maths",
+      "american": "math",
+      "category": "school",
+      "generated_at": "2026-07-23T13:37:05.372529"
     }
   ],
-  "last_updated": "2026-07-23T13:30:30.996465"
+  "last_updated": "2026-07-23T13:37:05.372531"
 }
