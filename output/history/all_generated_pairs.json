@@ -2051,7 +2051,25 @@
       "american": "blackberry",
       "category": "food and drink",
       "generated_at": "2026-07-23T16:26:12.093808"
+    },
+    {
+      "british": "rail",
+      "american": "track",
+      "category": "transport",
+      "generated_at": "2026-07-23T19:21:08.549130"
+    },
+    {
+      "british": "junction",
+      "american": "intersection",
+      "category": "transport",
+      "generated_at": "2026-07-23T19:21:08.549141"
+    },
+    {
+      "british": "conservatory",
+      "american": "sunroom",
+      "category": "housing",
+      "generated_at": "2026-07-23T19:21:08.549142"
     }
   ],
-  "last_updated": "2026-07-23T16:26:12.093824"
+  "last_updated": "2026-07-23T19:21:08.549144"
 }
