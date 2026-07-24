@@ -2105,7 +2105,25 @@
       "american": "catalog",
       "category": "transport",
       "generated_at": "2026-07-24T04:57:34.995623"
+    },
+    {
+      "british": "chuddies",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-07-24T07:17:21.835900"
+    },
+    {
+      "british": "culottes",
+      "american": "gauchos",
+      "category": "clothing",
+      "generated_at": "2026-07-24T07:17:21.835911"
+    },
+    {
+      "british": "tram",
+      "american": "streetcar",
+      "category": "transport",
+      "generated_at": "2026-07-24T07:17:21.835913"
     }
   ],
-  "last_updated": "2026-07-24T04:57:34.995625"
+  "last_updated": "2026-07-24T07:17:21.835915"
 }
