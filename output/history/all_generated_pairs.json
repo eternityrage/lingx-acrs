@@ -2123,7 +2123,25 @@
       "american": "streetcar",
       "category": "transport",
       "generated_at": "2026-07-24T07:17:21.835913"
+    },
+    {
+      "british": "yoghurt",
+      "american": "yogurt",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T07:42:41.511847"
+    },
+    {
+      "british": "singlet",
+      "american": "undershirt",
+      "category": "clothing",
+      "generated_at": "2026-07-24T07:42:41.511857"
+    },
+    {
+      "british": "bodice",
+      "american": "corset",
+      "category": "clothing",
+      "generated_at": "2026-07-24T07:42:41.511858"
     }
   ],
-  "last_updated": "2026-07-24T07:17:21.835915"
+  "last_updated": "2026-07-24T07:42:41.511859"
 }
