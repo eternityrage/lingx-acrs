@@ -2195,7 +2195,25 @@
       "american": "overalls",
       "category": "clothing",
       "generated_at": "2026-07-24T11:44:47.082752"
+    },
+    {
+      "british": "candice",
+      "american": "candy",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T15:20:38.307321"
+    },
+    {
+      "british": "rubbish",
+      "american": "garbage",
+      "category": "workplace",
+      "generated_at": "2026-07-24T15:20:38.307330"
+    },
+    {
+      "british": "holiday",
+      "american": "vacation",
+      "category": "workplace",
+      "generated_at": "2026-07-24T15:20:38.307332"
     }
   ],
-  "last_updated": "2026-07-24T11:44:47.082754"
+  "last_updated": "2026-07-24T15:20:38.307334"
 }
