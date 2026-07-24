@@ -2213,7 +2213,25 @@
       "american": "vacation",
       "category": "workplace",
       "generated_at": "2026-07-24T15:20:38.307332"
+    },
+    {
+      "british": "dessert",
+      "american": "pudding",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T17:18:25.753891"
+    },
+    {
+      "british": "juice",
+      "american": "soda",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T17:18:25.753899"
+    },
+    {
+      "british": "marmalade",
+      "american": "jelly",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T17:18:25.753900"
     }
   ],
-  "last_updated": "2026-07-24T15:20:38.307334"
+  "last_updated": "2026-07-24T17:18:25.753902"
 }
