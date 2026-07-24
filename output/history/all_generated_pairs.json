@@ -2159,7 +2159,25 @@
       "american": "rasher",
       "category": "food and drink",
       "generated_at": "2026-07-24T08:35:21.222057"
+    },
+    {
+      "british": "chemise",
+      "american": "nightgown",
+      "category": "clothing",
+      "generated_at": "2026-07-24T10:09:40.058268"
+    },
+    {
+      "british": "spats",
+      "american": "gaiters",
+      "category": "clothing",
+      "generated_at": "2026-07-24T10:09:40.058277"
+    },
+    {
+      "british": "roadside",
+      "american": "shoulder",
+      "category": "transport",
+      "generated_at": "2026-07-24T10:09:40.058279"
     }
   ],
-  "last_updated": "2026-07-24T08:35:21.222059"
+  "last_updated": "2026-07-24T10:09:40.058281"
 }
