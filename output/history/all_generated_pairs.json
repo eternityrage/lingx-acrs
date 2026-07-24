@@ -2177,7 +2177,25 @@
       "american": "shoulder",
       "category": "transport",
       "generated_at": "2026-07-24T10:09:40.058279"
+    },
+    {
+      "british": "sweets",
+      "american": "pastries",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T11:44:47.082742"
+    },
+    {
+      "british": "holsters",
+      "american": "harness",
+      "category": "clothing",
+      "generated_at": "2026-07-24T11:44:47.082750"
+    },
+    {
+      "british": "rompers",
+      "american": "overalls",
+      "category": "clothing",
+      "generated_at": "2026-07-24T11:44:47.082752"
     }
   ],
-  "last_updated": "2026-07-24T10:09:40.058281"
+  "last_updated": "2026-07-24T11:44:47.082754"
 }
