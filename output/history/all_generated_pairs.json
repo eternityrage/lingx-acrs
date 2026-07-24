@@ -2087,7 +2087,25 @@
       "american": "beer",
       "category": "food and drink",
       "generated_at": "2026-07-24T00:15:20.942728"
+    },
+    {
+      "british": "boil",
+      "american": "simmer",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T04:57:34.995613"
+    },
+    {
+      "british": "roundabout",
+      "american": "circle",
+      "category": "transport",
+      "generated_at": "2026-07-24T04:57:34.995622"
+    },
+    {
+      "british": "catalogue",
+      "american": "catalog",
+      "category": "transport",
+      "generated_at": "2026-07-24T04:57:34.995623"
     }
   ],
-  "last_updated": "2026-07-24T00:15:20.942730"
+  "last_updated": "2026-07-24T04:57:34.995625"
 }
