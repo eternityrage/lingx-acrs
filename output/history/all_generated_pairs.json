@@ -2141,7 +2141,25 @@
       "american": "corset",
       "category": "clothing",
       "generated_at": "2026-07-24T07:42:41.511858"
+    },
+    {
+      "british": "muffin",
+      "american": "biscuit",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T08:35:21.222046"
+    },
+    {
+      "british": "gravy",
+      "american": "sauce",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T08:35:21.222055"
+    },
+    {
+      "british": "bacon",
+      "american": "rasher",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T08:35:21.222057"
     }
   ],
-  "last_updated": "2026-07-24T07:42:41.511859"
+  "last_updated": "2026-07-24T08:35:21.222059"
 }
