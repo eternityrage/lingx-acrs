@@ -2069,7 +2069,25 @@
       "american": "sunroom",
       "category": "housing",
       "generated_at": "2026-07-23T19:21:08.549142"
+    },
+    {
+      "british": "herbs",
+      "american": "herbage",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T00:15:20.942719"
+    },
+    {
+      "british": "draught",
+      "american": "draft",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T00:15:20.942727"
+    },
+    {
+      "british": "draught",
+      "american": "beer",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T00:15:20.942728"
     }
   ],
-  "last_updated": "2026-07-23T19:21:08.549144"
+  "last_updated": "2026-07-24T00:15:20.942730"
 }
