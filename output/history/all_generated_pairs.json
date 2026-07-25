@@ -2249,7 +2249,25 @@
       "american": "windbreaker",
       "category": "clothing",
       "generated_at": "2026-07-25T11:12:52.990619"
+    },
+    {
+      "british": "floury",
+      "american": "powdery",
+      "category": "food and drink",
+      "generated_at": "2026-07-25T14:54:58.069828"
+    },
+    {
+      "british": "holly",
+      "american": "stockings",
+      "category": "clothing",
+      "generated_at": "2026-07-25T14:54:58.069835"
+    },
+    {
+      "british": "track",
+      "american": "route",
+      "category": "transport",
+      "generated_at": "2026-07-25T14:54:58.069836"
     }
   ],
-  "last_updated": "2026-07-25T11:12:52.990620"
+  "last_updated": "2026-07-25T14:54:58.069839"
 }
