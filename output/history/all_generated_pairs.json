@@ -2231,7 +2231,25 @@
       "american": "jelly",
       "category": "food and drink",
       "generated_at": "2026-07-24T17:18:25.753900"
+    },
+    {
+      "british": "mash",
+      "american": "purée",
+      "category": "food and drink",
+      "generated_at": "2026-07-25T11:12:52.990608"
+    },
+    {
+      "british": "flannel",
+      "american": "pajamas",
+      "category": "clothing",
+      "generated_at": "2026-07-25T11:12:52.990618"
+    },
+    {
+      "british": "windcheater",
+      "american": "windbreaker",
+      "category": "clothing",
+      "generated_at": "2026-07-25T11:12:52.990619"
     }
   ],
-  "last_updated": "2026-07-24T17:18:25.753902"
+  "last_updated": "2026-07-25T11:12:52.990620"
 }
