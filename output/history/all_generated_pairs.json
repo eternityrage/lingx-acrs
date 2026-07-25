@@ -2267,7 +2267,25 @@
       "american": "route",
       "category": "transport",
       "generated_at": "2026-07-25T14:54:58.069836"
+    },
+    {
+      "british": "blackcurrant",
+      "american": "loganberry",
+      "category": "food and drink",
+      "generated_at": "2026-07-25T19:10:10.970234"
+    },
+    {
+      "british": "roundabout",
+      "american": "rotary",
+      "category": "transport",
+      "generated_at": "2026-07-25T19:10:10.970244"
+    },
+    {
+      "british": "bumpy",
+      "american": "rough",
+      "category": "transport",
+      "generated_at": "2026-07-25T19:10:10.970245"
     }
   ],
-  "last_updated": "2026-07-25T14:54:58.069839"
+  "last_updated": "2026-07-25T19:10:10.970247"
 }
