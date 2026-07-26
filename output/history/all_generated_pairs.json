@@ -2285,7 +2285,25 @@
       "american": "rough",
       "category": "transport",
       "generated_at": "2026-07-25T19:10:10.970245"
+    },
+    {
+      "british": "fag",
+      "american": "cigarette",
+      "category": "food and drink",
+      "generated_at": "2026-07-26T05:18:49.051051"
+    },
+    {
+      "british": "carriage",
+      "american": "car",
+      "category": "transport",
+      "generated_at": "2026-07-26T05:18:49.051062"
+    },
+    {
+      "british": "terrace",
+      "american": "patio",
+      "category": "housing",
+      "generated_at": "2026-07-26T05:18:49.051064"
     }
   ],
-  "last_updated": "2026-07-25T19:10:10.970247"
+  "last_updated": "2026-07-26T05:18:49.051066"
 }
