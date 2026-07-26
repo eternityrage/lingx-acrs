@@ -2303,7 +2303,25 @@
       "american": "patio",
       "category": "housing",
       "generated_at": "2026-07-26T05:18:49.051064"
+    },
+    {
+      "british": "fuel",
+      "american": "gas",
+      "category": "transport",
+      "generated_at": "2026-07-26T08:35:21.558927"
+    },
+    {
+      "british": "gearbox",
+      "american": "transmission",
+      "category": "transport",
+      "generated_at": "2026-07-26T08:35:21.558935"
+    },
+    {
+      "british": "MOT",
+      "american": "inspection",
+      "category": "transport",
+      "generated_at": "2026-07-26T08:35:21.558937"
     }
   ],
-  "last_updated": "2026-07-26T05:18:49.051066"
+  "last_updated": "2026-07-26T08:35:21.558939"
 }
