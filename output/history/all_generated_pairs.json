@@ -2321,7 +2321,25 @@
       "american": "inspection",
       "category": "transport",
       "generated_at": "2026-07-26T08:35:21.558937"
+    },
+    {
+      "british": "jumper/pullover",
+      "american": "sweater",
+      "category": "clothing",
+      "generated_at": "2026-07-26T11:22:31.617254"
+    },
+    {
+      "british": "undies",
+      "american": "panties/underwear",
+      "category": "clothing",
+      "generated_at": "2026-07-26T11:22:31.617263"
+    },
+    {
+      "british": "balcony",
+      "american": "porch",
+      "category": "housing",
+      "generated_at": "2026-07-26T11:22:31.617264"
     }
   ],
-  "last_updated": "2026-07-26T08:35:21.558939"
+  "last_updated": "2026-07-26T11:22:31.617266"
 }
