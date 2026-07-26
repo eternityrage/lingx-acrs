@@ -2357,7 +2357,25 @@
       "american": "pullover",
       "category": "clothing",
       "generated_at": "2026-07-26T14:56:31.047288"
+    },
+    {
+      "british": "soda",
+      "american": "pop",
+      "category": "food and drink",
+      "generated_at": "2026-07-26T19:13:33.270962"
+    },
+    {
+      "british": "gymslip",
+      "american": "skirt",
+      "category": "clothing",
+      "generated_at": "2026-07-26T19:13:33.270972"
+    },
+    {
+      "british": "bib",
+      "american": "babysuit",
+      "category": "clothing",
+      "generated_at": "2026-07-26T19:13:33.270973"
     }
   ],
-  "last_updated": "2026-07-26T14:56:31.047290"
+  "last_updated": "2026-07-26T19:13:33.270976"
 }
