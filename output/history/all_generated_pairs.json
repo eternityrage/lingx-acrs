@@ -2339,7 +2339,25 @@
       "american": "porch",
       "category": "housing",
       "generated_at": "2026-07-26T11:22:31.617264"
+    },
+    {
+      "british": "brew",
+      "american": "coffee",
+      "category": "food and drink",
+      "generated_at": "2026-07-26T14:56:31.047277"
+    },
+    {
+      "british": "overalls",
+      "american": "rompers",
+      "category": "clothing",
+      "generated_at": "2026-07-26T14:56:31.047287"
+    },
+    {
+      "british": "cardigan",
+      "american": "pullover",
+      "category": "clothing",
+      "generated_at": "2026-07-26T14:56:31.047288"
     }
   ],
-  "last_updated": "2026-07-26T11:22:31.617266"
+  "last_updated": "2026-07-26T14:56:31.047290"
 }
