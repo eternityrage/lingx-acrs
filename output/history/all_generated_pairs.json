@@ -2411,7 +2411,25 @@
       "american": "interstate",
       "category": "transport",
       "generated_at": "2026-07-27T10:02:06.966715"
+    },
+    {
+      "british": "breakdown",
+      "american": "<bos>",
+      "category": "transport",
+      "generated_at": "2026-07-27T12:56:49.133085"
+    },
+    {
+      "british": "film",
+      "american": "movie",
+      "category": "workplace",
+      "generated_at": "2026-07-27T12:56:49.133096"
+    },
+    {
+      "british": "trolley",
+      "american": "cart",
+      "category": "school",
+      "generated_at": "2026-07-27T12:56:49.133097"
     }
   ],
-  "last_updated": "2026-07-27T10:02:06.966717"
+  "last_updated": "2026-07-27T12:56:49.133099"
 }
