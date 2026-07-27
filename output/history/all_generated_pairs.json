@@ -2429,7 +2429,25 @@
       "american": "cart",
       "category": "school",
       "generated_at": "2026-07-27T12:56:49.133097"
+    },
+    {
+      "british": "vinegar",
+      "american": "dressing",
+      "category": "food and drink",
+      "generated_at": "2026-07-27T16:07:39.065888"
+    },
+    {
+      "british": "crash",
+      "american": "accident",
+      "category": "transport",
+      "generated_at": "2026-07-27T16:07:39.065898"
+    },
+    {
+      "british": "junction",
+      "american": "interchange",
+      "category": "transport",
+      "generated_at": "2026-07-27T16:07:39.065900"
     }
   ],
-  "last_updated": "2026-07-27T12:56:49.133099"
+  "last_updated": "2026-07-27T16:07:39.065902"
 }
