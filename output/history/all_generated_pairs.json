@@ -2375,7 +2375,25 @@
       "american": "babysuit",
       "category": "clothing",
       "generated_at": "2026-07-26T19:13:33.270973"
+    },
+    {
+      "british": "pram",
+      "american": "stroller",
+      "category": "workplace",
+      "generated_at": "2026-07-27T05:44:04.462297"
+    },
+    {
+      "british": "anaesthetic",
+      "american": "anesthetic",
+      "category": "health",
+      "generated_at": "2026-07-27T05:44:04.462306"
+    },
+    {
+      "british": "baccy",
+      "american": "tobacco",
+      "category": "health",
+      "generated_at": "2026-07-27T05:44:04.462307"
     }
   ],
-  "last_updated": "2026-07-26T19:13:33.270976"
+  "last_updated": "2026-07-27T05:44:04.462309"
 }
