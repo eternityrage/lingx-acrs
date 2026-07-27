@@ -2393,7 +2393,25 @@
       "american": "tobacco",
       "category": "health",
       "generated_at": "2026-07-27T05:44:04.462307"
+    },
+    {
+      "british": "gaiter",
+      "american": "spats",
+      "category": "clothing",
+      "generated_at": "2026-07-27T10:02:06.966705"
+    },
+    {
+      "british": "costume",
+      "american": "outfit",
+      "category": "clothing",
+      "generated_at": "2026-07-27T10:02:06.966713"
+    },
+    {
+      "british": "motorway",
+      "american": "interstate",
+      "category": "transport",
+      "generated_at": "2026-07-27T10:02:06.966715"
     }
   ],
-  "last_updated": "2026-07-27T05:44:04.462309"
+  "last_updated": "2026-07-27T10:02:06.966717"
 }
