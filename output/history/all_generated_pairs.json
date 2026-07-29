@@ -2465,7 +2465,25 @@
       "american": "lingerie",
       "category": "clothing",
       "generated_at": "2026-07-29T04:56:44.233816"
+    },
+    {
+      "british": "slips",
+      "american": "cami",
+      "category": "clothing",
+      "generated_at": "2026-07-29T08:49:53.031700"
+    },
+    {
+      "british": "gilet",
+      "american": "bodywarmer",
+      "category": "clothing",
+      "generated_at": "2026-07-29T08:49:53.031713"
+    },
+    {
+      "british": "subway",
+      "american": "underpass",
+      "category": "transport",
+      "generated_at": "2026-07-29T08:49:53.031714"
     }
   ],
-  "last_updated": "2026-07-29T04:56:44.233818"
+  "last_updated": "2026-07-29T08:49:53.031716"
 }
