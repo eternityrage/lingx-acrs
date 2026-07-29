@@ -2519,7 +2519,25 @@
       "american": "restroom",
       "category": "housing",
       "generated_at": "2026-07-29T15:44:27.990630"
+    },
+    {
+      "british": "underpants",
+      "american": "underweares",
+      "category": "clothing",
+      "generated_at": "2026-07-29T19:19:12.568969"
+    },
+    {
+      "british": "keks",
+      "american": "pants",
+      "category": "clothing",
+      "generated_at": "2026-07-29T19:19:12.568978"
+    },
+    {
+      "british": "leotard",
+      "american": "bodysuit",
+      "category": "clothing",
+      "generated_at": "2026-07-29T19:19:12.568980"
     }
   ],
-  "last_updated": "2026-07-29T15:44:27.990632"
+  "last_updated": "2026-07-29T19:19:12.568981"
 }
