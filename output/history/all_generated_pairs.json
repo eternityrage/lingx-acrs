@@ -2483,7 +2483,25 @@
       "american": "underpass",
       "category": "transport",
       "generated_at": "2026-07-29T08:49:53.031714"
+    },
+    {
+      "british": "fleeced",
+      "american": "fleece",
+      "category": "clothing",
+      "generated_at": "2026-07-29T12:03:20.541919"
+    },
+    {
+      "british": "slip",
+      "american": "camisole",
+      "category": "clothing",
+      "generated_at": "2026-07-29T12:03:20.541929"
+    },
+    {
+      "british": "maisonette",
+      "american": "duplex",
+      "category": "housing",
+      "generated_at": "2026-07-29T12:03:20.541930"
     }
   ],
-  "last_updated": "2026-07-29T08:49:53.031716"
+  "last_updated": "2026-07-29T12:03:20.541932"
 }
