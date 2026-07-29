@@ -2447,7 +2447,25 @@
       "american": "interchange",
       "category": "transport",
       "generated_at": "2026-07-27T16:07:39.065900"
+    },
+    {
+      "british": "chilled",
+      "american": "refrigerated",
+      "category": "food and drink",
+      "generated_at": "2026-07-29T04:56:44.233805"
+    },
+    {
+      "british": "top",
+      "american": "blouse",
+      "category": "clothing",
+      "generated_at": "2026-07-29T04:56:44.233815"
+    },
+    {
+      "british": "underwear",
+      "american": "lingerie",
+      "category": "clothing",
+      "generated_at": "2026-07-29T04:56:44.233816"
     }
   ],
-  "last_updated": "2026-07-27T16:07:39.065902"
+  "last_updated": "2026-07-29T04:56:44.233818"
 }
