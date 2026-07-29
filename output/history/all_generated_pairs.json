@@ -2501,7 +2501,25 @@
       "american": "duplex",
       "category": "housing",
       "generated_at": "2026-07-29T12:03:20.541930"
+    },
+    {
+      "british": "mushy",
+      "american": "mashed",
+      "category": "food and drink",
+      "generated_at": "2026-07-29T15:44:27.990617"
+    },
+    {
+      "british": "spring",
+      "american": "scallion",
+      "category": "food and drink",
+      "generated_at": "2026-07-29T15:44:27.990628"
+    },
+    {
+      "british": "lavatory",
+      "american": "restroom",
+      "category": "housing",
+      "generated_at": "2026-07-29T15:44:27.990630"
     }
   ],
-  "last_updated": "2026-07-29T12:03:20.541932"
+  "last_updated": "2026-07-29T15:44:27.990632"
 }
