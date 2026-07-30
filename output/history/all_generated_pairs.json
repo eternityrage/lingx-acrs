@@ -2573,7 +2573,19 @@
       "american": "loft",
       "category": "housing",
       "generated_at": "2026-07-30T11:53:41.018803"
+    },
+    {
+      "british": "rubber",
+      "american": "eraser",
+      "category": "shopping",
+      "generated_at": "2026-07-30T15:47:47.385427"
+    },
+    {
+      "british": "mat",
+      "american": "rug",
+      "category": "school",
+      "generated_at": "2026-07-30T15:47:47.385438"
     }
   ],
-  "last_updated": "2026-07-30T11:53:41.018806"
+  "last_updated": "2026-07-30T15:47:47.385440"
 }
