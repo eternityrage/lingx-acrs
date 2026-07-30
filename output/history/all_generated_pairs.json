@@ -2537,7 +2537,25 @@
       "american": "bodysuit",
       "category": "clothing",
       "generated_at": "2026-07-29T19:19:12.568980"
+    },
+    {
+      "british": "storey",
+      "american": "story",
+      "category": "housing",
+      "generated_at": "2026-07-30T08:39:32.085889"
+    },
+    {
+      "british": "terrace",
+      "american": "rowhouse",
+      "category": "housing",
+      "generated_at": "2026-07-30T08:39:32.085898"
+    },
+    {
+      "british": "balcony",
+      "american": "deck",
+      "category": "housing",
+      "generated_at": "2026-07-30T08:39:32.085900"
     }
   ],
-  "last_updated": "2026-07-29T19:19:12.568981"
+  "last_updated": "2026-07-30T08:39:32.085902"
 }
