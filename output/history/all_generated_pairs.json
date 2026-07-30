@@ -2555,7 +2555,25 @@
       "american": "deck",
       "category": "housing",
       "generated_at": "2026-07-30T08:39:32.085900"
+    },
+    {
+      "british": "jumper",
+      "american": "pullover",
+      "category": "clothing",
+      "generated_at": "2026-07-30T11:53:41.018791"
+    },
+    {
+      "british": "shed",
+      "american": "outbuilding",
+      "category": "housing",
+      "generated_at": "2026-07-30T11:53:41.018802"
+    },
+    {
+      "british": "attic",
+      "american": "loft",
+      "category": "housing",
+      "generated_at": "2026-07-30T11:53:41.018803"
     }
   ],
-  "last_updated": "2026-07-30T08:39:32.085902"
+  "last_updated": "2026-07-30T11:53:41.018806"
 }
