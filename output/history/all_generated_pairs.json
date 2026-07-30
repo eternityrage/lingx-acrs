@@ -2585,7 +2585,25 @@
       "american": "rug",
       "category": "school",
       "generated_at": "2026-07-30T15:47:47.385438"
+    },
+    {
+      "british": "sweatshirt",
+      "american": "hoodie",
+      "category": "food and drink",
+      "generated_at": "2026-07-30T19:29:02.300653"
+    },
+    {
+      "british": "underskirt",
+      "american": "petticoat",
+      "category": "clothing",
+      "generated_at": "2026-07-30T19:29:02.300663"
+    },
+    {
+      "british": "roadworks",
+      "american": "construction",
+      "category": "transport",
+      "generated_at": "2026-07-30T19:29:02.300664"
     }
   ],
-  "last_updated": "2026-07-30T15:47:47.385440"
+  "last_updated": "2026-07-30T19:29:02.300666"
 }
