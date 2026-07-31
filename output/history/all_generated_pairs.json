@@ -2639,7 +2639,25 @@
       "american": "drugstore",
       "category": "school",
       "generated_at": "2026-07-31T09:00:58.337872"
+    },
+    {
+      "british": "groundsel",
+      "american": "hogweed",
+      "category": "food and drink",
+      "generated_at": "2026-07-31T12:02:03.418011"
+    },
+    {
+      "british": "culottes",
+      "american": "skort",
+      "category": "clothing",
+      "generated_at": "2026-07-31T12:02:03.418020"
+    },
+    {
+      "british": "stockings",
+      "american": "pantyhose",
+      "category": "clothing",
+      "generated_at": "2026-07-31T12:02:03.418022"
     }
   ],
-  "last_updated": "2026-07-31T09:00:58.337874"
+  "last_updated": "2026-07-31T12:02:03.418024"
 }
