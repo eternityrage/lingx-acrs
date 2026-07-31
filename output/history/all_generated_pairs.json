@@ -2603,7 +2603,25 @@
       "american": "construction",
       "category": "transport",
       "generated_at": "2026-07-30T19:29:02.300664"
+    },
+    {
+      "british": "jersey",
+      "american": "undershirt",
+      "category": "clothing",
+      "generated_at": "2026-07-31T05:22:13.834329"
+    },
+    {
+      "british": "hoodie",
+      "american": "sweatshirt",
+      "category": "clothing",
+      "generated_at": "2026-07-31T05:22:13.834339"
+    },
+    {
+      "british": "golliwog",
+      "american": "doll",
+      "category": "clothing",
+      "generated_at": "2026-07-31T05:22:13.834340"
     }
   ],
-  "last_updated": "2026-07-30T19:29:02.300666"
+  "last_updated": "2026-07-31T05:22:13.834342"
 }
