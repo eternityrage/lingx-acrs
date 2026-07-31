@@ -2657,7 +2657,25 @@
       "american": "pantyhose",
       "category": "clothing",
       "generated_at": "2026-07-31T12:02:03.418022"
+    },
+    {
+      "british": "lay-by",
+      "american": "shoulder",
+      "category": "transport",
+      "generated_at": "2026-07-31T15:53:54.235280"
+    },
+    {
+      "british": "autobahn",
+      "american": "freeway",
+      "category": "transport",
+      "generated_at": "2026-07-31T15:53:54.235291"
+    },
+    {
+      "british": "permit",
+      "american": "license",
+      "category": "transport",
+      "generated_at": "2026-07-31T15:53:54.235293"
     }
   ],
-  "last_updated": "2026-07-31T12:02:03.418024"
+  "last_updated": "2026-07-31T15:53:54.235295"
 }
