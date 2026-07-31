@@ -2621,7 +2621,25 @@
       "american": "doll",
       "category": "clothing",
       "generated_at": "2026-07-31T05:22:13.834340"
+    },
+    {
+      "british": "chemist's",
+      "american": "pharmacy",
+      "category": "workplace",
+      "generated_at": "2026-07-31T09:00:58.337859"
+    },
+    {
+      "british": "aluminium",
+      "american": "aluminum",
+      "category": "school",
+      "generated_at": "2026-07-31T09:00:58.337870"
+    },
+    {
+      "british": "chemist's",
+      "american": "drugstore",
+      "category": "school",
+      "generated_at": "2026-07-31T09:00:58.337872"
     }
   ],
-  "last_updated": "2026-07-31T05:22:13.834342"
+  "last_updated": "2026-07-31T09:00:58.337874"
 }
