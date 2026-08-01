@@ -2765,7 +2765,25 @@
       "american": "hoodie",
       "category": "clothing",
       "generated_at": "2026-08-01T14:51:53.311129"
+    },
+    {
+      "british": "briefs",
+      "american": "panties",
+      "category": "clothing",
+      "generated_at": "2026-08-01T19:16:00.693681"
+    },
+    {
+      "british": "track",
+      "american": "field",
+      "category": "sports",
+      "generated_at": "2026-08-01T19:16:00.693690"
+    },
+    {
+      "british": "rowing",
+      "american": "crew",
+      "category": "sports",
+      "generated_at": "2026-08-01T19:16:00.693692"
     }
   ],
-  "last_updated": "2026-08-01T14:51:53.311130"
+  "last_updated": "2026-08-01T19:16:00.693694"
 }
