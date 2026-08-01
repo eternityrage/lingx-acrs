@@ -2693,7 +2693,25 @@
       "american": "trousers",
       "category": "clothing",
       "generated_at": "2026-07-31T19:35:44.665340"
+    },
+    {
+      "british": "tap",
+      "american": "faucet",
+      "category": "housing",
+      "generated_at": "2026-08-01T05:15:23.393971"
+    },
+    {
+      "british": "plaster",
+      "american": "drywall",
+      "category": "housing",
+      "generated_at": "2026-08-01T05:15:23.393980"
+    },
+    {
+      "british": "guesthouse",
+      "american": "inn",
+      "category": "housing",
+      "generated_at": "2026-08-01T05:15:23.393982"
     }
   ],
-  "last_updated": "2026-07-31T19:35:44.665342"
+  "last_updated": "2026-08-01T05:15:23.393984"
 }
