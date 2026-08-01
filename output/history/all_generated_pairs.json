@@ -2711,7 +2711,25 @@
       "american": "inn",
       "category": "housing",
       "generated_at": "2026-08-01T05:15:23.393982"
+    },
+    {
+      "british": "herring",
+      "american": "shad",
+      "category": "food and drink",
+      "generated_at": "2026-08-01T08:28:56.573736"
+    },
+    {
+      "british": "mackerel",
+      "american": "bluefish",
+      "category": "food and drink",
+      "generated_at": "2026-08-01T08:28:56.573747"
+    },
+    {
+      "british": "brace",
+      "american": "suspenders",
+      "category": "clothing",
+      "generated_at": "2026-08-01T08:28:56.573748"
     }
   ],
-  "last_updated": "2026-08-01T05:15:23.393984"
+  "last_updated": "2026-08-01T08:28:56.573750"
 }
