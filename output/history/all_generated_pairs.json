@@ -2747,7 +2747,25 @@
       "american": "goalkeeper",
       "category": "sports",
       "generated_at": "2026-08-01T11:18:39.368649"
+    },
+    {
+      "british": "brolly",
+      "american": "umbrella",
+      "category": "clothing",
+      "generated_at": "2026-08-01T14:51:53.311118"
+    },
+    {
+      "british": "gardening-apron",
+      "american": "smock",
+      "category": "clothing",
+      "generated_at": "2026-08-01T14:51:53.311127"
+    },
+    {
+      "british": "hood",
+      "american": "hoodie",
+      "category": "clothing",
+      "generated_at": "2026-08-01T14:51:53.311129"
     }
   ],
-  "last_updated": "2026-08-01T11:18:39.368651"
+  "last_updated": "2026-08-01T14:51:53.311130"
 }
