@@ -2729,7 +2729,25 @@
       "american": "suspenders",
       "category": "clothing",
       "generated_at": "2026-08-01T08:28:56.573748"
+    },
+    {
+      "british": "tub",
+      "american": "bath",
+      "category": "school",
+      "generated_at": "2026-08-01T11:18:39.368635"
+    },
+    {
+      "british": "rugby",
+      "american": "football",
+      "category": "sports",
+      "generated_at": "2026-08-01T11:18:39.368646"
+    },
+    {
+      "british": "goalie",
+      "american": "goalkeeper",
+      "category": "sports",
+      "generated_at": "2026-08-01T11:18:39.368649"
     }
   ],
-  "last_updated": "2026-08-01T08:28:56.573750"
+  "last_updated": "2026-08-01T11:18:39.368651"
 }
