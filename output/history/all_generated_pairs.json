@@ -2819,7 +2819,25 @@
       "american": "underwea",
       "category": "clothing",
       "generated_at": "2026-08-02T08:40:41.027604"
+    },
+    {
+      "british": "gooseberry",
+      "american": "cranberry",
+      "category": "food and drink",
+      "generated_at": "2026-08-02T11:20:23.238415"
+    },
+    {
+      "british": "sweat",
+      "american": "drink",
+      "category": "food and drink",
+      "generated_at": "2026-08-02T11:20:23.238424"
+    },
+    {
+      "british": "baker's",
+      "american": "bakery",
+      "category": "workplace",
+      "generated_at": "2026-08-02T11:20:23.238426"
     }
   ],
-  "last_updated": "2026-08-02T08:40:41.027606"
+  "last_updated": "2026-08-02T11:20:23.238428"
 }
