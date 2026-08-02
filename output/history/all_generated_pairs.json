@@ -2801,7 +2801,25 @@
       "american": "field",
       "category": "sports",
       "generated_at": "2026-08-02T05:17:24.103350"
+    },
+    {
+      "british": "flat",
+      "american": "condominium",
+      "category": "housing",
+      "generated_at": "2026-08-02T08:40:41.027592"
+    },
+    {
+      "british": "estate",
+      "american": "development",
+      "category": "housing",
+      "generated_at": "2026-08-02T08:40:41.027602"
+    },
+    {
+      "british": "underpants",
+      "american": "underwea",
+      "category": "clothing",
+      "generated_at": "2026-08-02T08:40:41.027604"
     }
   ],
-  "last_updated": "2026-08-02T05:17:24.103352"
+  "last_updated": "2026-08-02T08:40:41.027606"
 }
