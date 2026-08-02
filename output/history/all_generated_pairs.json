@@ -2783,7 +2783,25 @@
       "american": "crew",
       "category": "sports",
       "generated_at": "2026-08-01T19:16:00.693692"
+    },
+    {
+      "british": "flan",
+      "american": "pie",
+      "category": "food and drink",
+      "generated_at": "2026-08-02T05:17:24.103337"
+    },
+    {
+      "british": "enginery",
+      "american": "machinery",
+      "category": "workplace",
+      "generated_at": "2026-08-02T05:17:24.103348"
+    },
+    {
+      "british": "pitch",
+      "american": "field",
+      "category": "sports",
+      "generated_at": "2026-08-02T05:17:24.103350"
     }
   ],
-  "last_updated": "2026-08-01T19:16:00.693694"
+  "last_updated": "2026-08-02T05:17:24.103352"
 }
