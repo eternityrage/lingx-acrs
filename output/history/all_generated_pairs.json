@@ -2927,7 +2927,25 @@
       "american": "rubber-boots",
       "category": "clothing",
       "generated_at": "2026-08-03T16:13:52.497398"
+    },
+    {
+      "british": "broad",
+      "american": "fava",
+      "category": "food and drink",
+      "generated_at": "2026-08-03T19:39:48.361412"
+    },
+    {
+      "british": "chives",
+      "american": "scallions",
+      "category": "food and drink",
+      "generated_at": "2026-08-03T19:39:48.361421"
+    },
+    {
+      "british": "candied",
+      "american": "sugared",
+      "category": "food and drink",
+      "generated_at": "2026-08-03T19:39:48.361423"
     }
   ],
-  "last_updated": "2026-08-03T16:13:52.497400"
+  "last_updated": "2026-08-03T19:39:48.361425"
 }
