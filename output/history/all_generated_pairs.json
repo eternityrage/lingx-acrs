@@ -2855,7 +2855,25 @@
       "american": "crosswalk",
       "category": "transport",
       "generated_at": "2026-08-02T19:12:36.222787"
+    },
+    {
+      "british": "maize",
+      "american": "corn",
+      "category": "food and drink",
+      "generated_at": "2026-08-03T05:27:13.724293"
+    },
+    {
+      "british": "motorcycle",
+      "american": "motorbike",
+      "category": "transport",
+      "generated_at": "2026-08-03T05:27:13.724302"
+    },
+    {
+      "british": "bin",
+      "american": "trashcan",
+      "category": "housing",
+      "generated_at": "2026-08-03T05:27:13.724304"
     }
   ],
-  "last_updated": "2026-08-02T19:12:36.222789"
+  "last_updated": "2026-08-03T05:27:13.724306"
 }
