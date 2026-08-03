@@ -2909,7 +2909,25 @@
       "american": "driving",
       "category": "transport",
       "generated_at": "2026-08-03T12:56:37.005871"
+    },
+    {
+      "british": "pinafore",
+      "american": "jumper-dress",
+      "category": "clothing",
+      "generated_at": "2026-08-03T16:13:52.497387"
+    },
+    {
+      "british": "culottes",
+      "american": "divided-skirt",
+      "category": "clothing",
+      "generated_at": "2026-08-03T16:13:52.497397"
+    },
+    {
+      "british": "wellies",
+      "american": "rubber-boots",
+      "category": "clothing",
+      "generated_at": "2026-08-03T16:13:52.497398"
     }
   ],
-  "last_updated": "2026-08-03T12:56:37.005873"
+  "last_updated": "2026-08-03T16:13:52.497400"
 }
