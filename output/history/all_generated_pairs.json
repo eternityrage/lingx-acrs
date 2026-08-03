@@ -2873,7 +2873,25 @@
       "american": "trashcan",
       "category": "housing",
       "generated_at": "2026-08-03T05:27:13.724304"
+    },
+    {
+      "british": "squash",
+      "american": "marrow",
+      "category": "food and drink",
+      "generated_at": "2026-08-03T09:56:58.906533"
+    },
+    {
+      "british": "chilli",
+      "american": "pepper",
+      "category": "food and drink",
+      "generated_at": "2026-08-03T09:56:58.906545"
+    },
+    {
+      "british": "dumpling",
+      "american": "gnocchi",
+      "category": "food and drink",
+      "generated_at": "2026-08-03T09:56:58.906547"
     }
   ],
-  "last_updated": "2026-08-03T05:27:13.724306"
+  "last_updated": "2026-08-03T09:56:58.906549"
 }
