@@ -3017,7 +3017,25 @@
       "american": "underwear",
       "category": "clothing",
       "generated_at": "2026-08-04T16:07:56.271494"
+    },
+    {
+      "british": "anorak",
+      "american": "hoodie",
+      "category": "clothing",
+      "generated_at": "2026-08-04T19:39:40.658937"
+    },
+    {
+      "british": "shorts",
+      "american": "pants",
+      "category": "clothing",
+      "generated_at": "2026-08-04T19:39:40.658950"
+    },
+    {
+      "british": "petrol",
+      "american": "gasoline",
+      "category": "transport",
+      "generated_at": "2026-08-04T19:39:40.658951"
     }
   ],
-  "last_updated": "2026-08-04T16:07:56.271496"
+  "last_updated": "2026-08-04T19:39:40.658953"
 }
