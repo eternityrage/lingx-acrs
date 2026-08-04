@@ -2945,7 +2945,25 @@
       "american": "sugared",
       "category": "food and drink",
       "generated_at": "2026-08-03T19:39:48.361423"
+    },
+    {
+      "british": "gammon",
+      "american": "ham",
+      "category": "food and drink",
+      "generated_at": "2026-08-04T04:52:11.332239"
+    },
+    {
+      "british": "juncture",
+      "american": "intersection",
+      "category": "transport",
+      "generated_at": "2026-08-04T04:52:11.332246"
+    },
+    {
+      "british": "semi-detached",
+      "american": "duplex",
+      "category": "housing",
+      "generated_at": "2026-08-04T04:52:11.332252"
     }
   ],
-  "last_updated": "2026-08-03T19:39:48.361425"
+  "last_updated": "2026-08-04T04:52:11.332254"
 }
