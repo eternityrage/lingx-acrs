@@ -2981,7 +2981,25 @@
       "american": "semester",
       "category": "school",
       "generated_at": "2026-08-04T08:48:20.473433"
+    },
+    {
+      "british": "maisonette",
+      "american": "townhouse",
+      "category": "housing",
+      "generated_at": "2026-08-04T12:03:52.958100"
+    },
+    {
+      "british": "hoarding",
+      "american": "billboard",
+      "category": "housing",
+      "generated_at": "2026-08-04T12:03:52.958107"
+    },
+    {
+      "british": "cellar",
+      "american": "basement",
+      "category": "housing",
+      "generated_at": "2026-08-04T12:03:52.958108"
     }
   ],
-  "last_updated": "2026-08-04T08:48:20.473435"
+  "last_updated": "2026-08-04T12:03:52.958111"
 }
