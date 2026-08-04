@@ -2963,7 +2963,25 @@
       "american": "duplex",
       "category": "housing",
       "generated_at": "2026-08-04T04:52:11.332252"
+    },
+    {
+      "british": "motorcyclist",
+      "american": "biker",
+      "category": "transport",
+      "generated_at": "2026-08-04T08:48:20.473421"
+    },
+    {
+      "british": "revise",
+      "american": "review",
+      "category": "school",
+      "generated_at": "2026-08-04T08:48:20.473431"
+    },
+    {
+      "british": "term",
+      "american": "semester",
+      "category": "school",
+      "generated_at": "2026-08-04T08:48:20.473433"
     }
   ],
-  "last_updated": "2026-08-04T04:52:11.332254"
+  "last_updated": "2026-08-04T08:48:20.473435"
 }
