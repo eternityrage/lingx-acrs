@@ -2999,7 +2999,25 @@
       "american": "basement",
       "category": "housing",
       "generated_at": "2026-08-04T12:03:52.958108"
+    },
+    {
+      "british": "squash",
+      "american": "pumpkin",
+      "category": "food and drink",
+      "generated_at": "2026-08-04T16:07:56.271484"
+    },
+    {
+      "british": "underwear",
+      "american": "panties",
+      "category": "clothing",
+      "generated_at": "2026-08-04T16:07:56.271492"
+    },
+    {
+      "british": "knickers",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-08-04T16:07:56.271494"
     }
   ],
-  "last_updated": "2026-08-04T12:03:52.958111"
+  "last_updated": "2026-08-04T16:07:56.271496"
 }
