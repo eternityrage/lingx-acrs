@@ -3107,7 +3107,25 @@
       "american": "public",
       "category": "housing",
       "generated_at": "2026-08-05T15:53:48.037715"
+    },
+    {
+      "british": "socket",
+      "american": "outlet",
+      "category": "housing",
+      "generated_at": "2026-08-05T19:37:48.598516"
+    },
+    {
+      "british": "autumn",
+      "american": "fall",
+      "category": "school",
+      "generated_at": "2026-08-05T19:37:48.598527"
+    },
+    {
+      "british": "hoover",
+      "american": "vacuum",
+      "category": "shopping",
+      "generated_at": "2026-08-05T19:37:48.598529"
     }
   ],
-  "last_updated": "2026-08-05T15:53:48.037716"
+  "last_updated": "2026-08-05T19:37:48.598532"
 }
