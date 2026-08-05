@@ -3089,7 +3089,25 @@
       "american": "hallway",
       "category": "housing",
       "generated_at": "2026-08-05T12:01:22.553361"
+    },
+    {
+      "british": "gear",
+      "american": "speed",
+      "category": "transport",
+      "generated_at": "2026-08-05T15:53:48.037703"
+    },
+    {
+      "british": "terraced",
+      "american": "row",
+      "category": "housing",
+      "generated_at": "2026-08-05T15:53:48.037713"
+    },
+    {
+      "british": "council",
+      "american": "public",
+      "category": "housing",
+      "generated_at": "2026-08-05T15:53:48.037715"
     }
   ],
-  "last_updated": "2026-08-05T12:01:22.553365"
+  "last_updated": "2026-08-05T15:53:48.037716"
 }
