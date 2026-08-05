@@ -3071,7 +3071,25 @@
       "american": "scallion",
       "category": "food and drink",
       "generated_at": "2026-08-05T08:44:48.415420"
+    },
+    {
+      "british": "track",
+      "american": "lane",
+      "category": "transport",
+      "generated_at": "2026-08-05T12:01:22.553348"
+    },
+    {
+      "british": "cart",
+      "american": "wagon",
+      "category": "transport",
+      "generated_at": "2026-08-05T12:01:22.553360"
+    },
+    {
+      "british": "landing",
+      "american": "hallway",
+      "category": "housing",
+      "generated_at": "2026-08-05T12:01:22.553361"
     }
   ],
-  "last_updated": "2026-08-05T08:44:48.415422"
+  "last_updated": "2026-08-05T12:01:22.553365"
 }
