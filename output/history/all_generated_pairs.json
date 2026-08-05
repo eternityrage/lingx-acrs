@@ -3035,7 +3035,25 @@
       "american": "gasoline",
       "category": "transport",
       "generated_at": "2026-08-04T19:39:40.658951"
+    },
+    {
+      "british": "sweet",
+      "american": "potato",
+      "category": "food and drink",
+      "generated_at": "2026-08-05T04:52:02.421905"
+    },
+    {
+      "british": "tingly",
+      "american": "fizzy",
+      "category": "food and drink",
+      "generated_at": "2026-08-05T04:52:02.421915"
+    },
+    {
+      "british": "mould",
+      "american": "mold",
+      "category": "food and drink",
+      "generated_at": "2026-08-05T04:52:02.421917"
     }
   ],
-  "last_updated": "2026-08-04T19:39:40.658953"
+  "last_updated": "2026-08-05T04:52:02.421923"
 }
