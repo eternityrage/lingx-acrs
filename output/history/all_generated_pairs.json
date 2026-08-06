@@ -3161,7 +3161,25 @@
       "american": "subway",
       "category": "school",
       "generated_at": "2026-08-06T08:46:40.207560"
+    },
+    {
+      "british": "station",
+      "american": "depot",
+      "category": "transport",
+      "generated_at": "2026-08-06T12:05:07.168758"
+    },
+    {
+      "british": "cricket",
+      "american": "baseball",
+      "category": "sports",
+      "generated_at": "2026-08-06T12:05:07.168770"
+    },
+    {
+      "british": "referee",
+      "american": "umpire",
+      "category": "sports",
+      "generated_at": "2026-08-06T12:05:07.168771"
     }
   ],
-  "last_updated": "2026-08-06T08:46:40.207562"
+  "last_updated": "2026-08-06T12:05:07.168773"
 }
