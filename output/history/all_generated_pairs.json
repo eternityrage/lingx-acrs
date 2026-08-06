@@ -3143,7 +3143,25 @@
       "american": "goal",
       "category": "sports",
       "generated_at": "2026-08-06T04:53:07.183140"
+    },
+    {
+      "british": "indicator",
+      "american": "blinker",
+      "category": "transport",
+      "generated_at": "2026-08-06T08:46:40.207545"
+    },
+    {
+      "british": "mate",
+      "american": "buddy",
+      "category": "workplace",
+      "generated_at": "2026-08-06T08:46:40.207558"
+    },
+    {
+      "british": "tubes",
+      "american": "subway",
+      "category": "school",
+      "generated_at": "2026-08-06T08:46:40.207560"
     }
   ],
-  "last_updated": "2026-08-06T04:53:07.183141"
+  "last_updated": "2026-08-06T08:46:40.207562"
 }
