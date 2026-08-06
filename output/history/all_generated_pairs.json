@@ -3125,7 +3125,25 @@
       "american": "vacuum",
       "category": "shopping",
       "generated_at": "2026-08-05T19:37:48.598529"
+    },
+    {
+      "british": "loft",
+      "american": "attic",
+      "category": "housing",
+      "generated_at": "2026-08-06T04:53:07.183129"
+    },
+    {
+      "british": "drainpipe",
+      "american": "downspout",
+      "category": "housing",
+      "generated_at": "2026-08-06T04:53:07.183138"
+    },
+    {
+      "british": "net",
+      "american": "goal",
+      "category": "sports",
+      "generated_at": "2026-08-06T04:53:07.183140"
     }
   ],
-  "last_updated": "2026-08-05T19:37:48.598532"
+  "last_updated": "2026-08-06T04:53:07.183141"
 }
