@@ -3197,7 +3197,25 @@
       "american": "flower",
       "category": "food and drink",
       "generated_at": "2026-08-07T00:03:36.797673"
+    },
+    {
+      "british": "bathrobe",
+      "american": "robe",
+      "category": "clothing",
+      "generated_at": "2026-08-07T04:18:08.191904"
+    },
+    {
+      "british": "pavement",
+      "american": "roadway",
+      "category": "transport",
+      "generated_at": "2026-08-07T04:18:08.191916"
+    },
+    {
+      "british": "streetcar",
+      "american": "trolley",
+      "category": "transport",
+      "generated_at": "2026-08-07T04:18:08.191916"
     }
   ],
-  "last_updated": "2026-08-07T00:03:36.797675"
+  "last_updated": "2026-08-07T04:18:08.191918"
 }
