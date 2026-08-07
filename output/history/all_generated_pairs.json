@@ -3251,7 +3251,25 @@
       "american": "airplane",
       "category": "transport",
       "generated_at": "2026-08-07T10:54:43.157253"
+    },
+    {
+      "british": "kimono",
+      "american": "robe",
+      "category": "clothing",
+      "generated_at": "2026-08-07T14:45:22.346966"
+    },
+    {
+      "british": "ground",
+      "american": "first",
+      "category": "housing",
+      "generated_at": "2026-08-07T14:45:22.346976"
+    },
+    {
+      "british": "chimney",
+      "american": "stack",
+      "category": "housing",
+      "generated_at": "2026-08-07T14:45:22.346977"
     }
   ],
-  "last_updated": "2026-08-07T10:54:43.157255"
+  "last_updated": "2026-08-07T14:45:22.346979"
 }
