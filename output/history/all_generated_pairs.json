@@ -3269,7 +3269,25 @@
       "american": "stack",
       "category": "housing",
       "generated_at": "2026-08-07T14:45:22.346977"
+    },
+    {
+      "british": "terrace",
+      "american": "row",
+      "category": "housing",
+      "generated_at": "2026-08-07T18:59:50.356106"
+    },
+    {
+      "british": "cupboard",
+      "american": "cabinet",
+      "category": "housing",
+      "generated_at": "2026-08-07T18:59:50.356114"
+    },
+    {
+      "british": "storey",
+      "american": "floor",
+      "category": "housing",
+      "generated_at": "2026-08-07T18:59:50.356116"
     }
   ],
-  "last_updated": "2026-08-07T14:45:22.346979"
+  "last_updated": "2026-08-07T18:59:50.356118"
 }
