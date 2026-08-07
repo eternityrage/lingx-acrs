@@ -3233,7 +3233,25 @@
       "american": "rug",
       "category": "housing",
       "generated_at": "2026-08-07T07:25:24.851025"
+    },
+    {
+      "british": "vest",
+      "american": "tanktop",
+      "category": "clothing",
+      "generated_at": "2026-08-07T10:54:43.157240"
+    },
+    {
+      "british": "crossroads",
+      "american": "intersection",
+      "category": "transport",
+      "generated_at": "2026-08-07T10:54:43.157252"
+    },
+    {
+      "british": "plane",
+      "american": "airplane",
+      "category": "transport",
+      "generated_at": "2026-08-07T10:54:43.157253"
     }
   ],
-  "last_updated": "2026-08-07T07:25:24.851027"
+  "last_updated": "2026-08-07T10:54:43.157255"
 }
