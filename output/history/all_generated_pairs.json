@@ -3341,7 +3341,25 @@
       "american": "heater",
       "category": "housing",
       "generated_at": "2026-08-08T14:22:43.437884"
+    },
+    {
+      "british": "shawl",
+      "american": "wrap",
+      "category": "clothing",
+      "generated_at": "2026-08-08T18:39:35.868600"
+    },
+    {
+      "british": "cravat",
+      "american": "tie",
+      "category": "clothing",
+      "generated_at": "2026-08-08T18:39:35.868613"
+    },
+    {
+      "british": "cheque",
+      "american": "check",
+      "category": "transport",
+      "generated_at": "2026-08-08T18:39:35.868615"
     }
   ],
-  "last_updated": "2026-08-08T14:22:43.437886"
+  "last_updated": "2026-08-08T18:39:35.868617"
 }
