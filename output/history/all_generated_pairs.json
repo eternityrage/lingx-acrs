@@ -3323,7 +3323,25 @@
       "american": "pen",
       "category": "transport",
       "generated_at": "2026-08-08T10:35:43.409760"
+    },
+    {
+      "british": "brogues",
+      "american": "oxfords",
+      "category": "clothing",
+      "generated_at": "2026-08-08T14:22:43.437871"
+    },
+    {
+      "british": "balcony",
+      "american": "veranda",
+      "category": "housing",
+      "generated_at": "2026-08-08T14:22:43.437882"
+    },
+    {
+      "british": "radiator",
+      "american": "heater",
+      "category": "housing",
+      "generated_at": "2026-08-08T14:22:43.437884"
     }
   ],
-  "last_updated": "2026-08-08T10:35:43.409762"
+  "last_updated": "2026-08-08T14:22:43.437886"
 }
