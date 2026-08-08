@@ -3287,7 +3287,25 @@
       "american": "floor",
       "category": "housing",
       "generated_at": "2026-08-07T18:59:50.356116"
+    },
+    {
+      "british": "freezer",
+      "american": "icebox",
+      "category": "food and drink",
+      "generated_at": "2026-08-08T03:15:25.132149"
+    },
+    {
+      "british": "springs",
+      "american": "seltzer",
+      "category": "food and drink",
+      "generated_at": "2026-08-08T03:15:25.132160"
+    },
+    {
+      "british": "skewer",
+      "american": "brochette",
+      "category": "food and drink",
+      "generated_at": "2026-08-08T03:15:25.132162"
     }
   ],
-  "last_updated": "2026-08-07T18:59:50.356118"
+  "last_updated": "2026-08-08T03:15:25.132163"
 }
