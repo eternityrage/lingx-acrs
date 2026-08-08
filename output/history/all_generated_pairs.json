@@ -3305,7 +3305,25 @@
       "american": "brochette",
       "category": "food and drink",
       "generated_at": "2026-08-08T03:15:25.132162"
+    },
+    {
+      "british": "spring",
+      "american": "seltzer",
+      "category": "food and drink",
+      "generated_at": "2026-08-08T10:35:43.409750"
+    },
+    {
+      "british": "track",
+      "american": "rail",
+      "category": "transport",
+      "generated_at": "2026-08-08T10:35:43.409758"
+    },
+    {
+      "british": "biro",
+      "american": "pen",
+      "category": "transport",
+      "generated_at": "2026-08-08T10:35:43.409760"
     }
   ],
-  "last_updated": "2026-08-08T03:15:25.132163"
+  "last_updated": "2026-08-08T10:35:43.409762"
 }
