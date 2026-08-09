@@ -3395,7 +3395,25 @@
       "american": "sewer",
       "category": "housing",
       "generated_at": "2026-08-09T07:04:44.719205"
+    },
+    {
+      "british": "undergarment",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-08-09T10:37:20.167714"
+    },
+    {
+      "british": "foyer",
+      "american": "hallway",
+      "category": "housing",
+      "generated_at": "2026-08-09T10:37:20.167724"
+    },
+    {
+      "british": "en-suite",
+      "american": "attached",
+      "category": "housing",
+      "generated_at": "2026-08-09T10:37:20.167726"
     }
   ],
-  "last_updated": "2026-08-09T07:04:44.719207"
+  "last_updated": "2026-08-09T10:37:20.167727"
 }
