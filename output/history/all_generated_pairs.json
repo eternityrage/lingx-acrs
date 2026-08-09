@@ -3359,7 +3359,25 @@
       "american": "check",
       "category": "transport",
       "generated_at": "2026-08-08T18:39:35.868615"
+    },
+    {
+      "british": "boot",
+      "american": "tire",
+      "category": "transport",
+      "generated_at": "2026-08-09T03:23:19.157048"
+    },
+    {
+      "british": "pub",
+      "american": "bar",
+      "category": "workplace",
+      "generated_at": "2026-08-09T03:23:19.157056"
+    },
+    {
+      "british": "biscuit",
+      "american": "cracker",
+      "category": "workplace",
+      "generated_at": "2026-08-09T03:23:19.157058"
     }
   ],
-  "last_updated": "2026-08-08T18:39:35.868617"
+  "last_updated": "2026-08-09T03:23:19.157060"
 }
