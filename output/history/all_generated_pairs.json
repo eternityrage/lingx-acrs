@@ -3377,7 +3377,25 @@
       "american": "cracker",
       "category": "workplace",
       "generated_at": "2026-08-09T03:23:19.157058"
+    },
+    {
+      "british": "loo",
+      "american": "bathroom",
+      "category": "housing",
+      "generated_at": "2026-08-09T07:04:44.719192"
+    },
+    {
+      "british": "grout",
+      "american": "caulk",
+      "category": "housing",
+      "generated_at": "2026-08-09T07:04:44.719203"
+    },
+    {
+      "british": "drain",
+      "american": "sewer",
+      "category": "housing",
+      "generated_at": "2026-08-09T07:04:44.719205"
     }
   ],
-  "last_updated": "2026-08-09T03:23:19.157060"
+  "last_updated": "2026-08-09T07:04:44.719207"
 }
