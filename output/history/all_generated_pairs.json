@@ -3431,7 +3431,25 @@
       "american": "flew",
       "category": "transport",
       "generated_at": "2026-08-09T14:24:28.655229"
+    },
+    {
+      "british": "caramel",
+      "american": "butterscotch",
+      "category": "food and drink",
+      "generated_at": "2026-08-09T18:42:40.277062"
+    },
+    {
+      "british": "station",
+      "american": "terminal",
+      "category": "transport",
+      "generated_at": "2026-08-09T18:42:40.277072"
+    },
+    {
+      "british": "subway",
+      "american": "tunnel",
+      "category": "transport",
+      "generated_at": "2026-08-09T18:42:40.277073"
     }
   ],
-  "last_updated": "2026-08-09T14:24:28.655231"
+  "last_updated": "2026-08-09T18:42:40.277075"
 }
