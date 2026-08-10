@@ -3485,7 +3485,25 @@
       "american": "field",
       "category": "sports",
       "generated_at": "2026-08-10T07:52:57.190326"
+    },
+    {
+      "british": "buttery",
+      "american": "scone",
+      "category": "food and drink",
+      "generated_at": "2026-08-10T11:10:43.430513"
+    },
+    {
+      "british": "turnip",
+      "american": "rutabaga",
+      "category": "food and drink",
+      "generated_at": "2026-08-10T11:10:43.430525"
+    },
+    {
+      "british": "neighbour",
+      "american": "neighbor",
+      "category": "workplace",
+      "generated_at": "2026-08-10T11:10:43.430526"
     }
   ],
-  "last_updated": "2026-08-10T07:52:57.190327"
+  "last_updated": "2026-08-10T11:10:43.430528"
 }
