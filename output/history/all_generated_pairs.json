@@ -3467,7 +3467,25 @@
       "american": "tarboosh",
       "category": "clothing",
       "generated_at": "2026-08-10T03:42:18.077971"
+    },
+    {
+      "british": "cooker",
+      "american": "stove",
+      "category": "housing",
+      "generated_at": "2026-08-10T07:52:57.190314"
+    },
+    {
+      "british": "chimney",
+      "american": "smokestack",
+      "category": "housing",
+      "generated_at": "2026-08-10T07:52:57.190325"
+    },
+    {
+      "british": "court",
+      "american": "field",
+      "category": "sports",
+      "generated_at": "2026-08-10T07:52:57.190326"
     }
   ],
-  "last_updated": "2026-08-10T03:42:18.077973"
+  "last_updated": "2026-08-10T07:52:57.190327"
 }
