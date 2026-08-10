@@ -3503,7 +3503,25 @@
       "american": "neighbor",
       "category": "workplace",
       "generated_at": "2026-08-10T11:10:43.430526"
+    },
+    {
+      "british": "sweatbread",
+      "american": "thymus",
+      "category": "food and drink",
+      "generated_at": "2026-08-10T14:50:09.253431"
+    },
+    {
+      "british": "swallowtail",
+      "american": "tailcoat",
+      "category": "clothing",
+      "generated_at": "2026-08-10T14:50:09.253440"
+    },
+    {
+      "british": "bodice",
+      "american": "waist",
+      "category": "clothing",
+      "generated_at": "2026-08-10T14:50:09.253441"
     }
   ],
-  "last_updated": "2026-08-10T11:10:43.430528"
+  "last_updated": "2026-08-10T14:50:09.253443"
 }
