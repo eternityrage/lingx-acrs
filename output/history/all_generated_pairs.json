@@ -3521,7 +3521,25 @@
       "american": "waist",
       "category": "clothing",
       "generated_at": "2026-08-10T14:50:09.253441"
+    },
+    {
+      "british": "undercardigan",
+      "american": "underlayer",
+      "category": "clothing",
+      "generated_at": "2026-08-10T18:59:37.625021"
+    },
+    {
+      "british": "loo",
+      "american": "restroom",
+      "category": "housing",
+      "generated_at": "2026-08-10T18:59:37.625028"
+    },
+    {
+      "british": "taps",
+      "american": "faucets",
+      "category": "housing",
+      "generated_at": "2026-08-10T18:59:37.625029"
     }
   ],
-  "last_updated": "2026-08-10T14:50:09.253443"
+  "last_updated": "2026-08-10T18:59:37.625031"
 }
