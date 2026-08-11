@@ -3593,7 +3593,25 @@
       "american": "condo",
       "category": "housing",
       "generated_at": "2026-08-11T10:52:07.791025"
+    },
+    {
+      "british": "advertisement",
+      "american": "ad",
+      "category": "housing",
+      "generated_at": "2026-08-11T14:51:05.438003"
+    },
+    {
+      "british": "gas",
+      "american": "gasoline",
+      "category": "housing",
+      "generated_at": "2026-08-11T14:51:05.438014"
+    },
+    {
+      "british": "gardens",
+      "american": "yard",
+      "category": "shopping",
+      "generated_at": "2026-08-11T14:51:05.438016"
     }
   ],
-  "last_updated": "2026-08-11T10:52:07.791027"
+  "last_updated": "2026-08-11T14:51:05.438018"
 }
