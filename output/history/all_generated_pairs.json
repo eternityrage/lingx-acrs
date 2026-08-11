@@ -3611,7 +3611,25 @@
       "american": "yard",
       "category": "shopping",
       "generated_at": "2026-08-11T14:51:05.438016"
+    },
+    {
+      "british": "pillion",
+      "american": "backseat",
+      "category": "transport",
+      "generated_at": "2026-08-11T19:05:00.554597"
+    },
+    {
+      "british": "theatre",
+      "american": "theater",
+      "category": "sports",
+      "generated_at": "2026-08-11T19:05:00.554610"
+    },
+    {
+      "british": "licence",
+      "american": "license",
+      "category": "sports",
+      "generated_at": "2026-08-11T19:05:00.554612"
     }
   ],
-  "last_updated": "2026-08-11T14:51:05.438018"
+  "last_updated": "2026-08-11T19:05:00.554614"
 }
