@@ -3629,7 +3629,25 @@
       "american": "license",
       "category": "sports",
       "generated_at": "2026-08-11T19:05:00.554612"
+    },
+    {
+      "british": "doorbell",
+      "american": "buzzer",
+      "category": "housing",
+      "generated_at": "2026-08-12T03:54:11.179910"
+    },
+    {
+      "british": "gate",
+      "american": "fence",
+      "category": "housing",
+      "generated_at": "2026-08-12T03:54:11.179919"
+    },
+    {
+      "british": "mobile",
+      "american": "cellphone",
+      "category": "workplace",
+      "generated_at": "2026-08-12T03:54:11.179921"
     }
   ],
-  "last_updated": "2026-08-11T19:05:00.554614"
+  "last_updated": "2026-08-12T03:54:11.179923"
 }
