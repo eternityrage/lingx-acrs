@@ -3647,7 +3647,25 @@
       "american": "cellphone",
       "category": "workplace",
       "generated_at": "2026-08-12T03:54:11.179921"
+    },
+    {
+      "british": "parcel",
+      "american": "package",
+      "category": "transport",
+      "generated_at": "2026-08-12T07:41:12.173871"
+    },
+    {
+      "british": "plasters",
+      "american": "band-aids",
+      "category": "shopping",
+      "generated_at": "2026-08-12T07:41:12.173880"
+    },
+    {
+      "british": "bowels",
+      "american": "intestines",
+      "category": "health",
+      "generated_at": "2026-08-12T07:41:12.173881"
     }
   ],
-  "last_updated": "2026-08-12T03:54:11.179923"
+  "last_updated": "2026-08-12T07:41:12.173883"
 }
