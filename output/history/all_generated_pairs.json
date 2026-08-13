@@ -3719,7 +3719,25 @@
       "american": "junction",
       "category": "transport",
       "generated_at": "2026-08-13T03:57:42.053455"
+    },
+    {
+      "british": "plasters",
+      "american": "bandages",
+      "category": "workplace",
+      "generated_at": "2026-08-13T07:43:24.877943"
+    },
+    {
+      "british": "athletics",
+      "american": "track",
+      "category": "sports",
+      "generated_at": "2026-08-13T07:43:24.877954"
+    },
+    {
+      "british": "netball",
+      "american": "basketball",
+      "category": "sports",
+      "generated_at": "2026-08-13T07:43:24.877955"
     }
   ],
-  "last_updated": "2026-08-13T03:57:42.053457"
+  "last_updated": "2026-08-13T07:43:24.877957"
 }
