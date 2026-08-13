@@ -3737,7 +3737,25 @@
       "american": "basketball",
       "category": "sports",
       "generated_at": "2026-08-13T07:43:24.877955"
+    },
+    {
+      "british": "punnet",
+      "american": "container",
+      "category": "food and drink",
+      "generated_at": "2026-08-13T11:02:41.912754"
+    },
+    {
+      "british": "jersey",
+      "american": "pullover",
+      "category": "clothing",
+      "generated_at": "2026-08-13T11:02:41.912766"
+    },
+    {
+      "british": "fare",
+      "american": "ticket",
+      "category": "transport",
+      "generated_at": "2026-08-13T11:02:41.912767"
     }
   ],
-  "last_updated": "2026-08-13T07:43:24.877957"
+  "last_updated": "2026-08-13T11:02:41.912769"
 }
