@@ -3701,7 +3701,25 @@
       "american": "Kleenex",
       "category": "workplace",
       "generated_at": "2026-08-12T19:04:04.175908"
+    },
+    {
+      "british": "sportswear",
+      "american": "activewear",
+      "category": "clothing",
+      "generated_at": "2026-08-13T03:57:42.053444"
+    },
+    {
+      "british": "gears",
+      "american": "speed",
+      "category": "transport",
+      "generated_at": "2026-08-13T03:57:42.053453"
+    },
+    {
+      "british": "juncture",
+      "american": "junction",
+      "category": "transport",
+      "generated_at": "2026-08-13T03:57:42.053455"
     }
   ],
-  "last_updated": "2026-08-12T19:04:04.175909"
+  "last_updated": "2026-08-13T03:57:42.053457"
 }
