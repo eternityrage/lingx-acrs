@@ -3773,7 +3773,25 @@
       "american": "simmering",
       "category": "food and drink",
       "generated_at": "2026-08-13T14:53:51.095217"
+    },
+    {
+      "british": "bras",
+      "american": "brassiere",
+      "category": "clothing",
+      "generated_at": "2026-08-13T19:05:12.549417"
+    },
+    {
+      "british": "panties",
+      "american": "briefs",
+      "category": "clothing",
+      "generated_at": "2026-08-13T19:05:12.549426"
+    },
+    {
+      "british": "nightdress",
+      "american": "nightgown",
+      "category": "clothing",
+      "generated_at": "2026-08-13T19:05:12.549427"
     }
   ],
-  "last_updated": "2026-08-13T14:53:51.095219"
+  "last_updated": "2026-08-13T19:05:12.549429"
 }
