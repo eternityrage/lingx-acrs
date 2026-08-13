@@ -3755,7 +3755,25 @@
       "american": "ticket",
       "category": "transport",
       "generated_at": "2026-08-13T11:02:41.912767"
+    },
+    {
+      "british": "onion",
+      "american": "bulb",
+      "category": "food and drink",
+      "generated_at": "2026-08-13T14:53:51.095206"
+    },
+    {
+      "british": "oil",
+      "american": "grease",
+      "category": "food and drink",
+      "generated_at": "2026-08-13T14:53:51.095216"
+    },
+    {
+      "british": "boiling",
+      "american": "simmering",
+      "category": "food and drink",
+      "generated_at": "2026-08-13T14:53:51.095217"
     }
   ],
-  "last_updated": "2026-08-13T11:02:41.912769"
+  "last_updated": "2026-08-13T14:53:51.095219"
 }
