@@ -3791,7 +3791,25 @@
       "american": "nightgown",
       "category": "clothing",
       "generated_at": "2026-08-13T19:05:12.549427"
+    },
+    {
+      "british": "cardigan",
+      "american": "button-up",
+      "category": "clothing",
+      "generated_at": "2026-08-14T03:54:01.187146"
+    },
+    {
+      "british": "undervest",
+      "american": "camisole",
+      "category": "clothing",
+      "generated_at": "2026-08-14T03:54:01.187159"
+    },
+    {
+      "british": "underpass",
+      "american": "tunnel",
+      "category": "transport",
+      "generated_at": "2026-08-14T03:54:01.187161"
     }
   ],
-  "last_updated": "2026-08-13T19:05:12.549429"
+  "last_updated": "2026-08-14T03:54:01.187163"
 }
