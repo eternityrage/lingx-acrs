@@ -3863,7 +3863,25 @@
       "american": "bag",
       "category": "shopping",
       "generated_at": "2026-08-14T14:44:34.223153"
+    },
+    {
+      "british": "courgettes",
+      "american": "zucchinis",
+      "category": "food and drink",
+      "generated_at": "2026-08-14T18:57:38.492252"
+    },
+    {
+      "british": "caretaker",
+      "american": "janitor",
+      "category": "housing",
+      "generated_at": "2026-08-14T18:57:38.492259"
+    },
+    {
+      "british": "forecourt",
+      "american": "driveway",
+      "category": "housing",
+      "generated_at": "2026-08-14T18:57:38.492261"
     }
   ],
-  "last_updated": "2026-08-14T14:44:34.223155"
+  "last_updated": "2026-08-14T18:57:38.492263"
 }
