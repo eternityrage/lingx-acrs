@@ -3827,7 +3827,25 @@
       "american": "sausages",
       "category": "food and drink",
       "generated_at": "2026-08-14T07:42:16.673802"
+    },
+    {
+      "british": "bralette",
+      "american": "camisole",
+      "category": "clothing",
+      "generated_at": "2026-08-14T11:00:02.698768"
+    },
+    {
+      "british": "tabard",
+      "american": "apron",
+      "category": "clothing",
+      "generated_at": "2026-08-14T11:00:02.698778"
+    },
+    {
+      "british": "flatlet",
+      "american": "studio",
+      "category": "housing",
+      "generated_at": "2026-08-14T11:00:02.698779"
     }
   ],
-  "last_updated": "2026-08-14T07:42:16.673803"
+  "last_updated": "2026-08-14T11:00:02.698781"
 }
