@@ -3845,7 +3845,25 @@
       "american": "studio",
       "category": "housing",
       "generated_at": "2026-08-14T11:00:02.698779"
+    },
+    {
+      "british": "pantie",
+      "american": "panties",
+      "category": "clothing",
+      "generated_at": "2026-08-14T14:44:34.223144"
+    },
+    {
+      "british": "beret",
+      "american": "tam",
+      "category": "clothing",
+      "generated_at": "2026-08-14T14:44:34.223151"
+    },
+    {
+      "british": "packet",
+      "american": "bag",
+      "category": "shopping",
+      "generated_at": "2026-08-14T14:44:34.223153"
     }
   ],
-  "last_updated": "2026-08-14T11:00:02.698781"
+  "last_updated": "2026-08-14T14:44:34.223155"
 }
