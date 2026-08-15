@@ -3935,7 +3935,25 @@
       "american": "driveway",
       "category": "housing",
       "generated_at": "2026-08-15T10:24:34.321912"
+    },
+    {
+      "british": "cabbage",
+      "american": "coleslaw",
+      "category": "food and drink",
+      "generated_at": "2026-08-15T14:12:28.350719"
+    },
+    {
+      "british": "spuds",
+      "american": "potatoes",
+      "category": "food and drink",
+      "generated_at": "2026-08-15T14:12:28.350728"
+    },
+    {
+      "british": "collar",
+      "american": "neckband",
+      "category": "clothing",
+      "generated_at": "2026-08-15T14:12:28.350730"
     }
   ],
-  "last_updated": "2026-08-15T10:24:34.321913"
+  "last_updated": "2026-08-15T14:12:28.350731"
 }
