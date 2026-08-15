@@ -3899,7 +3899,25 @@
       "american": "sash",
       "category": "clothing",
       "generated_at": "2026-08-15T02:42:44.606444"
+    },
+    {
+      "british": "coat",
+      "american": "overcoat",
+      "category": "clothing",
+      "generated_at": "2026-08-15T06:48:52.799605"
+    },
+    {
+      "british": "garter",
+      "american": "suspender",
+      "category": "clothing",
+      "generated_at": "2026-08-15T06:48:52.799616"
+    },
+    {
+      "british": "track",
+      "american": "path",
+      "category": "transport",
+      "generated_at": "2026-08-15T06:48:52.799617"
     }
   ],
-  "last_updated": "2026-08-15T02:42:44.606446"
+  "last_updated": "2026-08-15T06:48:52.799619"
 }
