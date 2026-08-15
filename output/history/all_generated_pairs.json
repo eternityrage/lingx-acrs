@@ -3953,7 +3953,25 @@
       "american": "neckband",
       "category": "clothing",
       "generated_at": "2026-08-15T14:12:28.350730"
+    },
+    {
+      "british": "bumbershoes",
+      "american": "galoshes",
+      "category": "clothing",
+      "generated_at": "2026-08-15T18:32:45.595736"
+    },
+    {
+      "british": "undercarriage",
+      "american": "panties",
+      "category": "clothing",
+      "generated_at": "2026-08-15T18:32:45.595746"
+    },
+    {
+      "british": "wireless",
+      "american": "radio",
+      "category": "shopping",
+      "generated_at": "2026-08-15T18:32:45.595747"
     }
   ],
-  "last_updated": "2026-08-15T14:12:28.350731"
+  "last_updated": "2026-08-15T18:32:45.595749"
 }
