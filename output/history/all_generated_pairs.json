@@ -3881,7 +3881,25 @@
       "american": "driveway",
       "category": "housing",
       "generated_at": "2026-08-14T18:57:38.492261"
+    },
+    {
+      "british": "bodice",
+      "american": "corsage",
+      "category": "clothing",
+      "generated_at": "2026-08-15T02:42:44.606435"
+    },
+    {
+      "british": "braless",
+      "american": "unsupported",
+      "category": "clothing",
+      "generated_at": "2026-08-15T02:42:44.606443"
+    },
+    {
+      "british": "cummerbund",
+      "american": "sash",
+      "category": "clothing",
+      "generated_at": "2026-08-15T02:42:44.606444"
     }
   ],
-  "last_updated": "2026-08-14T18:57:38.492263"
+  "last_updated": "2026-08-15T02:42:44.606446"
 }
