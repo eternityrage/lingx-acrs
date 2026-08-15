@@ -3917,7 +3917,25 @@
       "american": "path",
       "category": "transport",
       "generated_at": "2026-08-15T06:48:52.799617"
+    },
+    {
+      "british": "squash",
+      "american": "zucchini",
+      "category": "food and drink",
+      "generated_at": "2026-08-15T10:24:34.321901"
+    },
+    {
+      "british": "mansion",
+      "american": "estate",
+      "category": "housing",
+      "generated_at": "2026-08-15T10:24:34.321910"
+    },
+    {
+      "british": "drive",
+      "american": "driveway",
+      "category": "housing",
+      "generated_at": "2026-08-15T10:24:34.321912"
     }
   ],
-  "last_updated": "2026-08-15T06:48:52.799619"
+  "last_updated": "2026-08-15T10:24:34.321913"
 }
