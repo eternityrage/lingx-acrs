@@ -4043,7 +4043,25 @@
       "american": "intermission",
       "category": "sports",
       "generated_at": "2026-08-16T14:13:10.414330"
+    },
+    {
+      "british": "buttery",
+      "american": "margarine",
+      "category": "food and drink",
+      "generated_at": "2026-08-16T18:31:37.356265"
+    },
+    {
+      "british": "wall",
+      "american": "partition",
+      "category": "housing",
+      "generated_at": "2026-08-16T18:31:37.356276"
+    },
+    {
+      "british": "railing",
+      "american": "banister",
+      "category": "housing",
+      "generated_at": "2026-08-16T18:31:37.356278"
     }
   ],
-  "last_updated": "2026-08-16T14:13:10.414332"
+  "last_updated": "2026-08-16T18:31:37.356280"
 }
