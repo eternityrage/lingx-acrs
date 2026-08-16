@@ -4025,7 +4025,25 @@
       "american": "dye",
       "category": "health",
       "generated_at": "2026-08-16T10:25:17.249654"
+    },
+    {
+      "british": "tortoise",
+      "american": "turtle",
+      "category": "food and drink",
+      "generated_at": "2026-08-16T14:13:10.414316"
+    },
+    {
+      "british": "w.c.",
+      "american": "restroom",
+      "category": "housing",
+      "generated_at": "2026-08-16T14:13:10.414328"
+    },
+    {
+      "british": "halftime",
+      "american": "intermission",
+      "category": "sports",
+      "generated_at": "2026-08-16T14:13:10.414330"
     }
   ],
-  "last_updated": "2026-08-16T10:25:17.249655"
+  "last_updated": "2026-08-16T14:13:10.414332"
 }
