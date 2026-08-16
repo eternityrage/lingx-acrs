@@ -4007,7 +4007,25 @@
       "american": "hook-and-loop",
       "category": "clothing",
       "generated_at": "2026-08-16T06:49:24.506507"
+    },
+    {
+      "british": "chimney",
+      "american": "flue",
+      "category": "housing",
+      "generated_at": "2026-08-16T10:25:17.249643"
+    },
+    {
+      "british": "balcony",
+      "american": "terrace",
+      "category": "housing",
+      "generated_at": "2026-08-16T10:25:17.249652"
+    },
+    {
+      "british": "colourant",
+      "american": "dye",
+      "category": "health",
+      "generated_at": "2026-08-16T10:25:17.249654"
     }
   ],
-  "last_updated": "2026-08-16T06:49:24.506509"
+  "last_updated": "2026-08-16T10:25:17.249655"
 }
