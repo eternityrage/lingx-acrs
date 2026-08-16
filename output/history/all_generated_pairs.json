@@ -3971,7 +3971,25 @@
       "american": "radio",
       "category": "shopping",
       "generated_at": "2026-08-15T18:32:45.595747"
+    },
+    {
+      "british": "wholemeal",
+      "american": "wheat",
+      "category": "food and drink",
+      "generated_at": "2026-08-16T02:50:48.318250"
+    },
+    {
+      "british": "chilli",
+      "american": "chili",
+      "category": "food and drink",
+      "generated_at": "2026-08-16T02:50:48.318260"
+    },
+    {
+      "british": "nettles",
+      "american": "greens",
+      "category": "food and drink",
+      "generated_at": "2026-08-16T02:50:48.318261"
     }
   ],
-  "last_updated": "2026-08-15T18:32:45.595749"
+  "last_updated": "2026-08-16T02:50:48.318262"
 }
