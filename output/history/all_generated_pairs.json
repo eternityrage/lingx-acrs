@@ -3989,7 +3989,25 @@
       "american": "greens",
       "category": "food and drink",
       "generated_at": "2026-08-16T02:50:48.318261"
+    },
+    {
+      "british": "fresher",
+      "american": "grocery",
+      "category": "food and drink",
+      "generated_at": "2026-08-16T06:49:24.506495"
+    },
+    {
+      "british": "onions",
+      "american": "scallions",
+      "category": "food and drink",
+      "generated_at": "2026-08-16T06:49:24.506505"
+    },
+    {
+      "british": "velcro",
+      "american": "hook-and-loop",
+      "category": "clothing",
+      "generated_at": "2026-08-16T06:49:24.506507"
     }
   ],
-  "last_updated": "2026-08-16T02:50:48.318262"
+  "last_updated": "2026-08-16T06:49:24.506509"
 }
