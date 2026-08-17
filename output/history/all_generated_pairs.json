@@ -4115,7 +4115,25 @@
       "american": "fire",
       "category": "transport",
       "generated_at": "2026-08-17T10:34:09.050189"
+    },
+    {
+      "british": "jumper",
+      "american": "vest",
+      "category": "clothing",
+      "generated_at": "2026-08-17T14:18:02.979598"
+    },
+    {
+      "british": "pinny",
+      "american": "apron",
+      "category": "clothing",
+      "generated_at": "2026-08-17T14:18:02.979608"
+    },
+    {
+      "british": "vestibule",
+      "american": "entryway",
+      "category": "housing",
+      "generated_at": "2026-08-17T14:18:02.979610"
     }
   ],
-  "last_updated": "2026-08-17T10:34:09.050191"
+  "last_updated": "2026-08-17T14:18:02.979611"
 }
