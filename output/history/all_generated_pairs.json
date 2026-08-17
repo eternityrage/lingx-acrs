@@ -4133,7 +4133,25 @@
       "american": "entryway",
       "category": "housing",
       "generated_at": "2026-08-17T14:18:02.979610"
+    },
+    {
+      "british": "ground",
+      "american": "lawn",
+      "category": "housing",
+      "generated_at": "2026-08-17T18:42:53.724515"
+    },
+    {
+      "british": "bowls",
+      "american": "bowling",
+      "category": "sports",
+      "generated_at": "2026-08-17T18:42:53.724525"
+    },
+    {
+      "british": "bowel",
+      "american": "intestine",
+      "category": "health",
+      "generated_at": "2026-08-17T18:42:53.724527"
     }
   ],
-  "last_updated": "2026-08-17T14:18:02.979611"
+  "last_updated": "2026-08-17T18:42:53.724528"
 }
