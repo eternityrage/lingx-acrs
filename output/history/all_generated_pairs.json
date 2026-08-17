@@ -4097,7 +4097,25 @@
       "american": "gradient",
       "category": "transport",
       "generated_at": "2026-08-17T07:05:58.783758"
+    },
+    {
+      "british": "margarine",
+      "american": "butter",
+      "category": "food and drink",
+      "generated_at": "2026-08-17T10:34:09.050176"
+    },
+    {
+      "british": "winding",
+      "american": "spiral",
+      "category": "clothing",
+      "generated_at": "2026-08-17T10:34:09.050188"
+    },
+    {
+      "british": "bonfire",
+      "american": "fire",
+      "category": "transport",
+      "generated_at": "2026-08-17T10:34:09.050189"
     }
   ],
-  "last_updated": "2026-08-17T07:05:58.783760"
+  "last_updated": "2026-08-17T10:34:09.050191"
 }
