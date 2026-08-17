@@ -4061,7 +4061,25 @@
       "american": "banister",
       "category": "housing",
       "generated_at": "2026-08-16T18:31:37.356278"
+    },
+    {
+      "british": "borrow",
+      "american": "loan",
+      "category": "transport",
+      "generated_at": "2026-08-17T02:51:08.767311"
+    },
+    {
+      "british": "hire",
+      "american": "rent",
+      "category": "transport",
+      "generated_at": "2026-08-17T02:51:08.767322"
+    },
+    {
+      "british": "track",
+      "american": "racetrack",
+      "category": "transport",
+      "generated_at": "2026-08-17T02:51:08.767324"
     }
   ],
-  "last_updated": "2026-08-16T18:31:37.356280"
+  "last_updated": "2026-08-17T02:51:08.767326"
 }
