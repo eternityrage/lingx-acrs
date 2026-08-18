@@ -4151,7 +4151,25 @@
       "american": "intestine",
       "category": "health",
       "generated_at": "2026-08-17T18:42:53.724527"
+    },
+    {
+      "british": "candied",
+      "american": "jelly",
+      "category": "food and drink",
+      "generated_at": "2026-08-18T06:54:04.560271"
+    },
+    {
+      "british": "suspenders",
+      "american": "garters",
+      "category": "clothing",
+      "generated_at": "2026-08-18T06:54:04.560279"
+    },
+    {
+      "british": "path",
+      "american": "walkway",
+      "category": "housing",
+      "generated_at": "2026-08-18T06:54:04.560281"
     }
   ],
-  "last_updated": "2026-08-17T18:42:53.724528"
+  "last_updated": "2026-08-18T06:54:04.560283"
 }
