@@ -4187,7 +4187,25 @@
       "american": "underground",
       "category": "transport",
       "generated_at": "2026-08-18T14:22:37.401237"
+    },
+    {
+      "british": "cravat",
+      "american": "necktie",
+      "category": "clothing",
+      "generated_at": "2026-08-18T18:54:44.508968"
+    },
+    {
+      "british": "breakdown",
+      "american": "fender-bender",
+      "category": "transport",
+      "generated_at": "2026-08-18T18:54:44.508980"
+    },
+    {
+      "british": "ground",
+      "american": "dirt",
+      "category": "school",
+      "generated_at": "2026-08-18T18:54:44.508982"
     }
   ],
-  "last_updated": "2026-08-18T14:22:37.401239"
+  "last_updated": "2026-08-18T18:54:44.508984"
 }
