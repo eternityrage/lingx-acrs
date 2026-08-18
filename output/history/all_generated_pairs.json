@@ -4169,7 +4169,25 @@
       "american": "walkway",
       "category": "housing",
       "generated_at": "2026-08-18T06:54:04.560281"
+    },
+    {
+      "british": "nightshirt",
+      "american": "pajamas",
+      "category": "clothing",
+      "generated_at": "2026-08-18T14:22:37.401222"
+    },
+    {
+      "british": "pavement",
+      "american": "street",
+      "category": "transport",
+      "generated_at": "2026-08-18T14:22:37.401235"
+    },
+    {
+      "british": "subway",
+      "american": "underground",
+      "category": "transport",
+      "generated_at": "2026-08-18T14:22:37.401237"
     }
   ],
-  "last_updated": "2026-08-18T06:54:04.560283"
+  "last_updated": "2026-08-18T14:22:37.401239"
 }
