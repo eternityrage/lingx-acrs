@@ -4241,7 +4241,25 @@
       "american": "schedule",
       "category": "transport",
       "generated_at": "2026-08-19T06:57:26.661844"
+    },
+    {
+      "british": "trailer",
+      "american": "camper",
+      "category": "transport",
+      "generated_at": "2026-08-19T13:14:08.043065"
+    },
+    {
+      "british": "bathroom",
+      "american": "washroom",
+      "category": "housing",
+      "generated_at": "2026-08-19T13:14:08.043074"
+    },
+    {
+      "british": "kitchen",
+      "american": "galley",
+      "category": "housing",
+      "generated_at": "2026-08-19T13:14:08.043076"
     }
   ],
-  "last_updated": "2026-08-19T06:57:26.661846"
+  "last_updated": "2026-08-19T13:14:08.043077"
 }
