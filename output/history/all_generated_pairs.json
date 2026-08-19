@@ -4223,7 +4223,25 @@
       "american": "doorway",
       "category": "housing",
       "generated_at": "2026-08-19T02:53:09.192756"
+    },
+    {
+      "british": "knickers",
+      "american": "underpants",
+      "category": "clothing",
+      "generated_at": "2026-08-19T06:57:26.661834"
+    },
+    {
+      "british": "sock",
+      "american": "stocking",
+      "category": "clothing",
+      "generated_at": "2026-08-19T06:57:26.661843"
+    },
+    {
+      "british": "programme",
+      "american": "schedule",
+      "category": "transport",
+      "generated_at": "2026-08-19T06:57:26.661844"
     }
   ],
-  "last_updated": "2026-08-19T02:53:09.192757"
+  "last_updated": "2026-08-19T06:57:26.661846"
 }
