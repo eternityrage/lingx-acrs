@@ -4277,7 +4277,25 @@
       "american": "baseball",
       "category": "sports",
       "generated_at": "2026-08-19T14:23:31.779921"
+    },
+    {
+      "british": "nectarine",
+      "american": "peacherine",
+      "category": "food and drink",
+      "generated_at": "2026-08-19T18:53:22.297385"
+    },
+    {
+      "british": "decorator",
+      "american": "painter",
+      "category": "housing",
+      "generated_at": "2026-08-19T18:53:22.297396"
+    },
+    {
+      "british": "dummy",
+      "american": "pacifier",
+      "category": "shopping",
+      "generated_at": "2026-08-19T18:53:22.297398"
     }
   ],
-  "last_updated": "2026-08-19T14:23:31.779924"
+  "last_updated": "2026-08-19T18:53:22.297399"
 }
