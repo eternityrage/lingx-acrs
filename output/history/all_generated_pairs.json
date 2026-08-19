@@ -4259,7 +4259,25 @@
       "american": "galley",
       "category": "housing",
       "generated_at": "2026-08-19T13:14:08.043076"
+    },
+    {
+      "british": "lavatory",
+      "american": "bathroom",
+      "category": "housing",
+      "generated_at": "2026-08-19T14:23:31.779911"
+    },
+    {
+      "british": "baker",
+      "american": "bakery",
+      "category": "shopping",
+      "generated_at": "2026-08-19T14:23:31.779920"
+    },
+    {
+      "british": "rounders",
+      "american": "baseball",
+      "category": "sports",
+      "generated_at": "2026-08-19T14:23:31.779921"
     }
   ],
-  "last_updated": "2026-08-19T13:14:08.043077"
+  "last_updated": "2026-08-19T14:23:31.779924"
 }
