@@ -4205,7 +4205,25 @@
       "american": "dirt",
       "category": "school",
       "generated_at": "2026-08-18T18:54:44.508982"
+    },
+    {
+      "british": "hollandais",
+      "american": "dutch",
+      "category": "clothing",
+      "generated_at": "2026-08-19T02:53:09.192743"
+    },
+    {
+      "british": "taps",
+      "american": "faucet",
+      "category": "housing",
+      "generated_at": "2026-08-19T02:53:09.192754"
+    },
+    {
+      "british": "gate",
+      "american": "doorway",
+      "category": "housing",
+      "generated_at": "2026-08-19T02:53:09.192756"
     }
   ],
-  "last_updated": "2026-08-18T18:54:44.508984"
+  "last_updated": "2026-08-19T02:53:09.192757"
 }
