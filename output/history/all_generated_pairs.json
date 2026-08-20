@@ -4331,7 +4331,25 @@
       "american": "flyover",
       "category": "transport",
       "generated_at": "2026-08-20T06:55:45.609429"
+    },
+    {
+      "british": "rugger",
+      "american": "rugby",
+      "category": "sports",
+      "generated_at": "2026-08-20T10:33:13.692816"
+    },
+    {
+      "british": "match",
+      "american": "game",
+      "category": "sports",
+      "generated_at": "2026-08-20T10:33:13.692827"
+    },
+    {
+      "british": "reserve",
+      "american": "substitute",
+      "category": "sports",
+      "generated_at": "2026-08-20T10:33:13.692828"
     }
   ],
-  "last_updated": "2026-08-20T06:55:45.609431"
+  "last_updated": "2026-08-20T10:33:13.692830"
 }
