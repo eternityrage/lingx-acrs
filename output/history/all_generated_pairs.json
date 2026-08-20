@@ -4367,7 +4367,25 @@
       "american": "pane",
       "category": "housing",
       "generated_at": "2026-08-20T14:25:14.803250"
+    },
+    {
+      "british": "trifle",
+      "american": "parfait",
+      "category": "food and drink",
+      "generated_at": "2026-08-20T18:41:53.875315"
+    },
+    {
+      "british": "banger",
+      "american": "hotdog",
+      "category": "shopping",
+      "generated_at": "2026-08-20T18:41:53.875324"
+    },
+    {
+      "british": "ground",
+      "american": "field",
+      "category": "sports",
+      "generated_at": "2026-08-20T18:41:53.875325"
     }
   ],
-  "last_updated": "2026-08-20T14:25:14.803252"
+  "last_updated": "2026-08-20T18:41:53.875327"
 }
