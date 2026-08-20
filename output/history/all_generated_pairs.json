@@ -4349,7 +4349,25 @@
       "american": "substitute",
       "category": "sports",
       "generated_at": "2026-08-20T10:33:13.692828"
+    },
+    {
+      "british": "tying",
+      "american": "lacing",
+      "category": "clothing",
+      "generated_at": "2026-08-20T14:25:14.803237"
+    },
+    {
+      "british": "wall",
+      "american": "fence",
+      "category": "housing",
+      "generated_at": "2026-08-20T14:25:14.803248"
+    },
+    {
+      "british": "window",
+      "american": "pane",
+      "category": "housing",
+      "generated_at": "2026-08-20T14:25:14.803250"
     }
   ],
-  "last_updated": "2026-08-20T10:33:13.692830"
+  "last_updated": "2026-08-20T14:25:14.803252"
 }
