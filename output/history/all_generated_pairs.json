@@ -4313,7 +4313,25 @@
       "american": "bandaid",
       "category": "health",
       "generated_at": "2026-08-20T02:48:16.943273"
+    },
+    {
+      "british": "peignoir",
+      "american": "negligee",
+      "category": "clothing",
+      "generated_at": "2026-08-20T06:55:45.609418"
+    },
+    {
+      "british": "undergarment",
+      "american": "lingerie",
+      "category": "clothing",
+      "generated_at": "2026-08-20T06:55:45.609428"
+    },
+    {
+      "british": "overpass",
+      "american": "flyover",
+      "category": "transport",
+      "generated_at": "2026-08-20T06:55:45.609429"
     }
   ],
-  "last_updated": "2026-08-20T02:48:16.943275"
+  "last_updated": "2026-08-20T06:55:45.609431"
 }
