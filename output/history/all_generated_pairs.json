@@ -4295,7 +4295,25 @@
       "american": "pacifier",
       "category": "shopping",
       "generated_at": "2026-08-19T18:53:22.297398"
+    },
+    {
+      "british": "mobile",
+      "american": "cell",
+      "category": "food and drink",
+      "generated_at": "2026-08-20T02:48:16.943262"
+    },
+    {
+      "british": "mobile",
+      "american": "cell",
+      "category": "workplace",
+      "generated_at": "2026-08-20T02:48:16.943272"
+    },
+    {
+      "british": "plaster",
+      "american": "bandaid",
+      "category": "health",
+      "generated_at": "2026-08-20T02:48:16.943273"
     }
   ],
-  "last_updated": "2026-08-19T18:53:22.297399"
+  "last_updated": "2026-08-20T02:48:16.943275"
 }
