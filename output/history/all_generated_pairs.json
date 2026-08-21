@@ -4421,7 +4421,25 @@
       "american": "store",
       "category": "workplace",
       "generated_at": "2026-08-21T06:56:37.330301"
+    },
+    {
+      "british": "estate",
+      "american": "property",
+      "category": "housing",
+      "generated_at": "2026-08-21T10:33:32.823406"
+    },
+    {
+      "british": "detached",
+      "american": "single-family",
+      "category": "housing",
+      "generated_at": "2026-08-21T10:33:32.823415"
+    },
+    {
+      "british": "defence",
+      "american": "defense",
+      "category": "shopping",
+      "generated_at": "2026-08-21T10:33:32.823416"
     }
   ],
-  "last_updated": "2026-08-21T06:56:37.330303"
+  "last_updated": "2026-08-21T10:33:32.823418"
 }
