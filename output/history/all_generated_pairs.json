@@ -4403,7 +4403,25 @@
       "american": "forward",
       "category": "sports",
       "generated_at": "2026-08-21T02:54:38.788242"
+    },
+    {
+      "british": "dripping",
+      "american": "drippings",
+      "category": "food and drink",
+      "generated_at": "2026-08-21T06:56:37.330288"
+    },
+    {
+      "british": "swede",
+      "american": "suede",
+      "category": "clothing",
+      "generated_at": "2026-08-21T06:56:37.330299"
+    },
+    {
+      "british": "shop",
+      "american": "store",
+      "category": "workplace",
+      "generated_at": "2026-08-21T06:56:37.330301"
     }
   ],
-  "last_updated": "2026-08-21T02:54:38.788244"
+  "last_updated": "2026-08-21T06:56:37.330303"
 }
