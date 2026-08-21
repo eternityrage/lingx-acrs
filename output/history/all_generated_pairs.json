@@ -4385,7 +4385,25 @@
       "american": "field",
       "category": "sports",
       "generated_at": "2026-08-20T18:41:53.875325"
+    },
+    {
+      "british": "rugger",
+      "american": "football",
+      "category": "sports",
+      "generated_at": "2026-08-21T02:54:38.788232"
+    },
+    {
+      "british": "goalkeeper",
+      "american": "goalie",
+      "category": "sports",
+      "generated_at": "2026-08-21T02:54:38.788241"
+    },
+    {
+      "british": "striker",
+      "american": "forward",
+      "category": "sports",
+      "generated_at": "2026-08-21T02:54:38.788242"
     }
   ],
-  "last_updated": "2026-08-20T18:41:53.875327"
+  "last_updated": "2026-08-21T02:54:38.788244"
 }
