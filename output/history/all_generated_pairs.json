@@ -4439,7 +4439,25 @@
       "american": "defense",
       "category": "shopping",
       "generated_at": "2026-08-21T10:33:32.823416"
+    },
+    {
+      "british": "lager",
+      "american": "beer",
+      "category": "food and drink",
+      "generated_at": "2026-08-21T14:24:50.653633"
+    },
+    {
+      "british": "dustbin",
+      "american": "trashcan",
+      "category": "housing",
+      "generated_at": "2026-08-21T14:24:50.653643"
+    },
+    {
+      "british": "court",
+      "american": "rink",
+      "category": "sports",
+      "generated_at": "2026-08-21T14:24:50.653645"
     }
   ],
-  "last_updated": "2026-08-21T10:33:32.823418"
+  "last_updated": "2026-08-21T14:24:50.653647"
 }
