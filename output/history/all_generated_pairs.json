@@ -4457,7 +4457,25 @@
       "american": "rink",
       "category": "sports",
       "generated_at": "2026-08-21T14:24:50.653645"
+    },
+    {
+      "british": "caravan",
+      "american": "R.V.",
+      "category": "transport",
+      "generated_at": "2026-08-21T18:38:43.697871"
+    },
+    {
+      "british": "shed",
+      "american": "shack",
+      "category": "housing",
+      "generated_at": "2026-08-21T18:38:43.697882"
+    },
+    {
+      "british": "enquiry",
+      "american": "inquiry",
+      "category": "housing",
+      "generated_at": "2026-08-21T18:38:43.697884"
     }
   ],
-  "last_updated": "2026-08-21T14:24:50.653647"
+  "last_updated": "2026-08-21T18:38:43.697885"
 }
