@@ -4475,7 +4475,25 @@
       "american": "inquiry",
       "category": "housing",
       "generated_at": "2026-08-21T18:38:43.697884"
+    },
+    {
+      "british": "bath",
+      "american": "bathtub",
+      "category": "housing",
+      "generated_at": "2026-08-22T02:45:01.148692"
+    },
+    {
+      "british": "underlay",
+      "american": "padding",
+      "category": "housing",
+      "generated_at": "2026-08-22T02:45:01.148703"
+    },
+    {
+      "british": "gully",
+      "american": "drainpipe",
+      "category": "housing",
+      "generated_at": "2026-08-22T02:45:01.148705"
     }
   ],
-  "last_updated": "2026-08-21T18:38:43.697885"
+  "last_updated": "2026-08-22T02:45:01.148707"
 }
