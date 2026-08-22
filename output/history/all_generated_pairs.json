@@ -4547,7 +4547,25 @@
       "american": "hall",
       "category": "housing",
       "generated_at": "2026-08-22T14:11:30.903690"
+    },
+    {
+      "british": "spanner",
+      "american": "wrench",
+      "category": "food and drink",
+      "generated_at": "2026-08-22T18:33:05.120320"
+    },
+    {
+      "british": "gate",
+      "american": "door",
+      "category": "housing",
+      "generated_at": "2026-08-22T18:33:05.120329"
+    },
+    {
+      "british": "hallway",
+      "american": "corridor",
+      "category": "housing",
+      "generated_at": "2026-08-22T18:33:05.120331"
     }
   ],
-  "last_updated": "2026-08-22T14:11:30.903692"
+  "last_updated": "2026-08-22T18:33:05.120333"
 }
