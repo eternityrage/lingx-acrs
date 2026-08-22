@@ -4511,7 +4511,25 @@
       "american": "rug",
       "category": "housing",
       "generated_at": "2026-08-22T06:49:39.225963"
+    },
+    {
+      "british": "scampi",
+      "american": "shrimp",
+      "category": "food and drink",
+      "generated_at": "2026-08-22T10:25:40.666077"
+    },
+    {
+      "british": "saloon",
+      "american": "sedan",
+      "category": "transport",
+      "generated_at": "2026-08-22T10:25:40.666085"
+    },
+    {
+      "british": "engine",
+      "american": "motor",
+      "category": "workplace",
+      "generated_at": "2026-08-22T10:25:40.666087"
     }
   ],
-  "last_updated": "2026-08-22T06:49:39.225965"
+  "last_updated": "2026-08-22T10:25:40.666089"
 }
