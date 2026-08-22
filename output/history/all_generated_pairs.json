@@ -4493,7 +4493,25 @@
       "american": "drainpipe",
       "category": "housing",
       "generated_at": "2026-08-22T02:45:01.148705"
+    },
+    {
+      "british": "breakdown",
+      "american": "trouble",
+      "category": "transport",
+      "generated_at": "2026-08-22T06:49:39.225949"
+    },
+    {
+      "british": "motor",
+      "american": "engine",
+      "category": "transport",
+      "generated_at": "2026-08-22T06:49:39.225961"
+    },
+    {
+      "british": "tapestry",
+      "american": "rug",
+      "category": "housing",
+      "generated_at": "2026-08-22T06:49:39.225963"
     }
   ],
-  "last_updated": "2026-08-22T02:45:01.148707"
+  "last_updated": "2026-08-22T06:49:39.225965"
 }
