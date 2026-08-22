@@ -4529,7 +4529,25 @@
       "american": "motor",
       "category": "workplace",
       "generated_at": "2026-08-22T10:25:40.666087"
+    },
+    {
+      "british": "layover",
+      "american": "stopover",
+      "category": "transport",
+      "generated_at": "2026-08-22T14:11:30.903679"
+    },
+    {
+      "british": "antechamber",
+      "american": "foyer",
+      "category": "housing",
+      "generated_at": "2026-08-22T14:11:30.903689"
+    },
+    {
+      "british": "landing",
+      "american": "hall",
+      "category": "housing",
+      "generated_at": "2026-08-22T14:11:30.903690"
     }
   ],
-  "last_updated": "2026-08-22T10:25:40.666089"
+  "last_updated": "2026-08-22T14:11:30.903692"
 }
