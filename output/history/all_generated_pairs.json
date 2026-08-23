@@ -4583,7 +4583,25 @@
       "american": "backyard",
       "category": "housing",
       "generated_at": "2026-08-23T02:53:25.863816"
+    },
+    {
+      "british": "ward",
+      "american": "hospital-room",
+      "category": "health",
+      "generated_at": "2026-08-23T06:51:11.913111"
+    },
+    {
+      "british": "chemotherapy",
+      "american": "chemo",
+      "category": "health",
+      "generated_at": "2026-08-23T06:51:11.913120"
+    },
+    {
+      "british": "GP",
+      "american": "primary-care-doctor",
+      "category": "health",
+      "generated_at": "2026-08-23T06:51:11.913122"
     }
   ],
-  "last_updated": "2026-08-23T02:53:25.863818"
+  "last_updated": "2026-08-23T06:51:11.913123"
 }
