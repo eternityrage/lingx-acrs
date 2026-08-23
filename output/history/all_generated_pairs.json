@@ -4601,7 +4601,25 @@
       "american": "primary-care-doctor",
       "category": "health",
       "generated_at": "2026-08-23T06:51:11.913122"
+    },
+    {
+      "british": "jeggings",
+      "american": "leggings",
+      "category": "clothing",
+      "generated_at": "2026-08-23T10:26:36.052126"
+    },
+    {
+      "british": "street",
+      "american": "avenue",
+      "category": "transport",
+      "generated_at": "2026-08-23T10:26:36.052136"
+    },
+    {
+      "british": "engrossed",
+      "american": "absorbed",
+      "category": "workplace",
+      "generated_at": "2026-08-23T10:26:36.052138"
     }
   ],
-  "last_updated": "2026-08-23T06:51:11.913123"
+  "last_updated": "2026-08-23T10:26:36.052140"
 }
