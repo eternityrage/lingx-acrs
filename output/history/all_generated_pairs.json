@@ -4619,7 +4619,25 @@
       "american": "absorbed",
       "category": "workplace",
       "generated_at": "2026-08-23T10:26:36.052138"
+    },
+    {
+      "british": "shallot",
+      "american": "escallion",
+      "category": "food and drink",
+      "generated_at": "2026-08-23T14:13:29.011340"
+    },
+    {
+      "british": "rent",
+      "american": "lease",
+      "category": "housing",
+      "generated_at": "2026-08-23T14:13:29.011349"
+    },
+    {
+      "british": "faucet",
+      "american": "tap",
+      "category": "housing",
+      "generated_at": "2026-08-23T14:13:29.011351"
     }
   ],
-  "last_updated": "2026-08-23T10:26:36.052140"
+  "last_updated": "2026-08-23T14:13:29.011352"
 }
