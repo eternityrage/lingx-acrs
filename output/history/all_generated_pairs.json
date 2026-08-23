@@ -4637,7 +4637,25 @@
       "american": "tap",
       "category": "housing",
       "generated_at": "2026-08-23T14:13:29.011351"
+    },
+    {
+      "british": "pumps",
+      "american": "heels",
+      "category": "clothing",
+      "generated_at": "2026-08-23T18:32:19.201021"
+    },
+    {
+      "british": "bodice",
+      "american": "camisole",
+      "category": "clothing",
+      "generated_at": "2026-08-23T18:32:19.201031"
+    },
+    {
+      "british": "breakdown",
+      "american": "failure",
+      "category": "transport",
+      "generated_at": "2026-08-23T18:32:19.201033"
     }
   ],
-  "last_updated": "2026-08-23T14:13:29.011352"
+  "last_updated": "2026-08-23T18:32:19.201034"
 }
