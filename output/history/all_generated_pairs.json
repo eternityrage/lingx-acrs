@@ -4565,7 +4565,25 @@
       "american": "corridor",
       "category": "housing",
       "generated_at": "2026-08-22T18:33:05.120331"
+    },
+    {
+      "british": "ground",
+      "american": "yard",
+      "category": "housing",
+      "generated_at": "2026-08-23T02:53:25.863804"
+    },
+    {
+      "british": "hallway",
+      "american": "foyer",
+      "category": "housing",
+      "generated_at": "2026-08-23T02:53:25.863815"
+    },
+    {
+      "british": "garden",
+      "american": "backyard",
+      "category": "housing",
+      "generated_at": "2026-08-23T02:53:25.863816"
     }
   ],
-  "last_updated": "2026-08-22T18:33:05.120333"
+  "last_updated": "2026-08-23T02:53:25.863818"
 }
