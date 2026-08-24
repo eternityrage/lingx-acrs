@@ -4709,7 +4709,25 @@
       "american": "foil",
       "category": "sports",
       "generated_at": "2026-08-24T10:39:41.443777"
+    },
+    {
+      "british": "saucepan",
+      "american": "pot",
+      "category": "food and drink",
+      "generated_at": "2026-08-24T14:31:47.559645"
+    },
+    {
+      "british": "journey",
+      "american": "trip",
+      "category": "transport",
+      "generated_at": "2026-08-24T14:31:47.559656"
+    },
+    {
+      "british": "stationary",
+      "american": "stopped",
+      "category": "transport",
+      "generated_at": "2026-08-24T14:31:47.559658"
     }
   ],
-  "last_updated": "2026-08-24T10:39:41.443779"
+  "last_updated": "2026-08-24T14:31:47.559659"
 }
