@@ -4655,7 +4655,25 @@
       "american": "failure",
       "category": "transport",
       "generated_at": "2026-08-23T18:32:19.201033"
+    },
+    {
+      "british": "underpants",
+      "american": "underweear",
+      "category": "clothing",
+      "generated_at": "2026-08-24T02:54:33.206661"
+    },
+    {
+      "british": "hall",
+      "american": "hallway",
+      "category": "housing",
+      "generated_at": "2026-08-24T02:54:33.206672"
+    },
+    {
+      "british": "landing",
+      "american": "foyer",
+      "category": "housing",
+      "generated_at": "2026-08-24T02:54:33.206673"
     }
   ],
-  "last_updated": "2026-08-23T18:32:19.201034"
+  "last_updated": "2026-08-24T02:54:33.206675"
 }
