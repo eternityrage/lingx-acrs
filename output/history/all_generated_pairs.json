@@ -4727,7 +4727,25 @@
       "american": "stopped",
       "category": "transport",
       "generated_at": "2026-08-24T14:31:47.559658"
+    },
+    {
+      "british": "bibs",
+      "american": "smocks",
+      "category": "clothing",
+      "generated_at": "2026-08-24T18:42:54.472756"
+    },
+    {
+      "british": "crib",
+      "american": "cot",
+      "category": "transport",
+      "generated_at": "2026-08-24T18:42:54.472769"
+    },
+    {
+      "british": "oil",
+      "american": "lard",
+      "category": "shopping",
+      "generated_at": "2026-08-24T18:42:54.472770"
     }
   ],
-  "last_updated": "2026-08-24T14:31:47.559659"
+  "last_updated": "2026-08-24T18:42:54.472771"
 }
