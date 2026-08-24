@@ -4673,7 +4673,25 @@
       "american": "foyer",
       "category": "housing",
       "generated_at": "2026-08-24T02:54:33.206673"
+    },
+    {
+      "british": "downpipe",
+      "american": "leader",
+      "category": "housing",
+      "generated_at": "2026-08-24T07:09:20.351465"
+    },
+    {
+      "british": "enginetrain",
+      "american": "locomotive",
+      "category": "workplace",
+      "generated_at": "2026-08-24T07:09:20.351476"
+    },
+    {
+      "british": "holidays",
+      "american": "break",
+      "category": "school",
+      "generated_at": "2026-08-24T07:09:20.351478"
     }
   ],
-  "last_updated": "2026-08-24T02:54:33.206675"
+  "last_updated": "2026-08-24T07:09:20.351480"
 }
