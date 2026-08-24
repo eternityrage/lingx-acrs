@@ -4691,7 +4691,25 @@
       "american": "break",
       "category": "school",
       "generated_at": "2026-08-24T07:09:20.351478"
+    },
+    {
+      "british": "nationality",
+      "american": "citizenship",
+      "category": "transport",
+      "generated_at": "2026-08-24T10:39:41.443761"
+    },
+    {
+      "british": "holidaymaker",
+      "american": "tourist",
+      "category": "workplace",
+      "generated_at": "2026-08-24T10:39:41.443775"
+    },
+    {
+      "british": "fencing",
+      "american": "foil",
+      "category": "sports",
+      "generated_at": "2026-08-24T10:39:41.443777"
     }
   ],
-  "last_updated": "2026-08-24T07:09:20.351480"
+  "last_updated": "2026-08-24T10:39:41.443779"
 }
