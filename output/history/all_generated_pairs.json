@@ -4745,7 +4745,25 @@
       "american": "lard",
       "category": "shopping",
       "generated_at": "2026-08-24T18:42:54.472770"
+    },
+    {
+      "british": "bungalow",
+      "american": "ranch",
+      "category": "housing",
+      "generated_at": "2026-08-25T02:50:13.853511"
+    },
+    {
+      "british": "letterbox",
+      "american": "mailbox",
+      "category": "housing",
+      "generated_at": "2026-08-25T02:50:13.853523"
+    },
+    {
+      "british": "plaster",
+      "american": "cast",
+      "category": "school",
+      "generated_at": "2026-08-25T02:50:13.853525"
     }
   ],
-  "last_updated": "2026-08-24T18:42:54.472771"
+  "last_updated": "2026-08-25T02:50:13.853527"
 }
