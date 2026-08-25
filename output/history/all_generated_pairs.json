@@ -4781,7 +4781,25 @@
       "american": "college",
       "category": "school",
       "generated_at": "2026-08-25T06:57:25.192498"
+    },
+    {
+      "british": "leggings",
+      "american": "jeggings",
+      "category": "clothing",
+      "generated_at": "2026-08-25T10:36:57.036018"
+    },
+    {
+      "british": "minibus",
+      "american": "van",
+      "category": "transport",
+      "generated_at": "2026-08-25T10:36:57.036026"
+    },
+    {
+      "british": "maisonette",
+      "american": "apartment",
+      "category": "housing",
+      "generated_at": "2026-08-25T10:36:57.036028"
     }
   ],
-  "last_updated": "2026-08-25T06:57:25.192500"
+  "last_updated": "2026-08-25T10:36:57.036030"
 }
