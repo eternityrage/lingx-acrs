@@ -4817,7 +4817,25 @@
       "american": "pool",
       "category": "sports",
       "generated_at": "2026-08-25T14:35:10.223814"
+    },
+    {
+      "british": "railings",
+      "american": "banisters",
+      "category": "housing",
+      "generated_at": "2026-08-25T18:42:33.349035"
+    },
+    {
+      "british": "magnificent",
+      "american": "gorgeous",
+      "category": "housing",
+      "generated_at": "2026-08-25T18:42:33.349045"
+    },
+    {
+      "british": "magnificent",
+      "american": "gorgeous",
+      "category": "housing",
+      "generated_at": "2026-08-25T18:42:33.349047"
     }
   ],
-  "last_updated": "2026-08-25T14:35:10.223816"
+  "last_updated": "2026-08-25T18:42:33.349049"
 }
