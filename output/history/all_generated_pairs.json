@@ -4799,7 +4799,25 @@
       "american": "apartment",
       "category": "housing",
       "generated_at": "2026-08-25T10:36:57.036028"
+    },
+    {
+      "british": "underground",
+      "american": "metro",
+      "category": "transport",
+      "generated_at": "2026-08-25T14:35:10.223792"
+    },
+    {
+      "british": "bin",
+      "american": "can",
+      "category": "housing",
+      "generated_at": "2026-08-25T14:35:10.223812"
+    },
+    {
+      "british": "billiards",
+      "american": "pool",
+      "category": "sports",
+      "generated_at": "2026-08-25T14:35:10.223814"
     }
   ],
-  "last_updated": "2026-08-25T10:36:57.036030"
+  "last_updated": "2026-08-25T14:35:10.223816"
 }
