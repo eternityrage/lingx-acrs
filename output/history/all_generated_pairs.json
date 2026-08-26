@@ -4871,7 +4871,25 @@
       "american": "motorsports",
       "category": "sports",
       "generated_at": "2026-08-26T06:59:10.731346"
+    },
+    {
+      "british": "buttery",
+      "american": "spread",
+      "category": "food and drink",
+      "generated_at": "2026-08-26T10:38:29.826302"
+    },
+    {
+      "british": "bonfire",
+      "american": "campfire",
+      "category": "transport",
+      "generated_at": "2026-08-26T10:38:29.826313"
+    },
+    {
+      "british": "doctor",
+      "american": "physician",
+      "category": "health",
+      "generated_at": "2026-08-26T10:38:29.826315"
     }
   ],
-  "last_updated": "2026-08-26T06:59:10.731348"
+  "last_updated": "2026-08-26T10:38:29.826316"
 }
