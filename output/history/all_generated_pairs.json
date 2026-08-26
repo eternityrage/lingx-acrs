@@ -4853,7 +4853,25 @@
       "american": "team",
       "category": "sports",
       "generated_at": "2026-08-26T02:57:11.877466"
+    },
+    {
+      "british": "boiler",
+      "american": "furnace",
+      "category": "housing",
+      "generated_at": "2026-08-26T06:59:10.731332"
+    },
+    {
+      "british": "chimney",
+      "american": "fireplace",
+      "category": "housing",
+      "generated_at": "2026-08-26T06:59:10.731344"
+    },
+    {
+      "british": "motorsport",
+      "american": "motorsports",
+      "category": "sports",
+      "generated_at": "2026-08-26T06:59:10.731346"
     }
   ],
-  "last_updated": "2026-08-26T02:57:11.877468"
+  "last_updated": "2026-08-26T06:59:10.731348"
 }
