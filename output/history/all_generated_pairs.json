@@ -4835,7 +4835,25 @@
       "american": "gorgeous",
       "category": "housing",
       "generated_at": "2026-08-25T18:42:33.349047"
+    },
+    {
+      "british": "romper",
+      "american": "onesie",
+      "category": "clothing",
+      "generated_at": "2026-08-26T02:57:11.877455"
+    },
+    {
+      "british": "kit",
+      "american": "uniform",
+      "category": "sports",
+      "generated_at": "2026-08-26T02:57:11.877465"
+    },
+    {
+      "british": "club",
+      "american": "team",
+      "category": "sports",
+      "generated_at": "2026-08-26T02:57:11.877466"
     }
   ],
-  "last_updated": "2026-08-25T18:42:33.349049"
+  "last_updated": "2026-08-26T02:57:11.877468"
 }
