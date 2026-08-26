@@ -4889,7 +4889,25 @@
       "american": "physician",
       "category": "health",
       "generated_at": "2026-08-26T10:38:29.826315"
+    },
+    {
+      "british": "squash",
+      "american": "nut",
+      "category": "food and drink",
+      "generated_at": "2026-08-26T14:34:55.124457"
+    },
+    {
+      "british": "gravy",
+      "american": "jus",
+      "category": "food and drink",
+      "generated_at": "2026-08-26T14:34:55.124477"
+    },
+    {
+      "british": "pusher",
+      "american": "stroller",
+      "category": "shopping",
+      "generated_at": "2026-08-26T14:34:55.124478"
     }
   ],
-  "last_updated": "2026-08-26T10:38:29.826316"
+  "last_updated": "2026-08-26T14:34:55.124480"
 }
