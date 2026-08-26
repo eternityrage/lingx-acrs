@@ -4907,7 +4907,25 @@
       "american": "stroller",
       "category": "shopping",
       "generated_at": "2026-08-26T14:34:55.124478"
+    },
+    {
+      "british": "biscuits",
+      "american": "crackers",
+      "category": "food and drink",
+      "generated_at": "2026-08-26T19:56:43.183019"
+    },
+    {
+      "british": "semidetached",
+      "american": "duplex",
+      "category": "housing",
+      "generated_at": "2026-08-26T19:56:43.183031"
+    },
+    {
+      "british": "hoist",
+      "american": "pulley",
+      "category": "housing",
+      "generated_at": "2026-08-26T19:56:43.183033"
     }
   ],
-  "last_updated": "2026-08-26T14:34:55.124480"
+  "last_updated": "2026-08-26T19:56:43.183034"
 }
