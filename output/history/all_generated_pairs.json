@@ -4943,7 +4943,25 @@
       "american": "duplex",
       "category": "housing",
       "generated_at": "2026-08-27T12:06:53.377934"
+    },
+    {
+      "british": "ground",
+      "american": "powder",
+      "category": "food and drink",
+      "generated_at": "2026-08-27T17:32:05.172704"
+    },
+    {
+      "british": "layby",
+      "american": "pull-off",
+      "category": "transport",
+      "generated_at": "2026-08-27T17:32:05.172713"
+    },
+    {
+      "british": "refrigerator",
+      "american": "fridge",
+      "category": "housing",
+      "generated_at": "2026-08-27T17:32:05.172714"
     }
   ],
-  "last_updated": "2026-08-27T12:06:53.377935"
+  "last_updated": "2026-08-27T17:32:05.172716"
 }
