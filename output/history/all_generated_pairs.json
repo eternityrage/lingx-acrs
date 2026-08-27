@@ -4961,7 +4961,25 @@
       "american": "fridge",
       "category": "housing",
       "generated_at": "2026-08-27T17:32:05.172714"
+    },
+    {
+      "british": "lawn",
+      "american": "grass",
+      "category": "sports",
+      "generated_at": "2026-08-27T20:13:45.928803"
+    },
+    {
+      "british": "racing",
+      "american": "derby",
+      "category": "sports",
+      "generated_at": "2026-08-27T20:13:45.928812"
+    },
+    {
+      "british": "swimming",
+      "american": "aquatics",
+      "category": "sports",
+      "generated_at": "2026-08-27T20:13:45.928814"
     }
   ],
-  "last_updated": "2026-08-27T17:32:05.172716"
+  "last_updated": "2026-08-27T20:13:45.928816"
 }
