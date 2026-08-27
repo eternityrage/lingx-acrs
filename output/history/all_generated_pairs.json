@@ -4925,7 +4925,25 @@
       "american": "pulley",
       "category": "housing",
       "generated_at": "2026-08-26T19:56:43.183033"
+    },
+    {
+      "british": "blazer",
+      "american": "sportcoat",
+      "category": "clothing",
+      "generated_at": "2026-08-27T12:06:53.377920"
+    },
+    {
+      "british": "bypass",
+      "american": "beltway",
+      "category": "transport",
+      "generated_at": "2026-08-27T12:06:53.377932"
+    },
+    {
+      "british": "semi",
+      "american": "duplex",
+      "category": "housing",
+      "generated_at": "2026-08-27T12:06:53.377934"
     }
   ],
-  "last_updated": "2026-08-26T19:56:43.183034"
+  "last_updated": "2026-08-27T12:06:53.377935"
 }
