@@ -4979,7 +4979,25 @@
       "american": "aquatics",
       "category": "sports",
       "generated_at": "2026-08-27T20:13:45.928814"
+    },
+    {
+      "british": "council",
+      "american": "commission",
+      "category": "transport",
+      "generated_at": "2026-08-27T23:20:01.047711"
+    },
+    {
+      "british": "fuel",
+      "american": "gasoline",
+      "category": "transport",
+      "generated_at": "2026-08-27T23:20:01.047723"
+    },
+    {
+      "british": "madam",
+      "american": "ma'am",
+      "category": "school",
+      "generated_at": "2026-08-27T23:20:01.047725"
     }
   ],
-  "last_updated": "2026-08-27T20:13:45.928816"
+  "last_updated": "2026-08-27T23:20:01.047727"
 }
