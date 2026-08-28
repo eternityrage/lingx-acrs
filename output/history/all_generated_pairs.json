@@ -4997,7 +4997,25 @@
       "american": "ma'am",
       "category": "school",
       "generated_at": "2026-08-27T23:20:01.047725"
+    },
+    {
+      "british": "roast",
+      "american": "baking",
+      "category": "food and drink",
+      "generated_at": "2026-08-28T02:05:56.618254"
+    },
+    {
+      "british": "pease",
+      "american": "peas",
+      "category": "food and drink",
+      "generated_at": "2026-08-28T02:05:56.618262"
+    },
+    {
+      "british": "counselling",
+      "american": "therapy",
+      "category": "health",
+      "generated_at": "2026-08-28T02:05:56.618264"
     }
   ],
-  "last_updated": "2026-08-27T23:20:01.047727"
+  "last_updated": "2026-08-28T02:05:56.618266"
 }
