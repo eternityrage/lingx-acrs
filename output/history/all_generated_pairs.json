@@ -5033,7 +5033,25 @@
       "american": "antiseptic",
       "category": "health",
       "generated_at": "2026-08-28T13:28:44.886913"
+    },
+    {
+      "british": "toilet",
+      "american": "restroom",
+      "category": "housing",
+      "generated_at": "2026-08-28T18:28:13.908847"
+    },
+    {
+      "british": "chemists",
+      "american": "pharmacy",
+      "category": "health",
+      "generated_at": "2026-08-28T18:28:13.908858"
+    },
+    {
+      "british": "plaster",
+      "american": "bandage",
+      "category": "health",
+      "generated_at": "2026-08-28T18:28:13.908860"
     }
   ],
-  "last_updated": "2026-08-28T13:28:44.886915"
+  "last_updated": "2026-08-28T18:28:13.908862"
 }
