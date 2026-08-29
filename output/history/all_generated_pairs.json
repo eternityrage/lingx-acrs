@@ -5141,7 +5141,25 @@
       "american": "stake",
       "category": "sports",
       "generated_at": "2026-08-29T12:34:21.000536"
+    },
+    {
+      "british": "rounders",
+      "american": "softball",
+      "category": "sports",
+      "generated_at": "2026-08-29T14:58:34.928552"
+    },
+    {
+      "british": "boxing",
+      "american": "pugilism",
+      "category": "sports",
+      "generated_at": "2026-08-29T14:58:34.928563"
+    },
+    {
+      "british": "cycling",
+      "american": "bicycling",
+      "category": "sports",
+      "generated_at": "2026-08-29T14:58:34.928564"
     }
   ],
-  "last_updated": "2026-08-29T12:34:21.000538"
+  "last_updated": "2026-08-29T14:58:34.928566"
 }
