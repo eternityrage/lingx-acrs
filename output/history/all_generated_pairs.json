@@ -5159,7 +5159,25 @@
       "american": "bicycling",
       "category": "sports",
       "generated_at": "2026-08-29T14:58:34.928564"
+    },
+    {
+      "british": "nectar",
+      "american": "cordial",
+      "category": "food and drink",
+      "generated_at": "2026-08-29T17:27:18.422036"
+    },
+    {
+      "british": "gin",
+      "american": "moonshine",
+      "category": "food and drink",
+      "generated_at": "2026-08-29T17:27:18.422046"
+    },
+    {
+      "british": "windcheater",
+      "american": "hoodie",
+      "category": "clothing",
+      "generated_at": "2026-08-29T17:27:18.422048"
     }
   ],
-  "last_updated": "2026-08-29T14:58:34.928566"
+  "last_updated": "2026-08-29T17:27:18.422049"
 }
