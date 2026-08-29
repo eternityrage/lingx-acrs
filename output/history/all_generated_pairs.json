@@ -5177,7 +5177,25 @@
       "american": "hoodie",
       "category": "clothing",
       "generated_at": "2026-08-29T17:27:18.422048"
+    },
+    {
+      "british": "booster",
+      "american": "shot",
+      "category": "food and drink",
+      "generated_at": "2026-08-29T20:33:55.795868"
+    },
+    {
+      "british": "maisonette",
+      "american": "condo",
+      "category": "housing",
+      "generated_at": "2026-08-29T20:33:55.795878"
+    },
+    {
+      "british": "hovel",
+      "american": "shack",
+      "category": "housing",
+      "generated_at": "2026-08-29T20:33:55.795879"
     }
   ],
-  "last_updated": "2026-08-29T17:27:18.422049"
+  "last_updated": "2026-08-29T20:33:55.795881"
 }
