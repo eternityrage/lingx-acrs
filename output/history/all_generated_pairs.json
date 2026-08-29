@@ -5087,7 +5087,25 @@
       "american": "pharmacy",
       "category": "school",
       "generated_at": "2026-08-28T23:16:57.731659"
+    },
+    {
+      "british": "pepper",
+      "american": "spice",
+      "category": "food and drink",
+      "generated_at": "2026-08-29T01:31:14.402678"
+    },
+    {
+      "british": "reggings",
+      "american": "leggings",
+      "category": "clothing",
+      "generated_at": "2026-08-29T01:31:14.402691"
+    },
+    {
+      "british": "dipper",
+      "american": "headlight",
+      "category": "transport",
+      "generated_at": "2026-08-29T01:31:14.402692"
     }
   ],
-  "last_updated": "2026-08-28T23:16:57.731661"
+  "last_updated": "2026-08-29T01:31:14.402694"
 }
