@@ -5123,7 +5123,25 @@
       "american": "pool",
       "category": "sports",
       "generated_at": "2026-08-29T08:22:49.884140"
+    },
+    {
+      "british": "cleats",
+      "american": "studs",
+      "category": "sports",
+      "generated_at": "2026-08-29T12:34:21.000526"
+    },
+    {
+      "british": "whistle",
+      "american": "siren",
+      "category": "sports",
+      "generated_at": "2026-08-29T12:34:21.000534"
+    },
+    {
+      "british": "tee",
+      "american": "stake",
+      "category": "sports",
+      "generated_at": "2026-08-29T12:34:21.000536"
     }
   ],
-  "last_updated": "2026-08-29T08:22:49.884142"
+  "last_updated": "2026-08-29T12:34:21.000538"
 }
