@@ -5105,7 +5105,25 @@
       "american": "headlight",
       "category": "transport",
       "generated_at": "2026-08-29T01:31:14.402692"
+    },
+    {
+      "british": "cress",
+      "american": "watercress",
+      "category": "food and drink",
+      "generated_at": "2026-08-29T08:22:49.884128"
+    },
+    {
+      "british": "scullery",
+      "american": "pantry",
+      "category": "housing",
+      "generated_at": "2026-08-29T08:22:49.884138"
+    },
+    {
+      "british": "snooker",
+      "american": "pool",
+      "category": "sports",
+      "generated_at": "2026-08-29T08:22:49.884140"
     }
   ],
-  "last_updated": "2026-08-29T01:31:14.402694"
+  "last_updated": "2026-08-29T08:22:49.884142"
 }
