@@ -5213,7 +5213,25 @@
       "american": "angry",
       "category": "workplace",
       "generated_at": "2026-08-30T07:35:47.237060"
+    },
+    {
+      "british": "docket",
+      "american": "bun",
+      "category": "food and drink",
+      "generated_at": "2026-08-30T11:40:15.205571"
+    },
+    {
+      "british": "nougat",
+      "american": "candy",
+      "category": "food and drink",
+      "generated_at": "2026-08-30T11:40:15.205579"
+    },
+    {
+      "british": "thirst-quencher",
+      "american": "soda",
+      "category": "food and drink",
+      "generated_at": "2026-08-30T11:40:15.205581"
     }
   ],
-  "last_updated": "2026-08-30T07:35:47.237062"
+  "last_updated": "2026-08-30T11:40:15.205583"
 }
