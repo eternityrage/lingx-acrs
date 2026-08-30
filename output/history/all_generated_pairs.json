@@ -5267,7 +5267,25 @@
       "american": "bandages",
       "category": "health",
       "generated_at": "2026-08-30T17:50:57.247684"
+    },
+    {
+      "british": "matches",
+      "american": "lighter",
+      "category": "clothing",
+      "generated_at": "2026-08-30T20:42:42.115484"
+    },
+    {
+      "british": "lodger",
+      "american": "roomer",
+      "category": "housing",
+      "generated_at": "2026-08-30T20:42:42.115492"
+    },
+    {
+      "british": "landlord",
+      "american": "lessor",
+      "category": "housing",
+      "generated_at": "2026-08-30T20:42:42.115493"
     }
   ],
-  "last_updated": "2026-08-30T17:50:57.247686"
+  "last_updated": "2026-08-30T20:42:42.115495"
 }
