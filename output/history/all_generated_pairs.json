@@ -5195,7 +5195,25 @@
       "american": "shack",
       "category": "housing",
       "generated_at": "2026-08-29T20:33:55.795879"
+    },
+    {
+      "british": "zero",
+      "american": "oh",
+      "category": "food and drink",
+      "generated_at": "2026-08-30T07:35:47.237050"
+    },
+    {
+      "british": "crossing",
+      "american": "intersection",
+      "category": "transport",
+      "generated_at": "2026-08-30T07:35:47.237059"
+    },
+    {
+      "british": "mad",
+      "american": "angry",
+      "category": "workplace",
+      "generated_at": "2026-08-30T07:35:47.237060"
     }
   ],
-  "last_updated": "2026-08-29T20:33:55.795881"
+  "last_updated": "2026-08-30T07:35:47.237062"
 }
