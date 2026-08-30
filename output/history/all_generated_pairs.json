@@ -5249,7 +5249,25 @@
       "american": "puffy",
       "category": "health",
       "generated_at": "2026-08-30T14:44:44.389103"
+    },
+    {
+      "british": "consultant",
+      "american": "specialist",
+      "category": "health",
+      "generated_at": "2026-08-30T17:50:57.247671"
+    },
+    {
+      "british": "disinfectant",
+      "american": "sanitizer",
+      "category": "health",
+      "generated_at": "2026-08-30T17:50:57.247682"
+    },
+    {
+      "british": "dressing",
+      "american": "bandages",
+      "category": "health",
+      "generated_at": "2026-08-30T17:50:57.247684"
     }
   ],
-  "last_updated": "2026-08-30T14:44:44.389105"
+  "last_updated": "2026-08-30T17:50:57.247686"
 }
