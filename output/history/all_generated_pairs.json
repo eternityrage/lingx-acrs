@@ -5231,7 +5231,25 @@
       "american": "soda",
       "category": "food and drink",
       "generated_at": "2026-08-30T11:40:15.205581"
+    },
+    {
+      "british": "minicab",
+      "american": "taxi",
+      "category": "transport",
+      "generated_at": "2026-08-30T14:44:44.389093"
+    },
+    {
+      "british": "stomach",
+      "american": "belly",
+      "category": "health",
+      "generated_at": "2026-08-30T14:44:44.389102"
+    },
+    {
+      "british": "swollen",
+      "american": "puffy",
+      "category": "health",
+      "generated_at": "2026-08-30T14:44:44.389103"
     }
   ],
-  "last_updated": "2026-08-30T11:40:15.205583"
+  "last_updated": "2026-08-30T14:44:44.389105"
 }
