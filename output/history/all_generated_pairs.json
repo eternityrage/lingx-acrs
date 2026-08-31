@@ -5321,7 +5321,25 @@
       "american": "bathtub",
       "category": "housing",
       "generated_at": "2026-08-31T13:17:07.929202"
+    },
+    {
+      "british": "pepperoni",
+      "american": "salami",
+      "category": "food and drink",
+      "generated_at": "2026-08-31T17:27:19.263996"
+    },
+    {
+      "british": "maisonette",
+      "american": "condominium",
+      "category": "housing",
+      "generated_at": "2026-08-31T17:27:19.264005"
+    },
+    {
+      "british": "england",
+      "american": "britain",
+      "category": "shopping",
+      "generated_at": "2026-08-31T17:27:19.264007"
     }
   ],
-  "last_updated": "2026-08-31T13:17:07.929203"
+  "last_updated": "2026-08-31T17:27:19.264008"
 }
