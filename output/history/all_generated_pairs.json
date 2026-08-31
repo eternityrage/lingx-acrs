@@ -5357,7 +5357,25 @@
       "american": "anemic",
       "category": "health",
       "generated_at": "2026-08-31T19:45:48.641738"
+    },
+    {
+      "british": "sweets",
+      "american": "bonbons",
+      "category": "food and drink",
+      "generated_at": "2026-08-31T22:36:24.931655"
+    },
+    {
+      "british": "breeks",
+      "american": "knickers",
+      "category": "clothing",
+      "generated_at": "2026-08-31T22:36:24.931667"
+    },
+    {
+      "british": "disabled",
+      "american": "handicapped",
+      "category": "transport",
+      "generated_at": "2026-08-31T22:36:24.931669"
     }
   ],
-  "last_updated": "2026-08-31T19:45:48.641740"
+  "last_updated": "2026-08-31T22:36:24.931671"
 }
