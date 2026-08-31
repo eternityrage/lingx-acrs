@@ -5285,7 +5285,25 @@
       "american": "lessor",
       "category": "housing",
       "generated_at": "2026-08-30T20:42:42.115493"
+    },
+    {
+      "british": "bilberry",
+      "american": "blueberry",
+      "category": "food and drink",
+      "generated_at": "2026-08-31T07:48:40.356042"
+    },
+    {
+      "british": "summit",
+      "american": "mountaintop",
+      "category": "transport",
+      "generated_at": "2026-08-31T07:48:40.356053"
+    },
+    {
+      "british": "goalmouth",
+      "american": "goal",
+      "category": "sports",
+      "generated_at": "2026-08-31T07:48:40.356055"
     }
   ],
-  "last_updated": "2026-08-30T20:42:42.115495"
+  "last_updated": "2026-08-31T07:48:40.356057"
 }
