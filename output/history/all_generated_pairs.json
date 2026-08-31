@@ -5303,7 +5303,25 @@
       "american": "goal",
       "category": "sports",
       "generated_at": "2026-08-31T07:48:40.356055"
+    },
+    {
+      "british": "breakdown",
+      "american": "derailment",
+      "category": "transport",
+      "generated_at": "2026-08-31T13:17:07.929191"
+    },
+    {
+      "british": "engender",
+      "american": "generate",
+      "category": "housing",
+      "generated_at": "2026-08-31T13:17:07.929200"
+    },
+    {
+      "british": "tub",
+      "american": "bathtub",
+      "category": "housing",
+      "generated_at": "2026-08-31T13:17:07.929202"
     }
   ],
-  "last_updated": "2026-08-31T07:48:40.356057"
+  "last_updated": "2026-08-31T13:17:07.929203"
 }
