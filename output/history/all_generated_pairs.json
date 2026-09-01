@@ -5447,7 +5447,25 @@
       "american": "rental",
       "category": "housing",
       "generated_at": "2026-09-01T17:30:53.378465"
+    },
+    {
+      "british": "bras",
+      "american": "brassieres",
+      "category": "clothing",
+      "generated_at": "2026-09-01T20:47:12.635111"
+    },
+    {
+      "british": "guesthouse",
+      "american": "motel",
+      "category": "housing",
+      "generated_at": "2026-09-01T20:47:12.635122"
+    },
+    {
+      "british": "hallway",
+      "american": "hall",
+      "category": "housing",
+      "generated_at": "2026-09-01T20:47:12.635123"
     }
   ],
-  "last_updated": "2026-09-01T17:30:53.378467"
+  "last_updated": "2026-09-01T20:47:12.635125"
 }
