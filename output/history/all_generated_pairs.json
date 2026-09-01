@@ -5375,7 +5375,25 @@
       "american": "handicapped",
       "category": "transport",
       "generated_at": "2026-08-31T22:36:24.931669"
+    },
+    {
+      "british": "trolleybus",
+      "american": "trolley",
+      "category": "housing",
+      "generated_at": "2026-09-01T06:53:49.485601"
+    },
+    {
+      "british": "zealous",
+      "american": "eager",
+      "category": "housing",
+      "generated_at": "2026-09-01T06:53:49.485613"
+    },
+    {
+      "british": "drain",
+      "american": "sink",
+      "category": "workplace",
+      "generated_at": "2026-09-01T06:53:49.485615"
     }
   ],
-  "last_updated": "2026-08-31T22:36:24.931671"
+  "last_updated": "2026-09-01T06:53:49.485617"
 }
