@@ -5429,7 +5429,25 @@
       "american": "bocce",
       "category": "sports",
       "generated_at": "2026-09-01T14:38:56.393399"
+    },
+    {
+      "british": "jersey",
+      "american": "turtleneck",
+      "category": "clothing",
+      "generated_at": "2026-09-01T17:30:53.378452"
+    },
+    {
+      "british": "enquire",
+      "american": "inquire",
+      "category": "housing",
+      "generated_at": "2026-09-01T17:30:53.378464"
+    },
+    {
+      "british": "letting",
+      "american": "rental",
+      "category": "housing",
+      "generated_at": "2026-09-01T17:30:53.378465"
     }
   ],
-  "last_updated": "2026-09-01T14:38:56.393401"
+  "last_updated": "2026-09-01T17:30:53.378467"
 }
