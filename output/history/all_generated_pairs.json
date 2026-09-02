@@ -5483,7 +5483,25 @@
       "american": "oviduct",
       "category": "health",
       "generated_at": "2026-09-02T06:33:05.643106"
+    },
+    {
+      "british": "gown",
+      "american": "dress",
+      "category": "clothing",
+      "generated_at": "2026-09-02T11:02:28.337078"
+    },
+    {
+      "british": "vacant",
+      "american": "empty",
+      "category": "housing",
+      "generated_at": "2026-09-02T11:02:28.337087"
+    },
+    {
+      "british": "plug",
+      "american": "outlet",
+      "category": "housing",
+      "generated_at": "2026-09-02T11:02:28.337089"
     }
   ],
-  "last_updated": "2026-09-02T06:33:05.643107"
+  "last_updated": "2026-09-02T11:02:28.337090"
 }
