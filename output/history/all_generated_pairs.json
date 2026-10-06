@@ -5501,7 +5501,25 @@
       "american": "outlet",
       "category": "housing",
       "generated_at": "2026-09-02T11:02:28.337089"
+    },
+    {
+      "british": "redundancy",
+      "american": "layoff",
+      "category": "workplace and business",
+      "generated_at": "2026-10-06T20:42:27.244117"
+    },
+    {
+      "british": "colleague",
+      "american": "coworker",
+      "category": "workplace and business",
+      "generated_at": "2026-10-06T20:42:27.244127"
+    },
+    {
+      "british": "invoice",
+      "american": "bill",
+      "category": "workplace and business",
+      "generated_at": "2026-10-06T20:42:27.244128"
     }
   ],
-  "last_updated": "2026-09-02T11:02:28.337090"
+  "last_updated": "2026-10-06T20:42:27.244129"
 }
