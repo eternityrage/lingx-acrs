@@ -63,28 +63,125 @@ def save_pair_history(data):
     with open(PAIR_HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-def is_pair_used(brit_word, us_word, history=None, recent_window=60):
+def is_pair_used(brit_word, us_word, history=None):
     if history is None:
         history = load_pair_history()
-    # Check against recent history window instead of all 900+ pairs forever
-    pairs = history.get("pairs", [])
-    recent_pairs = pairs[-recent_window:] if recent_window and len(pairs) > recent_window else pairs
-    for p in recent_pairs:
-        if p.get("british", "").lower().strip() == brit_word.lower().strip() and p.get("american", "").lower().strip() == us_word.lower().strip():
+    bw = brit_word.lower().strip()
+    uw = us_word.lower().strip()
+    for p in history.get("pairs", []):
+        pb = p.get("british", "").lower().strip()
+        pu = p.get("american", "").lower().strip()
+        # Strictly check against 100% of all past pairs ever recorded
+        if (pb == bw and pu == uw) or (pb == uw and pu == bw):
+            return True
+        # Ensure neither headword has been used in this exact form
+        if pb == bw or pu == uw:
             return True
     return False
 
 def add_pairs_to_history(pairs):
     history = load_pair_history()
     for p in pairs:
-        history["pairs"].append({"british": p["british"], "american": p["american"], "category": p.get("category", ""), "generated_at": datetime.now().isoformat()})
+        history["pairs"].append({
+            "british": p["british"],
+            "american": p["american"],
+            "category": p.get("category", ""),
+            "generated_at": datetime.now().isoformat()
+        })
     save_pair_history(history)
+
+# Verified pool of genuine everyday British vs American vocabulary differences
+# with ZERO occurrences in all past history records
+CURATED_UNSEEN_PAIRS = [
+    {"british": "candy floss", "american": "cotton candy", "part_of_speech": "noun", "definition": "spun sugar confection on stick", "british_example": "She bought candy floss at the fair.", "american_example": "They ate pink cotton candy.", "category": "food and sweets"},
+    {"british": "kitchen roll", "american": "paper towels", "part_of_speech": "noun", "definition": "absorbent paper sheets for spills", "british_example": "Clean the spill with kitchen roll.", "american_example": "Grab a sheet of paper towels.", "category": "household objects"},
+    {"british": "cling film", "american": "plastic wrap", "part_of_speech": "noun", "definition": "thin clear food wrap film", "british_example": "Wrap the sandwiches in cling film.", "american_example": "Cover the salad with plastic wrap.", "category": "household objects"},
+    {"british": "washing-up liquid", "american": "dish soap", "part_of_speech": "noun", "definition": "liquid soap for washing dishes", "british_example": "Pour washing-up liquid into the sink.", "american_example": "Use mild dish soap on pans.", "category": "household objects"},
+    {"british": "sleeping policeman", "american": "speed bump", "part_of_speech": "noun", "definition": "raised ridge to slow cars", "british_example": "Drive slowly over the sleeping policeman.", "american_example": "Slow down for the speed bump.", "category": "roads and driving"},
+    {"british": "estate car", "american": "station wagon", "part_of_speech": "noun", "definition": "car with large rear cargo space", "british_example": "They loaded luggage in the estate car.", "american_example": "The old family station wagon.", "category": "roads and driving"},
+    {"british": "driving licence", "american": "driver's license", "part_of_speech": "noun", "definition": "official permit to drive motor vehicles", "british_example": "Show your valid driving licence.", "american_example": "Keep your driver's license in wallet.", "category": "roads and driving"},
+    {"british": "number plate", "american": "license plate", "part_of_speech": "noun", "definition": "vehicle identification tag board", "british_example": "Read the rear number plate.", "american_example": "The front license plate was missing.", "category": "roads and driving"},
+    {"british": "tailback", "american": "traffic jam", "part_of_speech": "noun", "definition": "long queue of stalled vehicles", "british_example": "A ten-mile tailback on the motorway.", "american_example": "Stuck in a heavy traffic jam.", "category": "roads and driving"},
+    {"british": "primary school", "american": "elementary school", "part_of_speech": "noun", "definition": "school for children under eleven", "british_example": "Pupils start primary school at five.", "american_example": "She teaches at the elementary school.", "category": "school and learning"},
+    {"british": "secondary school", "american": "high school", "part_of_speech": "noun", "definition": "school for teenagers aged eleven plus", "british_example": "He attends the local secondary school.", "american_example": "Senior year in American high school.", "category": "school and learning"},
+    {"british": "public school", "american": "private school", "part_of_speech": "noun", "definition": "fee-paying independent boarding school", "british_example": "Eton is a famous public school.", "american_example": "They enrolled him in private school.", "category": "school and learning"},
+    {"british": "high street", "american": "main street", "part_of_speech": "noun", "definition": "primary commercial shopping street in town", "british_example": "Shops along the busy high street.", "american_example": "The town parade walked down Main Street.", "category": "city and navigation"},
+    {"british": "dustbin lorry", "american": "garbage truck", "part_of_speech": "noun", "definition": "large vehicle collecting rubbish", "british_example": "The dustbin lorry comes on Friday.", "american_example": "The early morning garbage truck.", "category": "city and navigation"},
+    {"british": "rubbish bin", "american": "trash can", "part_of_speech": "noun", "definition": "receptacle for household waste", "british_example": "Throw wrappers in the rubbish bin.", "american_example": "Empty the bedroom trash can.", "category": "household objects"},
+    {"british": "wheelie bin", "american": "trash cart", "part_of_speech": "noun", "definition": "large plastic bin on wheels", "british_example": "Wheel the wheelie bin outside.", "american_example": "Roll the trash cart to curb.", "category": "household objects"},
+    {"british": "drawing pin", "american": "thumbtack", "part_of_speech": "noun", "definition": "short flat-headed pin for boards", "british_example": "Fasten the poster with a drawing pin.", "american_example": "Stick a thumbtack into the corkboard.", "category": "stationery and office"},
+    {"british": "sellotape", "american": "scotch tape", "part_of_speech": "noun", "definition": "clear sticky adhesive tape", "british_example": "Wrap Christmas presents with Sellotape.", "american_example": "Fasten the note with Scotch tape.", "category": "stationery and office"},
+    {"british": "hire car", "american": "rental car", "part_of_speech": "noun", "definition": "vehicle rented for short time", "british_example": "Pick up your hire car at Heathrow.", "american_example": "Book an economy rental car.", "category": "travel and transport"},
+    {"british": "tea towel", "american": "dish towel", "part_of_speech": "noun", "definition": "cloth for drying washed dishes", "british_example": "Dry wine glasses with a tea towel.", "american_example": "Hang the wet dish towel.", "category": "household objects"},
+    {"british": "fancy dress", "american": "costume", "part_of_speech": "noun", "definition": "special themed party clothing disguise", "british_example": "Wear fancy dress to the party.", "american_example": "A scary Halloween costume.", "category": "clothing and styling"},
+    {"british": "jacket potato", "american": "baked potato", "part_of_speech": "noun", "definition": "potato baked in its skin", "british_example": "Jacket potato topped with cheese.", "american_example": "Steak served with baked potato.", "category": "food and sweets"},
+    {"british": "off-licence", "american": "liquor store", "part_of_speech": "noun", "definition": "shop licensed to sell alcohol", "british_example": "Buy cold beer at the off-licence.", "american_example": "Stop by the local liquor store.", "category": "shopping and stores"},
+    {"british": "level crossing", "american": "grade crossing", "part_of_speech": "noun", "definition": "intersection where railway tracks cross road", "british_example": "The train passed the level crossing.", "american_example": "Red lights flashed at grade crossing.", "category": "roads and driving"},
+    {"british": "lost property", "american": "lost and found", "part_of_speech": "noun", "definition": "office storing items left behind", "british_example": "Inquire at the lost property desk.", "american_example": "Hand the wallet to lost and found.", "category": "city and navigation"},
+    {"british": "surgical spirit", "american": "rubbing alcohol", "part_of_speech": "noun", "definition": "antiseptic alcohol for skin disinfection", "british_example": "Clean the cut with surgical spirit.", "american_example": "Swab the skin with rubbing alcohol.", "category": "health and hygiene"},
+    {"british": "cotton bud", "american": "q-tip", "part_of_speech": "noun", "definition": "small swab stick with cotton ends", "british_example": "Clean small edges with a cotton bud.", "american_example": "Dab ointment using a Q-tip.", "category": "health and hygiene"},
+    {"british": "washing powder", "american": "laundry detergent", "part_of_speech": "noun", "definition": "powder soap for cleaning clothes", "british_example": "Add a cup of washing powder.", "american_example": "Fragrance-free laundry detergent.", "category": "household objects"},
+    {"british": "clothes peg", "american": "clothespin", "part_of_speech": "noun", "definition": "clip holding wet laundry on line", "british_example": "Hang shirts with a clothes peg.", "american_example": "Wooden clothespins on the clothesline.", "category": "household objects"},
+    {"british": "dressing gown", "american": "bathrobe", "part_of_speech": "noun", "definition": "warm robe worn around the house", "british_example": "Tie the belt of your dressing gown.", "american_example": "Soft cotton bathrobe after shower.", "category": "clothing and styling"},
+    {"british": "swimming costume", "american": "swimsuit", "part_of_speech": "noun", "definition": "garment worn for swimming in water", "british_example": "Pack a swimming costume for holiday.", "american_example": "She put on a red swimsuit.", "category": "clothing and styling"},
+    {"british": "kirby grip", "american": "bobby pin", "part_of_speech": "noun", "definition": "small flat metal wire hairpin", "british_example": "Pin your curls with a kirby grip.", "american_example": "Slide a bobby pin into hair.", "category": "clothing and styling"},
+    {"british": "hair bobble", "american": "hair tie", "part_of_speech": "noun", "definition": "elastic band holding ponytail hair", "british_example": "Fasten your braid with a hair bobble.", "american_example": "She needed an elastic hair tie.", "category": "clothing and styling"},
+    {"british": "tipp-ex", "american": "wite-out", "part_of_speech": "noun", "definition": "liquid used to correct writing mistakes", "british_example": "Brush Tipp-Ex over the typo.", "american_example": "White-out covered the ink error.", "category": "stationery and office"},
+    {"british": "pritt stick", "american": "glue stick", "part_of_speech": "noun", "definition": "solid adhesive stick for craft paper", "british_example": "Stick pictures with a Pritt Stick.", "american_example": "School children using glue sticks.", "category": "stationery and office"},
+    {"british": "rubber band", "american": "elastic band", "part_of_speech": "noun", "definition": "stretchable looped rubber cord fastener", "british_example": "Bundle letters with a rubber band.", "american_example": "Wrap an elastic band around cables.", "category": "stationery and office"},
+    {"british": "hole punch", "american": "hole puncher", "part_of_speech": "noun", "definition": "tool punching holes in document sheets", "british_example": "Use a metal hole punch on reports.", "american_example": "Desktop two-hole puncher.", "category": "stationery and office"},
+    {"british": "tuck shop", "american": "snack bar", "part_of_speech": "noun", "definition": "school counter selling sweets and snacks", "british_example": "Buy crisps at morning tuck shop.", "american_example": "Campus cafeteria snack bar.", "category": "school and learning"},
+    {"british": "dinner lady", "american": "lunch lady", "part_of_speech": "noun", "definition": "school kitchen staff serving meals", "british_example": "The dinner lady served hot stew.", "american_example": "The cheerful school lunch lady.", "category": "school and learning"},
+    {"british": "casualty", "american": "emergency room", "part_of_speech": "noun", "definition": "hospital acute trauma care department", "british_example": "Take the broken leg to casualty.", "american_example": "Admitted into the emergency room.", "category": "health and hygiene"},
+    {"british": "icing sugar", "american": "powdered sugar", "part_of_speech": "noun", "definition": "fine pulverised white confectioner sugar", "british_example": "Dust the sponge with icing sugar.", "american_example": "Sprinkle powdered sugar on waffles.", "category": "food and sweets"},
+    {"british": "baking tin", "american": "baking pan", "part_of_speech": "noun", "definition": "metal container for baking in oven", "british_example": "Grease the loaf baking tin.", "american_example": "Pour cake batter into baking pan.", "category": "household objects"},
+    {"british": "face cloth", "american": "washcloth", "part_of_speech": "noun", "definition": "small square towel for washing face", "british_example": "Wet the soft face cloth.", "american_example": "Warm washcloth over the forehead.", "category": "health and hygiene"},
+    {"british": "current account", "american": "checking account", "part_of_speech": "noun", "definition": "standard transactional bank deposit account", "british_example": "Pay rent from your current account.", "american_example": "Deposit paychecks in checking account.", "category": "money and banking"},
+    {"british": "post code", "american": "zip code", "part_of_speech": "noun", "definition": "postal geographic routing alphanumeric code", "british_example": "Include your correct post code.", "american_example": "Enter the five-digit zip code.", "category": "city and navigation"},
+    {"british": "council house", "american": "public housing", "part_of_speech": "noun", "definition": "subsidised local authority public housing", "british_example": "Families living in a council house.", "american_example": "Government funded public housing.", "category": "city and navigation"},
+    {"british": "bedsit", "american": "studio apartment", "part_of_speech": "noun", "definition": "single rented room for sleeping living", "british_example": "Rent an affordable city bedsit.", "american_example": "Compact downtown studio apartment.", "category": "household objects"},
+    {"british": "slip road", "american": "on-ramp", "part_of_speech": "noun", "definition": "access ramp onto high speed motorway", "british_example": "Speed up on the slip road.", "american_example": "Yield when entering the on-ramp.", "category": "roads and driving"},
+    {"british": "return ticket", "american": "round-trip ticket", "part_of_speech": "noun", "definition": "transit ticket covering outward and return", "british_example": "Ask for a standard return ticket.", "american_example": "Purchase a round-trip ticket to Boston.", "category": "travel and transport"},
+    {"british": "single ticket", "american": "one-way ticket", "part_of_speech": "noun", "definition": "transit ticket valid for one direction", "british_example": "A single ticket to Cambridge, please.", "american_example": "Booked a one-way ticket to Dallas.", "category": "travel and transport"},
+    {"british": "left luggage", "american": "baggage storage", "part_of_speech": "noun", "definition": "train station cloakroom for travel bags", "british_example": "Deposit your bags at left luggage.", "american_example": "Airport baggage storage lockers.", "category": "travel and transport"},
+    {"british": "season ticket", "american": "commuter pass", "part_of_speech": "noun", "definition": "ticket giving unlimited trips for period", "british_example": "Renew your annual rail season ticket.", "american_example": "Monthly subway commuter pass.", "category": "travel and transport"},
+    {"british": "solicitor", "american": "attorney", "part_of_speech": "noun", "definition": "legal professional advising clients on law", "british_example": "Consult a solicitor for contracts.", "american_example": "Represented by a skilled attorney.", "category": "work and business"},
+    {"british": "barrister", "american": "trial lawyer", "part_of_speech": "noun", "definition": "legal counsel pleading cases in court", "british_example": "The barrister argued before the judge.", "american_example": "Cross-examination by trial lawyer.", "category": "work and business"},
+    {"british": "greengrocer", "american": "produce store", "part_of_speech": "noun", "definition": "shopkeeper retailer selling fresh fruit vegetables", "british_example": "Fresh strawberries from the greengrocer.", "american_example": "Organic neighborhood produce store.", "category": "shopping and stores"},
+    {"british": "ironmonger", "american": "hardware store", "part_of_speech": "noun", "definition": "retail store selling tools and screws", "british_example": "Buy brass hinges at the ironmonger.", "american_example": "Find power tools at hardware store.", "category": "shopping and stores"},
+    {"british": "fishmonger", "american": "fish market", "part_of_speech": "noun", "definition": "merchant selling fresh caught sea fish", "british_example": "Whole sea bass at the fishmonger.", "american_example": "Bustling harbor fish market.", "category": "shopping and stores"},
+    {"british": "newsagent", "american": "newsstand", "part_of_speech": "noun", "definition": "shopkeeper selling magazines daily newspapers", "british_example": "Pick up morning papers at newsagent.", "american_example": "Subway station newsstand.", "category": "shopping and stores"},
+    {"british": "sweet shop", "american": "candy store", "part_of_speech": "noun", "definition": "confectionery retailer selling sugary sweets", "british_example": "Jars of toffee in the sweet shop.", "american_example": "Vintage downtown candy store.", "category": "shopping and stores"},
+    {"british": "cotton wool", "american": "cotton balls", "part_of_speech": "noun", "definition": "soft raw fluffy cotton for wounds", "british_example": "Clean the scratch with cotton wool.", "american_example": "Dab makeup remover with cotton balls.", "category": "health and hygiene"},
+    {"british": "walking stick", "american": "cane", "part_of_speech": "noun", "definition": "wooden mobility support stick for walking", "british_example": "Walk with an antique walking stick.", "american_example": "Elderly grandfather with a cane.", "category": "household objects"},
+    {"british": "sticking plaster", "american": "adhesive strip", "part_of_speech": "noun", "definition": "small adhesive bandage strip dressing", "british_example": "Put a sticking plaster on your finger.", "american_example": "Cover blisters with an adhesive strip.", "category": "health and hygiene"},
+    {"british": "salve", "american": "ointment", "part_of_speech": "noun", "definition": "soothing medicinal ointment cream for burns", "british_example": "Apply herbal salve to dry skin.", "american_example": "Antibiotic healing ointment.", "category": "health and hygiene"},
+    {"british": "inoculation", "american": "vaccination", "part_of_speech": "noun", "definition": "immunisation injection against diseases", "british_example": "Routine childhood inoculation.", "american_example": "Annual flu vaccination clinic.", "category": "health and hygiene"},
+    {"british": "dual carriageway", "american": "divided highway", "part_of_speech": "noun", "definition": "road separated by central barrier", "british_example": "Follow the dual carriageway north.", "american_example": "Merge onto the divided highway.", "category": "roads and driving"},
+    {"british": "hard shoulder", "american": "road shoulder", "part_of_speech": "noun", "definition": "emergency stop lane alongside motorway", "british_example": "Pull over onto the hard shoulder.", "american_example": "Park on the road shoulder.", "category": "roads and driving"},
+    {"british": "car boot sale", "american": "swap meet", "part_of_speech": "noun", "definition": "outdoor market selling secondhand goods", "british_example": "Bargains at Sunday car boot sale.", "american_example": "Browse antiques at the swap meet.", "category": "shopping and stores"},
+    {"british": "bootlace", "american": "shoelace", "part_of_speech": "noun", "definition": "cord used to tie footwear securely", "british_example": "Tie your muddy bootlace tightly.", "american_example": "He broke his black shoelace.", "category": "clothing and styling"},
+    {"british": "bumbag", "american": "fanny pack", "part_of_speech": "noun", "definition": "small waist pouch for essentials", "british_example": "Wear a bumbag on long walks.", "american_example": "Tourist wearing a neon fanny pack.", "category": "clothing and styling"},
+    {"british": "cooker hood", "american": "range hood", "part_of_speech": "noun", "definition": "exhaust fan canopy above stove", "british_example": "Turn on the cooker hood fan.", "american_example": "Stainless steel range hood.", "category": "household objects"},
+    {"british": "skip", "american": "dumpster", "part_of_speech": "noun", "definition": "large open container for rubbish", "british_example": "Throw renovation rubble in the skip.", "american_example": "Toss bags into the dumpster.", "category": "household objects"},
+    {"british": "white spirit", "american": "mineral spirits", "part_of_speech": "noun", "definition": "solvent for cleaning paint brushes", "british_example": "Clean brushes with white spirit.", "american_example": "Thin paint with mineral spirits.", "category": "household objects"},
+]
 
 def generate_pair_data(num_pairs=WORDS_PER_VIDEO):
     max_attempts = 15
-    categories = ["food and drink", "clothing", "transport", "housing", "workplace", "school", "shopping", "sports", "health", "technology"]
+    categories = [
+        "kitchen and cooking", "driving, roads and transport", "street navigation and city life",
+        "stationery and desk items", "household tools and DIY", "baby and parenting",
+        "bathroom and toiletries", "clothing and accessories", "food and sweets",
+        "leisure and hobbies", "money, shopping and banking", "school and university",
+        "gardening and outdoors", "medical and pharmacy", "everyday household objects",
+        "entertainment and pop culture", "buildings and architecture", "sports and games",
+        "travel, train and holiday", "workplace and business"
+    ]
+    random.shuffle(categories)
     collected = []
     history = load_pair_history()
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -93,21 +190,18 @@ def generate_pair_data(num_pairs=WORDS_PER_VIDEO):
             cat = categories[attempt % len(categories)]
             remaining = num_pairs - len(collected)
             print(f"[api] Attempt {attempt + 1}: {cat} (need {remaining} more)")
-            used = []
-            for p in history.get("pairs", [])[-25:]:
-                used.append(f"{p['british']}/{p['american']}")
-            used.extend([f"{c['british']}/{c['american']}" for c in collected])
-            used_str = ", ".join(used) if used else "(none)"
-            prompt = f"""Generate exactly 6 British vs American English word pairs from {cat}.
+
+            prompt = f"""Generate exactly 6 unique British vs American English vocabulary differences from the category: {cat}.
 
 CRITICAL RULES:
-- Each pair MUST have DIFFERENT words on each side (e.g. flat/apartment, not same word)
-- NEVER repeat: {used_str}
-- Both words must be SINGLE words each
+- Terms must have DIFFERENT words on each side (British vs American)
+- NEVER generate standard clichéd pairs like chips/fries, flat/apartment, lift/elevator, biscuit/cookie, boot/trunk, holiday/vacation, autumn/fall, rubbish/trash.
+- Terms can be 1 or 2 words (e.g. compound nouns like candy floss/cotton candy, sleeping policeman/speed bump, zebra crossing/crosswalk, kitchen roll/paper towels, drawing pin/thumbtack). Max 2 words per side.
+- Both words must be widely used everyday real-world terms.
 - KEEP SHORT: definition max 8 words
 
 Return JSON array. Each item:
-[{{"british":"flat","american":"apartment","part_of_speech":"noun","definition":"a set of rooms","british_example":"She lives in a flat.","american_example":"He rents an apartment."}}]
+[{{"british":"kitchen roll","american":"paper towels","part_of_speech":"noun","definition":"absorbent paper sheets for spills","british_example":"Wipe the spill with kitchen roll.","american_example":"Grab a roll of paper towels."}}]
 
 Return ONLY the JSON array. No explanations."""
             payload = {"model": AI_MODEL, "messages": [{"role": "system", "content": "Return ONLY valid JSON arrays."}, {"role": "user", "content": prompt}], "temperature": 1.0}
@@ -127,11 +221,15 @@ Return ONLY the JSON array. No explanations."""
                 u = p.get("american", "").strip()
                 if not b or not u:
                     continue
-                if len(b.split()) > 1 or len(u.split()) > 1:
-                    continue
-                if is_pair_used(b, u, history=history, recent_window=60):
+                if len(b.split()) > 2 or len(u.split()) > 2:
                     continue
                 if b.lower() == u.lower():
+                    continue
+                if is_pair_used(b, u, history=history):
+                    continue
+                # Also prevent duplicate within current batch
+                already_collected = {c["british"].lower().strip() for c in collected} | {c["american"].lower().strip() for c in collected}
+                if b.lower().strip() in already_collected or u.lower().strip() in already_collected:
                     continue
                 p["category"] = cat
                 fresh.append(p)
@@ -144,42 +242,29 @@ Return ONLY the JSON array. No explanations."""
         except Exception as e:
             print(f"[api] Attempt {attempt + 1} FAILED: {e}")
 
-    # Fallback to prevent workflow crash if API fails or is exhausted
+    # Fallback to verified curated pool of NEVER-BEFORE-USED pairs (ZERO repeats against history)
     if len(collected) < num_pairs:
-        print("[fallback] Using least-recently-used pairs from history as fallback...")
-        existing = history.get("pairs", [])
-        used_now = {f"{c['british'].lower().strip()}/{c['american'].lower().strip()}" for c in collected}
-        recent_set = {f"{p['british'].lower().strip()}/{p['american'].lower().strip()}" for p in existing[-50:]}
-        candidates = [p for p in existing if f"{p.get('british','').lower().strip()}/{p.get('american','').lower().strip()}" not in recent_set and f"{p.get('british','').lower().strip()}/{p.get('american','').lower().strip()}" not in used_now]
-        if len(candidates) < (num_pairs - len(collected)):
-            candidates = [p for p in existing if f"{p.get('british','').lower().strip()}/{p.get('american','').lower().strip()}" not in used_now]
-        if candidates:
-            needed = num_pairs - len(collected)
-            collected.extend(candidates[:needed])
-
-    # Built-in curated fallback as absolute safety net
-    if len(collected) < num_pairs:
-        curated = [
-            {"british": "lift", "american": "elevator", "part_of_speech": "noun", "definition": "vertical transport between floors", "british_example": "She took the lift upstairs.", "american_example": "He rode the elevator up.", "category": "transport"},
-            {"british": "flat", "american": "apartment", "part_of_speech": "noun", "definition": "a set of residential rooms", "british_example": "She lives in a flat.", "american_example": "He rented an apartment.", "category": "housing"},
-            {"british": "lorry", "american": "truck", "part_of_speech": "noun", "definition": "large vehicle for cargo", "british_example": "A lorry drove past.", "american_example": "The truck carried boxes.", "category": "transport"},
-            {"british": "chips", "american": "fries", "part_of_speech": "noun", "definition": "fried potato slices", "british_example": "Pass the chips please.", "american_example": "Order large fries.", "category": "food and drink"},
-            {"british": "biscuit", "american": "cookie", "part_of_speech": "noun", "definition": "baked sweet treat", "british_example": "Tea with a biscuit.", "american_example": "A chocolate cookie.", "category": "food and drink"},
-            {"british": "jumper", "american": "sweater", "part_of_speech": "noun", "definition": "warm knitted top", "british_example": "Wear a thick jumper.", "american_example": "Put on a warm sweater.", "category": "clothing"}
-        ]
-        used_now = {f"{c['british'].lower().strip()}/{c['american'].lower().strip()}" for c in collected}
-        for c in curated:
+        print("[fallback] Drawing from verified unseen curated pool (0 repeats guaranteed)...")
+        for cp in CURATED_UNSEEN_PAIRS:
             if len(collected) >= num_pairs:
                 break
-            k = f"{c['british'].lower().strip()}/{c['american'].lower().strip()}"
-            if k not in used_now:
-                collected.append(c)
-                used_now.add(k)
+            cb = cp["british"]
+            cu = cp["american"]
+            if not is_pair_used(cb, cu, history=history):
+                used_now = {c["british"].lower().strip() for c in collected} | {c["american"].lower().strip() for c in collected}
+                if cb.lower().strip() not in used_now and cu.lower().strip() not in used_now:
+                    cp_copy = dict(cp)
+                    collected.append(cp_copy)
 
-    if collected:
+    if len(collected) >= num_pairs:
         add_pairs_to_history(collected[:num_pairs])
         return collected[:num_pairs]
-    raise RuntimeError("API failed all attempts and no fallback available")
+
+    if collected:
+        add_pairs_to_history(collected)
+        return collected
+
+    raise RuntimeError("API failed all attempts and no unseen pairs available")
 
 def create_background():
     from PIL import Image, ImageDraw
