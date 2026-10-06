@@ -62,6 +62,7 @@ def get_latest_reel():
     mf = latest.parent / "metadata.json"
     if mf.exists():
         with open(mf, encoding="utf-8") as f: meta = json.load(f)
+    pairs = meta.get("pairs", [])
     phrases = meta.get("phrases", [])
     words = meta.get("words", [])
     lang_field = None
@@ -70,7 +71,15 @@ def get_latest_reel():
             if key not in ("english", "transliteration", "category"):
                 lang_field = key
                 break
-    return {"video_path": str(latest), "metadata": meta, "category": meta.get("category_english", meta.get("channel", "Learning")), "phrases": phrases, "words": words, "lang_field": lang_field or "native"}
+    return {
+        "video_path": str(latest),
+        "metadata": meta,
+        "category": meta.get("category_english", meta.get("channel", "British vs American English")),
+        "phrases": phrases,
+        "words": words,
+        "pairs": pairs,
+        "lang_field": lang_field or "native"
+    }
 
 
 LANGUAGE_MAP = {
@@ -222,7 +231,36 @@ def detect_phrase_source(phrases):
     return "ai"
 
 
-def generate_caption(phrases, category, lang_field="native", words=None, metadata=None, platform="facebook"):
+def generate_caption(phrases=None, category="British vs American English", lang_field="native", words=None, metadata=None, pairs=None, platform="facebook"):
+    pair_list = pairs or (metadata.get("pairs") if metadata else None)
+    if pair_list:
+        base = [
+            "🇬🇧 British vs American English 🇺🇸",
+            "",
+            "Did you know these differences?",
+            "",
+        ]
+        for i, p in enumerate(pair_list[:3], 1):
+            brit = p.get('british', '').capitalize()
+            amer = p.get('american', '').capitalize()
+            pos = p.get('part_of_speech', '')
+            pos_str = f" ({pos})" if pos else ""
+            base.append(f"{i}. 🇬🇧 {brit} vs 🇺🇸 {amer}{pos_str}")
+            if p.get('definition'):
+                base.append(f"   Meaning: {p['definition']}")
+            if p.get('british_example'):
+                base.append(f"   UK: \"{p['british_example']}\"")
+            if p.get('american_example'):
+                base.append(f"   US: \"{p['american_example']}\"")
+            base.append("")
+        base.extend([
+            "Which word do you say? Tell us in the comments! 👇",
+            "Follow for daily British vs American English! ✨",
+            "",
+            "#britishvsamerican #britishenglish #americanenglish #learnenglish #englishvocabulary #esl #lingexa #vocabulary",
+        ])
+        return "\n".join(base)
+
     if metadata and metadata.get("story"):
         story_gr = metadata.get("story_gr", "")
         story_en = metadata.get("story", "")
@@ -282,38 +320,49 @@ def generate_caption(phrases, category, lang_field="native", words=None, metadat
     return "\n".join(base)
 
 
-def upload_to_all_platforms(video_path, caption, category, phrases=None, lang_field="native", words=None, metadata=None):
-    lang_name = get_language_name(phrases or [], lang_field)
-    results = {"timestamp": datetime.now().isoformat(), "category": category, "video": video_path, "uploads": {}, "platforms_attempted": [], "platforms_successful": [], "platforms_skipped": [], "platforms_failed": [], "timing": {}, "phrase_source": detect_phrase_source(phrases) if phrases else "unknown"}
+def upload_to_all_platforms(video_path, caption, category, phrases=None, lang_field="native", words=None, metadata=None, pairs=None):
+    results = {
+        "timestamp": datetime.now().isoformat(),
+        "category": category,
+        "video": video_path,
+        "uploads": {},
+        "platforms_attempted": [],
+        "platforms_successful": [],
+        "platforms_skipped": [],
+        "platforms_failed": [],
+        "timing": {},
+        "phrase_source": detect_phrase_source(phrases) if phrases else "unknown"
+    }
     print("\n" + "="*80)
-    print(f"VELOCITY {lang_name.upper()} - MULTI-PLATFORM UPLOAD")
+    print("LINGEXA ACROSS - FACEBOOK & INSTAGRAM UPLOAD")
     print("="*80)
-    if not Path(video_path).exists(): print(f"Video not found"); return results
-    platforms = [("facebook", "fb", "Facebook"), ("instagram", "ig", "Instagram"), ("youtube", "yt", "YouTube"), ("vk", "vk", "VK"), ("telegram", "tg", "Telegram"), ("twitter", "tw", "Twitter"), ("threads", "th", "Threads"), ("tiktok", "tk", "TikTok")]
+    if not Path(video_path).exists():
+        print(f"Video not found")
+        return results
+
+    # Only upload to Facebook and Instagram (YouTube and others disabled)
+    platforms = [
+        ("facebook", "fb", "Facebook"),
+        ("instagram", "ig", "Instagram")
+    ]
     for pname, key, dname in platforms:
         results["platforms_attempted"].append(pname)
         func = uploaders.get(key)
         if func:
             try:
                 t_start = datetime.now()
-                if pname == "youtube":
-                    from upload_to_youtube import generate_video_metadata
-                    yt_title, yt_desc, yt_tags = generate_video_metadata(category, len(phrases) if phrases else 5, phrases)
-                    r = func(video_path=video_path, title=yt_title, description=yt_desc, tags=yt_tags, category_id='22')
-                elif pname == "vk":
-                    r = func(video_path=video_path, description=caption)
-                elif pname == "telegram":
-                    r = func(video_path=video_path, caption=caption)
-                elif pname == "twitter":
-                    r = func(video_path=video_path, caption=caption)
-                elif pname == "threads":
-                    r = func(video_path=video_path, text=caption)
-                elif pname == "tiktok":
-                    r = func(video_path=video_path, description=caption, title=caption[:100])
-                elif pname == "facebook":
-                    r = func(video_path=video_path, description=caption)
+                if pname == "facebook":
+                    r = func(video_path=video_path, description=caption, title="Lingexa Across - British vs American")
                 elif pname == "instagram":
-                    ig_cap = generate_caption(phrases, category, lang_field, words if words else None, metadata if metadata else None, platform="instagram")
+                    ig_cap = generate_caption(
+                        phrases=phrases,
+                        category=category,
+                        lang_field=lang_field,
+                        words=words if words else None,
+                        metadata=metadata if metadata else None,
+                        pairs=pairs if pairs else None,
+                        platform="instagram"
+                    )
                     r = func(video_path=video_path, caption=ig_cap, is_story=False)
                 t_end = datetime.now()
                 t_sec = round((t_end - t_start).total_seconds())
@@ -321,7 +370,8 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None, lang_fi
                 if r:
                     results["uploads"][pname] = r
                     results["platforms_successful"].append(pname)
-                else: results["platforms_failed"].append(pname)
+                else:
+                    results["platforms_failed"].append(pname)
             except Exception as e:
                 results["uploads"][pname] = {"status": "failed", "error": str(e)}
                 results["platforms_failed"].append(pname)
@@ -338,11 +388,30 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None, lang_fi
 
 def main():
     print("\n" + "="*80)
-    print("VELOCITY LANGUAGE - AUTOMATED UPLOAD")
+    print("LINGEXA ACROSS - AUTOMATED UPLOAD")
     print("="*80)
     reel = get_latest_reel()
-    if not reel: print("No reel found"); sys.exit(1)
-    caption = generate_caption(reel['phrases'], reel['category'], reel['lang_field'], reel.get('words'), reel.get('metadata'))
-    upload_to_all_platforms(reel['video_path'], caption, reel['category'], reel['phrases'], reel['lang_field'], reel.get('words'), reel.get('metadata'))
+    if not reel:
+        print("No reel found")
+        sys.exit(1)
+    caption = generate_caption(
+        phrases=reel.get('phrases'),
+        category=reel.get('category'),
+        lang_field=reel.get('lang_field'),
+        words=reel.get('words'),
+        metadata=reel.get('metadata'),
+        pairs=reel.get('pairs'),
+        platform="facebook"
+    )
+    upload_to_all_platforms(
+        reel['video_path'],
+        caption,
+        reel['category'],
+        phrases=reel.get('phrases'),
+        lang_field=reel.get('lang_field'),
+        words=reel.get('words'),
+        metadata=reel.get('metadata'),
+        pairs=reel.get('pairs')
+    )
 
 if __name__ == "__main__": main()

@@ -63,10 +63,14 @@ def save_pair_history(data):
     with open(PAIR_HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-def is_pair_used(brit_word, us_word):
-    history = load_pair_history()
-    for p in history.get("pairs", []):
-        if p["british"].lower().strip() == brit_word.lower().strip() and p["american"].lower().strip() == us_word.lower().strip():
+def is_pair_used(brit_word, us_word, history=None, recent_window=60):
+    if history is None:
+        history = load_pair_history()
+    # Check against recent history window instead of all 900+ pairs forever
+    pairs = history.get("pairs", [])
+    recent_pairs = pairs[-recent_window:] if recent_window and len(pairs) > recent_window else pairs
+    for p in recent_pairs:
+        if p.get("british", "").lower().strip() == brit_word.lower().strip() and p.get("american", "").lower().strip() == us_word.lower().strip():
             return True
     return False
 
@@ -77,9 +81,10 @@ def add_pairs_to_history(pairs):
     save_pair_history(history)
 
 def generate_pair_data(num_pairs=WORDS_PER_VIDEO):
-    max_attempts = 20
+    max_attempts = 15
     categories = ["food and drink", "clothing", "transport", "housing", "workplace", "school", "shopping", "sports", "health", "technology"]
     collected = []
+    history = load_pair_history()
     for attempt in range(max_attempts):
         try:
             import requests
@@ -88,13 +93,12 @@ def generate_pair_data(num_pairs=WORDS_PER_VIDEO):
             cat = categories[attempt % len(categories)]
             remaining = num_pairs - len(collected)
             print(f"[api] Attempt {attempt + 1}: {cat} (need {remaining} more)")
-            history = load_pair_history()
             used = []
-            for p in history.get("pairs", [])[-30:]:
+            for p in history.get("pairs", [])[-25:]:
                 used.append(f"{p['british']}/{p['american']}")
             used.extend([f"{c['british']}/{c['american']}" for c in collected])
             used_str = ", ".join(used) if used else "(none)"
-            prompt = f"""Generate exactly 20 British vs American English word pairs from {cat}.
+            prompt = f"""Generate exactly 6 British vs American English word pairs from {cat}.
 
 CRITICAL RULES:
 - Each pair MUST have DIFFERENT words on each side (e.g. flat/apartment, not same word)
@@ -102,14 +106,12 @@ CRITICAL RULES:
 - Both words must be SINGLE words each
 - KEEP SHORT: definition max 8 words
 
-Examples of GOOD pairs: lift/elevator, flat/apartment, chips/fries, boot/trunk, lorry/truck, queue/line, biscuit/cookie, jumper/sweater, trainer/sneaker, nappy/diaper, crisps/chips
-
 Return JSON array. Each item:
 [{{"british":"flat","american":"apartment","part_of_speech":"noun","definition":"a set of rooms","british_example":"She lives in a flat.","american_example":"He rents an apartment."}}]
 
 Return ONLY the JSON array. No explanations."""
-            payload = {"model": AI_MODEL, "messages": [{"role": "system", "content": "Return ONLY valid JSON arrays."}, {"role": "user", "content": prompt}], "temperature": 1.2}
-            resp = requests.post(url, headers=headers, json=payload, timeout=60)
+            payload = {"model": AI_MODEL, "messages": [{"role": "system", "content": "Return ONLY valid JSON arrays."}, {"role": "user", "content": prompt}], "temperature": 1.0}
+            resp = requests.post(url, headers=headers, json=payload, timeout=45)
             resp.raise_for_status()
             content = resp.json()["choices"][0]["message"]["content"].strip()
             if "```json" in content:
@@ -127,7 +129,7 @@ Return ONLY the JSON array. No explanations."""
                     continue
                 if len(b.split()) > 1 or len(u.split()) > 1:
                     continue
-                if is_pair_used(b, u):
+                if is_pair_used(b, u, history=history, recent_window=60):
                     continue
                 if b.lower() == u.lower():
                     continue
@@ -141,10 +143,43 @@ Return ONLY the JSON array. No explanations."""
                 return collected[:num_pairs]
         except Exception as e:
             print(f"[api] Attempt {attempt + 1} FAILED: {e}")
+
+    # Fallback to prevent workflow crash if API fails or is exhausted
+    if len(collected) < num_pairs:
+        print("[fallback] Using least-recently-used pairs from history as fallback...")
+        existing = history.get("pairs", [])
+        used_now = {f"{c['british'].lower().strip()}/{c['american'].lower().strip()}" for c in collected}
+        recent_set = {f"{p['british'].lower().strip()}/{p['american'].lower().strip()}" for p in existing[-50:]}
+        candidates = [p for p in existing if f"{p.get('british','').lower().strip()}/{p.get('american','').lower().strip()}" not in recent_set and f"{p.get('british','').lower().strip()}/{p.get('american','').lower().strip()}" not in used_now]
+        if len(candidates) < (num_pairs - len(collected)):
+            candidates = [p for p in existing if f"{p.get('british','').lower().strip()}/{p.get('american','').lower().strip()}" not in used_now]
+        if candidates:
+            needed = num_pairs - len(collected)
+            collected.extend(candidates[:needed])
+
+    # Built-in curated fallback as absolute safety net
+    if len(collected) < num_pairs:
+        curated = [
+            {"british": "lift", "american": "elevator", "part_of_speech": "noun", "definition": "vertical transport between floors", "british_example": "She took the lift upstairs.", "american_example": "He rode the elevator up.", "category": "transport"},
+            {"british": "flat", "american": "apartment", "part_of_speech": "noun", "definition": "a set of residential rooms", "british_example": "She lives in a flat.", "american_example": "He rented an apartment.", "category": "housing"},
+            {"british": "lorry", "american": "truck", "part_of_speech": "noun", "definition": "large vehicle for cargo", "british_example": "A lorry drove past.", "american_example": "The truck carried boxes.", "category": "transport"},
+            {"british": "chips", "american": "fries", "part_of_speech": "noun", "definition": "fried potato slices", "british_example": "Pass the chips please.", "american_example": "Order large fries.", "category": "food and drink"},
+            {"british": "biscuit", "american": "cookie", "part_of_speech": "noun", "definition": "baked sweet treat", "british_example": "Tea with a biscuit.", "american_example": "A chocolate cookie.", "category": "food and drink"},
+            {"british": "jumper", "american": "sweater", "part_of_speech": "noun", "definition": "warm knitted top", "british_example": "Wear a thick jumper.", "american_example": "Put on a warm sweater.", "category": "clothing"}
+        ]
+        used_now = {f"{c['british'].lower().strip()}/{c['american'].lower().strip()}" for c in collected}
+        for c in curated:
+            if len(collected) >= num_pairs:
+                break
+            k = f"{c['british'].lower().strip()}/{c['american'].lower().strip()}"
+            if k not in used_now:
+                collected.append(c)
+                used_now.add(k)
+
     if collected:
-        add_pairs_to_history(collected)
-        return collected
-    raise RuntimeError("API failed all attempts")
+        add_pairs_to_history(collected[:num_pairs])
+        return collected[:num_pairs]
+    raise RuntimeError("API failed all attempts and no fallback available")
 
 def create_background():
     from PIL import Image, ImageDraw
