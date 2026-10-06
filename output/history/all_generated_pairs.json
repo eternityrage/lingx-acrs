@@ -5501,7 +5501,25 @@
       "american": "outlet",
       "category": "housing",
       "generated_at": "2026-09-02T11:02:28.337089"
+    },
+    {
+      "british": "aubergine",
+      "american": "eggplant",
+      "category": "food and drink",
+      "generated_at": "2026-10-06T20:23:28.672255"
+    },
+    {
+      "british": "biscuit",
+      "american": "cookie",
+      "category": "food and drink",
+      "generated_at": "2026-10-06T20:23:28.672264"
+    },
+    {
+      "british": "chips",
+      "american": "fries",
+      "category": "food and drink",
+      "generated_at": "2026-10-06T20:23:28.672266"
     }
   ],
-  "last_updated": "2026-09-02T11:02:28.337090"
+  "last_updated": "2026-10-06T20:23:28.672267"
 }
