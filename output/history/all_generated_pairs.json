@@ -5519,7 +5519,25 @@
       "american": "bill",
       "category": "workplace and business",
       "generated_at": "2026-10-06T20:42:27.244128"
+    },
+    {
+      "british": "cashpoint",
+      "american": "ATM",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-06T22:27:19.650895"
+    },
+    {
+      "british": "receipt",
+      "american": "stub",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-06T22:27:19.650905"
+    },
+    {
+      "british": "current account",
+      "american": "checking account",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-06T22:27:19.650906"
     }
   ],
-  "last_updated": "2026-10-06T20:42:27.244129"
+  "last_updated": "2026-10-06T22:27:19.650910"
 }
