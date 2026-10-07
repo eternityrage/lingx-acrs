@@ -5591,7 +5591,25 @@
       "american": "drain",
       "category": "bathroom and toiletries",
       "generated_at": "2026-10-07T17:20:05.644107"
+    },
+    {
+      "british": "changing mat",
+      "american": "changing pad",
+      "category": "baby and parenting",
+      "generated_at": "2026-10-07T19:41:42.275810"
+    },
+    {
+      "british": "plug socket",
+      "american": "electrical outlet",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-07T19:41:42.275819"
+    },
+    {
+      "british": "garden shed",
+      "american": "tool shed",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-07T19:41:42.275821"
     }
   ],
-  "last_updated": "2026-10-07T17:20:05.644109"
+  "last_updated": "2026-10-07T19:41:42.275823"
 }
