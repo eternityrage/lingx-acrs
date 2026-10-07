@@ -5537,7 +5537,25 @@
       "american": "checking account",
       "category": "money, shopping and banking",
       "generated_at": "2026-10-06T22:27:19.650906"
+    },
+    {
+      "british": "railway station",
+      "american": "train station",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-07T07:49:18.358318"
+    },
+    {
+      "british": "dustpan",
+      "american": "dust pan",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-07T07:49:18.358327"
+    },
+    {
+      "british": "washing-up liquid",
+      "american": "dish soap",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-07T07:49:18.358329"
     }
   ],
-  "last_updated": "2026-10-06T22:27:19.650910"
+  "last_updated": "2026-10-07T07:49:18.358331"
 }
