@@ -5555,7 +5555,25 @@
       "american": "dish soap",
       "category": "household tools and DIY",
       "generated_at": "2026-10-07T07:49:18.358329"
+    },
+    {
+      "british": "lawn mower",
+      "american": "mower",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-07T13:02:36.458946"
+    },
+    {
+      "british": "watering can",
+      "american": "watering pot",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-07T13:02:36.458958"
+    },
+    {
+      "british": "hosepipe",
+      "american": "garden hose",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-07T13:02:36.458960"
     }
   ],
-  "last_updated": "2026-10-07T07:49:18.358331"
+  "last_updated": "2026-10-07T13:02:36.458962"
 }
