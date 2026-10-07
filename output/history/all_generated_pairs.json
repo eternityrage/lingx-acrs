@@ -5609,7 +5609,25 @@
       "american": "tool shed",
       "category": "household tools and DIY",
       "generated_at": "2026-10-07T19:41:42.275821"
+    },
+    {
+      "british": "turf",
+      "american": "sod",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-07T22:51:47.602007"
+    },
+    {
+      "british": "wheelbarrow",
+      "american": "wheel barrow",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-07T22:51:47.602017"
+    },
+    {
+      "british": "terrace house",
+      "american": "row house",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-07T22:51:47.602018"
     }
   ],
-  "last_updated": "2026-10-07T19:41:42.275823"
+  "last_updated": "2026-10-07T22:51:47.602019"
 }
