@@ -5573,7 +5573,25 @@
       "american": "garden hose",
       "category": "gardening and outdoors",
       "generated_at": "2026-10-07T13:02:36.458960"
+    },
+    {
+      "british": "mobiles",
+      "american": "cell phones",
+      "category": "workplace and business",
+      "generated_at": "2026-10-07T17:20:05.644094"
+    },
+    {
+      "british": "CV",
+      "american": "resume",
+      "category": "workplace and business",
+      "generated_at": "2026-10-07T17:20:05.644106"
+    },
+    {
+      "british": "plughole",
+      "american": "drain",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-07T17:20:05.644107"
     }
   ],
-  "last_updated": "2026-10-07T13:02:36.458962"
+  "last_updated": "2026-10-07T17:20:05.644109"
 }
