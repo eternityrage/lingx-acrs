@@ -5681,7 +5681,25 @@
       "american": "sutures",
       "category": "medical and pharmacy",
       "generated_at": "2026-10-08T17:15:45.950582"
+    },
+    {
+      "british": "till",
+      "american": "register",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-08T19:34:44.049882"
+    },
+    {
+      "british": "change",
+      "american": "coins",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-08T19:34:44.049894"
+    },
+    {
+      "british": "candy floss",
+      "american": "cotton candy",
+      "category": "food and sweets",
+      "generated_at": "2026-10-08T19:34:44.049896"
     }
   ],
-  "last_updated": "2026-10-08T17:15:45.950584"
+  "last_updated": "2026-10-08T19:34:44.049898"
 }
