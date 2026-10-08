@@ -5645,7 +5645,25 @@
       "american": "gas station",
       "category": "street navigation and city life",
       "generated_at": "2026-10-08T08:06:01.098873"
+    },
+    {
+      "british": "cotton wool",
+      "american": "cotton balls",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-08T13:10:10.617259"
+    },
+    {
+      "british": "sticky tape",
+      "american": "scotch tape",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-08T13:10:10.617268"
+    },
+    {
+      "british": "loo roll",
+      "american": "toilet paper",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-08T13:10:10.617269"
     }
   ],
-  "last_updated": "2026-10-08T08:06:01.098874"
+  "last_updated": "2026-10-08T13:10:10.617271"
 }
