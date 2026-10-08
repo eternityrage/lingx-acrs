@@ -5663,7 +5663,25 @@
       "american": "toilet paper",
       "category": "money, shopping and banking",
       "generated_at": "2026-10-08T13:10:10.617269"
+    },
+    {
+      "british": "holiday homework",
+      "american": "summer homework",
+      "category": "school and university",
+      "generated_at": "2026-10-08T17:15:45.950572"
+    },
+    {
+      "british": "state school",
+      "american": "public school",
+      "category": "school and university",
+      "generated_at": "2026-10-08T17:15:45.950581"
+    },
+    {
+      "british": "stiches",
+      "american": "sutures",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-08T17:15:45.950582"
     }
   ],
-  "last_updated": "2026-10-08T13:10:10.617271"
+  "last_updated": "2026-10-08T17:15:45.950584"
 }
