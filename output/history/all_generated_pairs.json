@@ -5627,7 +5627,25 @@
       "american": "row house",
       "category": "buildings and architecture",
       "generated_at": "2026-10-07T22:51:47.602018"
+    },
+    {
+      "british": "chimney pot",
+      "american": "chimney flue",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-08T08:06:01.098861"
+    },
+    {
+      "british": "car park",
+      "american": "parking lot",
+      "category": "street navigation and city life",
+      "generated_at": "2026-10-08T08:06:01.098872"
+    },
+    {
+      "british": "petrol station",
+      "american": "gas station",
+      "category": "street navigation and city life",
+      "generated_at": "2026-10-08T08:06:01.098873"
     }
   ],
-  "last_updated": "2026-10-07T22:51:47.602019"
+  "last_updated": "2026-10-08T08:06:01.098874"
 }
