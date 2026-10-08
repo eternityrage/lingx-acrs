@@ -5699,7 +5699,25 @@
       "american": "cotton candy",
       "category": "food and sweets",
       "generated_at": "2026-10-08T19:34:44.049896"
+    },
+    {
+      "british": "kitchen roll",
+      "american": "paper towels",
+      "category": "household objects",
+      "generated_at": "2026-10-08T23:03:11.442570"
+    },
+    {
+      "british": "cling film",
+      "american": "plastic wrap",
+      "category": "household objects",
+      "generated_at": "2026-10-08T23:03:11.442579"
+    },
+    {
+      "british": "sleeping policeman",
+      "american": "speed bump",
+      "category": "roads and driving",
+      "generated_at": "2026-10-08T23:03:11.442580"
     }
   ],
-  "last_updated": "2026-10-08T19:34:44.049898"
+  "last_updated": "2026-10-08T23:03:11.442582"
 }
