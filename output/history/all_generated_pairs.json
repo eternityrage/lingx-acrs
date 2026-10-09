@@ -5717,7 +5717,25 @@
       "american": "speed bump",
       "category": "roads and driving",
       "generated_at": "2026-10-08T23:03:11.442580"
+    },
+    {
+      "british": "surgery",
+      "american": "operation",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-09T08:05:56.492959"
+    },
+    {
+      "british": "estate car",
+      "american": "station wagon",
+      "category": "roads and driving",
+      "generated_at": "2026-10-09T08:05:56.492969"
+    },
+    {
+      "british": "driving licence",
+      "american": "driver's license",
+      "category": "roads and driving",
+      "generated_at": "2026-10-09T08:05:56.492971"
     }
   ],
-  "last_updated": "2026-10-08T23:03:11.442582"
+  "last_updated": "2026-10-09T08:05:56.492973"
 }
