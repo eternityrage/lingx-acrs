@@ -5771,7 +5771,25 @@
       "american": "main street",
       "category": "city and navigation",
       "generated_at": "2026-10-09T16:51:50.993606"
+    },
+    {
+      "british": "dustbin lorry",
+      "american": "garbage truck",
+      "category": "city and navigation",
+      "generated_at": "2026-10-09T19:08:45.478164"
+    },
+    {
+      "british": "rubbish bin",
+      "american": "trash can",
+      "category": "household objects",
+      "generated_at": "2026-10-09T19:08:45.478173"
+    },
+    {
+      "british": "wheelie bin",
+      "american": "trash cart",
+      "category": "household objects",
+      "generated_at": "2026-10-09T19:08:45.478175"
     }
   ],
-  "last_updated": "2026-10-09T16:51:50.993607"
+  "last_updated": "2026-10-09T19:08:45.478177"
 }
