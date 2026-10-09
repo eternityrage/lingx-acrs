@@ -5789,7 +5789,25 @@
       "american": "trash cart",
       "category": "household objects",
       "generated_at": "2026-10-09T19:08:45.478175"
+    },
+    {
+      "british": "drawing pin",
+      "american": "thumbtack",
+      "category": "stationery and office",
+      "generated_at": "2026-10-09T22:24:05.260005"
+    },
+    {
+      "british": "hire car",
+      "american": "rental car",
+      "category": "travel and transport",
+      "generated_at": "2026-10-09T22:24:05.260014"
+    },
+    {
+      "british": "tea towel",
+      "american": "dish towel",
+      "category": "household objects",
+      "generated_at": "2026-10-09T22:24:05.260016"
     }
   ],
-  "last_updated": "2026-10-09T19:08:45.478177"
+  "last_updated": "2026-10-09T22:24:05.260017"
 }
