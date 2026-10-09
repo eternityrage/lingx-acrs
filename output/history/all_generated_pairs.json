@@ -5753,7 +5753,25 @@
       "american": "elementary school",
       "category": "school and learning",
       "generated_at": "2026-10-09T12:56:36.027605"
+    },
+    {
+      "british": "secondary school",
+      "american": "high school",
+      "category": "school and learning",
+      "generated_at": "2026-10-09T16:51:50.993594"
+    },
+    {
+      "british": "public school",
+      "american": "private school",
+      "category": "school and learning",
+      "generated_at": "2026-10-09T16:51:50.993605"
+    },
+    {
+      "british": "high street",
+      "american": "main street",
+      "category": "city and navigation",
+      "generated_at": "2026-10-09T16:51:50.993606"
     }
   ],
-  "last_updated": "2026-10-09T12:56:36.027607"
+  "last_updated": "2026-10-09T16:51:50.993607"
 }
