@@ -5735,7 +5735,25 @@
       "american": "driver's license",
       "category": "roads and driving",
       "generated_at": "2026-10-09T08:05:56.492971"
+    },
+    {
+      "british": "number plate",
+      "american": "license plate",
+      "category": "roads and driving",
+      "generated_at": "2026-10-09T12:56:36.027592"
+    },
+    {
+      "british": "tailback",
+      "american": "traffic jam",
+      "category": "roads and driving",
+      "generated_at": "2026-10-09T12:56:36.027604"
+    },
+    {
+      "british": "primary school",
+      "american": "elementary school",
+      "category": "school and learning",
+      "generated_at": "2026-10-09T12:56:36.027605"
     }
   ],
-  "last_updated": "2026-10-09T08:05:56.492973"
+  "last_updated": "2026-10-09T12:56:36.027607"
 }
