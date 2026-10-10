@@ -5825,7 +5825,25 @@
       "american": "liquor store",
       "category": "shopping and stores",
       "generated_at": "2026-10-10T07:49:40.424245"
+    },
+    {
+      "british": "level crossing",
+      "american": "grade crossing",
+      "category": "roads and driving",
+      "generated_at": "2026-10-10T12:14:34.349638"
+    },
+    {
+      "british": "lost property",
+      "american": "lost and found",
+      "category": "city and navigation",
+      "generated_at": "2026-10-10T12:14:34.349647"
+    },
+    {
+      "british": "surgical spirit",
+      "american": "rubbing alcohol",
+      "category": "health and hygiene",
+      "generated_at": "2026-10-10T12:14:34.349649"
     }
   ],
-  "last_updated": "2026-10-10T07:49:40.424247"
+  "last_updated": "2026-10-10T12:14:34.349651"
 }
