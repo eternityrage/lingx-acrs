@@ -5879,7 +5879,25 @@
       "american": "bobby pin",
       "category": "clothing and styling",
       "generated_at": "2026-10-10T18:07:33.814779"
+    },
+    {
+      "british": "hair bobble",
+      "american": "hair tie",
+      "category": "clothing and styling",
+      "generated_at": "2026-10-10T21:17:56.494387"
+    },
+    {
+      "british": "tipp-ex",
+      "american": "wite-out",
+      "category": "stationery and office",
+      "generated_at": "2026-10-10T21:17:56.494394"
+    },
+    {
+      "british": "pritt stick",
+      "american": "glue stick",
+      "category": "stationery and office",
+      "generated_at": "2026-10-10T21:17:56.494395"
     }
   ],
-  "last_updated": "2026-10-10T18:07:33.814781"
+  "last_updated": "2026-10-10T21:17:56.494398"
 }
