@@ -5807,7 +5807,25 @@
       "american": "dish towel",
       "category": "household objects",
       "generated_at": "2026-10-09T22:24:05.260016"
+    },
+    {
+      "british": "fancy dress",
+      "american": "costume",
+      "category": "clothing and styling",
+      "generated_at": "2026-10-10T07:49:40.424233"
+    },
+    {
+      "british": "jacket potato",
+      "american": "baked potato",
+      "category": "food and sweets",
+      "generated_at": "2026-10-10T07:49:40.424243"
+    },
+    {
+      "british": "off-licence",
+      "american": "liquor store",
+      "category": "shopping and stores",
+      "generated_at": "2026-10-10T07:49:40.424245"
     }
   ],
-  "last_updated": "2026-10-09T22:24:05.260017"
+  "last_updated": "2026-10-10T07:49:40.424247"
 }
