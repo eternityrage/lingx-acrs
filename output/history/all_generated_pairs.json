@@ -5843,7 +5843,25 @@
       "american": "rubbing alcohol",
       "category": "health and hygiene",
       "generated_at": "2026-10-10T12:14:34.349649"
+    },
+    {
+      "british": "cotton bud",
+      "american": "q-tip",
+      "category": "health and hygiene",
+      "generated_at": "2026-10-10T15:46:50.627873"
+    },
+    {
+      "british": "washing powder",
+      "american": "laundry detergent",
+      "category": "household objects",
+      "generated_at": "2026-10-10T15:46:50.627880"
+    },
+    {
+      "british": "clothes peg",
+      "american": "clothespin",
+      "category": "household objects",
+      "generated_at": "2026-10-10T15:46:50.627882"
     }
   ],
-  "last_updated": "2026-10-10T12:14:34.349651"
+  "last_updated": "2026-10-10T15:46:50.627884"
 }
