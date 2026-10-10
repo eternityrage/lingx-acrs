@@ -5861,7 +5861,25 @@
       "american": "clothespin",
       "category": "household objects",
       "generated_at": "2026-10-10T15:46:50.627882"
+    },
+    {
+      "british": "dressing gown",
+      "american": "bathrobe",
+      "category": "clothing and styling",
+      "generated_at": "2026-10-10T18:07:33.814767"
+    },
+    {
+      "british": "swimming costume",
+      "american": "swimsuit",
+      "category": "clothing and styling",
+      "generated_at": "2026-10-10T18:07:33.814777"
+    },
+    {
+      "british": "kirby grip",
+      "american": "bobby pin",
+      "category": "clothing and styling",
+      "generated_at": "2026-10-10T18:07:33.814779"
     }
   ],
-  "last_updated": "2026-10-10T15:46:50.627884"
+  "last_updated": "2026-10-10T18:07:33.814781"
 }
