@@ -5951,7 +5951,25 @@
       "american": "zip code",
       "category": "city and navigation",
       "generated_at": "2026-10-11T16:11:27.147610"
+    },
+    {
+      "british": "council house",
+      "american": "public housing",
+      "category": "city and navigation",
+      "generated_at": "2026-10-11T18:32:03.861597"
+    },
+    {
+      "british": "bedsit",
+      "american": "studio apartment",
+      "category": "household objects",
+      "generated_at": "2026-10-11T18:32:03.861608"
+    },
+    {
+      "british": "slip road",
+      "american": "on-ramp",
+      "category": "roads and driving",
+      "generated_at": "2026-10-11T18:32:03.861610"
     }
   ],
-  "last_updated": "2026-10-11T16:11:27.147612"
+  "last_updated": "2026-10-11T18:32:03.861612"
 }
