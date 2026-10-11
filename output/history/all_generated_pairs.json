@@ -5969,7 +5969,25 @@
       "american": "on-ramp",
       "category": "roads and driving",
       "generated_at": "2026-10-11T18:32:03.861610"
+    },
+    {
+      "british": "return ticket",
+      "american": "round-trip ticket",
+      "category": "travel and transport",
+      "generated_at": "2026-10-11T21:37:40.821426"
+    },
+    {
+      "british": "single ticket",
+      "american": "one-way ticket",
+      "category": "travel and transport",
+      "generated_at": "2026-10-11T21:37:40.821436"
+    },
+    {
+      "british": "left luggage",
+      "american": "baggage storage",
+      "category": "travel and transport",
+      "generated_at": "2026-10-11T21:37:40.821438"
     }
   ],
-  "last_updated": "2026-10-11T18:32:03.861612"
+  "last_updated": "2026-10-11T21:37:40.821439"
 }
