@@ -5933,7 +5933,25 @@
       "american": "powdered sugar",
       "category": "food and sweets",
       "generated_at": "2026-10-11T12:29:04.464868"
+    },
+    {
+      "british": "baking tin",
+      "american": "baking pan",
+      "category": "household objects",
+      "generated_at": "2026-10-11T16:11:27.147598"
+    },
+    {
+      "british": "face cloth",
+      "american": "washcloth",
+      "category": "health and hygiene",
+      "generated_at": "2026-10-11T16:11:27.147608"
+    },
+    {
+      "british": "post code",
+      "american": "zip code",
+      "category": "city and navigation",
+      "generated_at": "2026-10-11T16:11:27.147610"
     }
   ],
-  "last_updated": "2026-10-11T12:29:04.464869"
+  "last_updated": "2026-10-11T16:11:27.147612"
 }
