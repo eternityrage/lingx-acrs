@@ -5897,7 +5897,25 @@
       "american": "glue stick",
       "category": "stationery and office",
       "generated_at": "2026-10-10T21:17:56.494395"
+    },
+    {
+      "british": "rubber band",
+      "american": "elastic band",
+      "category": "stationery and office",
+      "generated_at": "2026-10-11T07:57:20.292758"
+    },
+    {
+      "british": "hole punch",
+      "american": "hole puncher",
+      "category": "stationery and office",
+      "generated_at": "2026-10-11T07:57:20.292768"
+    },
+    {
+      "british": "tuck shop",
+      "american": "snack bar",
+      "category": "school and learning",
+      "generated_at": "2026-10-11T07:57:20.292769"
     }
   ],
-  "last_updated": "2026-10-10T21:17:56.494398"
+  "last_updated": "2026-10-11T07:57:20.292771"
 }
