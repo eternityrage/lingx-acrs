@@ -5915,7 +5915,25 @@
       "american": "snack bar",
       "category": "school and learning",
       "generated_at": "2026-10-11T07:57:20.292769"
+    },
+    {
+      "british": "dinner lady",
+      "american": "lunch lady",
+      "category": "school and learning",
+      "generated_at": "2026-10-11T12:29:04.464855"
+    },
+    {
+      "british": "casualty",
+      "american": "emergency room",
+      "category": "health and hygiene",
+      "generated_at": "2026-10-11T12:29:04.464866"
+    },
+    {
+      "british": "icing sugar",
+      "american": "powdered sugar",
+      "category": "food and sweets",
+      "generated_at": "2026-10-11T12:29:04.464868"
     }
   ],
-  "last_updated": "2026-10-11T07:57:20.292771"
+  "last_updated": "2026-10-11T12:29:04.464869"
 }
