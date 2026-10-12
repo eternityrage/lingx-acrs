@@ -5987,7 +5987,25 @@
       "american": "baggage storage",
       "category": "travel and transport",
       "generated_at": "2026-10-11T21:37:40.821438"
+    },
+    {
+      "british": "season ticket",
+      "american": "commuter pass",
+      "category": "travel and transport",
+      "generated_at": "2026-10-12T08:11:08.382533"
+    },
+    {
+      "british": "solicitor",
+      "american": "attorney",
+      "category": "work and business",
+      "generated_at": "2026-10-12T08:11:08.382544"
+    },
+    {
+      "british": "barrister",
+      "american": "trial lawyer",
+      "category": "work and business",
+      "generated_at": "2026-10-12T08:11:08.382546"
     }
   ],
-  "last_updated": "2026-10-11T21:37:40.821439"
+  "last_updated": "2026-10-12T08:11:08.382548"
 }
