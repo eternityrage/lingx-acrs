@@ -6005,7 +6005,25 @@
       "american": "trial lawyer",
       "category": "work and business",
       "generated_at": "2026-10-12T08:11:08.382546"
+    },
+    {
+      "british": "greengrocer",
+      "american": "produce store",
+      "category": "shopping and stores",
+      "generated_at": "2026-10-12T15:00:40.118869"
+    },
+    {
+      "british": "ironmonger",
+      "american": "hardware store",
+      "category": "shopping and stores",
+      "generated_at": "2026-10-12T15:00:40.118881"
+    },
+    {
+      "british": "fishmonger",
+      "american": "fish market",
+      "category": "shopping and stores",
+      "generated_at": "2026-10-12T15:00:40.118883"
     }
   ],
-  "last_updated": "2026-10-12T08:11:08.382548"
+  "last_updated": "2026-10-12T15:00:40.118885"
 }
