@@ -6041,7 +6041,25 @@
       "american": "cane",
       "category": "household objects",
       "generated_at": "2026-10-12T19:40:35.705570"
+    },
+    {
+      "british": "sticking plaster",
+      "american": "adhesive strip",
+      "category": "health and hygiene",
+      "generated_at": "2026-10-12T21:55:23.494472"
+    },
+    {
+      "british": "salve",
+      "american": "ointment",
+      "category": "health and hygiene",
+      "generated_at": "2026-10-12T21:55:23.494481"
+    },
+    {
+      "british": "inoculation",
+      "american": "vaccination",
+      "category": "health and hygiene",
+      "generated_at": "2026-10-12T21:55:23.494483"
     }
   ],
-  "last_updated": "2026-10-12T19:40:35.705572"
+  "last_updated": "2026-10-12T21:55:23.494484"
 }
