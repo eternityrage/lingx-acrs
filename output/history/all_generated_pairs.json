@@ -6023,7 +6023,25 @@
       "american": "fish market",
       "category": "shopping and stores",
       "generated_at": "2026-10-12T15:00:40.118883"
+    },
+    {
+      "british": "newsagent",
+      "american": "newsstand",
+      "category": "shopping and stores",
+      "generated_at": "2026-10-12T19:40:35.705556"
+    },
+    {
+      "british": "sweet shop",
+      "american": "candy store",
+      "category": "shopping and stores",
+      "generated_at": "2026-10-12T19:40:35.705569"
+    },
+    {
+      "british": "walking stick",
+      "american": "cane",
+      "category": "household objects",
+      "generated_at": "2026-10-12T19:40:35.705570"
     }
   ],
-  "last_updated": "2026-10-12T15:00:40.118885"
+  "last_updated": "2026-10-12T19:40:35.705572"
 }
