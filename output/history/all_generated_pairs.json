@@ -6077,7 +6077,25 @@
       "american": "swap meet",
       "category": "shopping and stores",
       "generated_at": "2026-10-13T00:17:09.083494"
+    },
+    {
+      "british": "bootlace",
+      "american": "shoelace",
+      "category": "clothing and styling",
+      "generated_at": "2026-10-13T08:36:56.940721"
+    },
+    {
+      "british": "bumbag",
+      "american": "fanny pack",
+      "category": "clothing and styling",
+      "generated_at": "2026-10-13T08:36:56.940731"
+    },
+    {
+      "british": "cooker hood",
+      "american": "range hood",
+      "category": "household objects",
+      "generated_at": "2026-10-13T08:36:56.940733"
     }
   ],
-  "last_updated": "2026-10-13T00:17:09.083495"
+  "last_updated": "2026-10-13T08:36:56.940735"
 }
