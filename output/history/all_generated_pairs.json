@@ -6059,7 +6059,25 @@
       "american": "vaccination",
       "category": "health and hygiene",
       "generated_at": "2026-10-12T21:55:23.494483"
+    },
+    {
+      "british": "dual carriageway",
+      "american": "divided highway",
+      "category": "roads and driving",
+      "generated_at": "2026-10-13T00:17:09.083483"
+    },
+    {
+      "british": "hard shoulder",
+      "american": "road shoulder",
+      "category": "roads and driving",
+      "generated_at": "2026-10-13T00:17:09.083492"
+    },
+    {
+      "british": "car boot sale",
+      "american": "swap meet",
+      "category": "shopping and stores",
+      "generated_at": "2026-10-13T00:17:09.083494"
     }
   ],
-  "last_updated": "2026-10-12T21:55:23.494484"
+  "last_updated": "2026-10-13T00:17:09.083495"
 }
