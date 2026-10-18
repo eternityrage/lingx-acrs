@@ -6125,7 +6125,25 @@
       "american": "row house",
       "category": "buildings and architecture",
       "generated_at": "2026-10-18T18:08:22.744970"
+    },
+    {
+      "british": "aubergine",
+      "american": "eggplant",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-10-18T18:19:57.179246"
+    },
+    {
+      "british": "courgette",
+      "american": "zucchini",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-10-18T18:19:57.179253"
+    },
+    {
+      "british": "prawn",
+      "american": "shrimp",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-10-18T18:19:57.179254"
     }
   ],
-  "last_updated": "2026-10-18T18:08:22.744972"
+  "last_updated": "2026-10-18T18:19:57.179256"
 }
