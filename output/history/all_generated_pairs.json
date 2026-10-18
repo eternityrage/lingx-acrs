@@ -6143,7 +6143,25 @@
       "american": "shrimp",
       "category": "kitchen and cooking",
       "generated_at": "2026-10-18T18:19:57.179254"
+    },
+    {
+      "british": "colleague",
+      "american": "coworker",
+      "category": "workplace and business",
+      "generated_at": "2026-10-18T18:31:28.776551"
+    },
+    {
+      "british": "noticeboard",
+      "american": "bulletin board",
+      "category": "workplace and business",
+      "generated_at": "2026-10-18T18:31:28.776560"
+    },
+    {
+      "british": "redundant",
+      "american": "laid off",
+      "category": "workplace and business",
+      "generated_at": "2026-10-18T18:31:28.776561"
     }
   ],
-  "last_updated": "2026-10-18T18:19:57.179256"
+  "last_updated": "2026-10-18T18:31:28.776563"
 }
