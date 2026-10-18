@@ -367,9 +367,15 @@ def upload_to_all_platforms(video_path, caption, category, phrases=None, lang_fi
                 t_end = datetime.now()
                 t_sec = round((t_end - t_start).total_seconds())
                 results["timing"][pname] = f"{t_sec}s"
-                if r:
+                if r and isinstance(r, dict) and r.get("status") in ("success", "published"):
                     results["uploads"][pname] = r
                     results["platforms_successful"].append(pname)
+                elif r and isinstance(r, dict) and r.get("status") == "skipped":
+                    results["uploads"][pname] = r
+                    results["platforms_skipped"].append(pname)
+                elif r:
+                    results["uploads"][pname] = r
+                    results["platforms_failed"].append(pname)
                 else:
                     results["platforms_failed"].append(pname)
             except Exception as e:
