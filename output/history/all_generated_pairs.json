@@ -6215,7 +6215,25 @@
       "american": "punch",
       "category": "stationery and desk items",
       "generated_at": "2026-10-19T12:44:34.536977"
+    },
+    {
+      "british": "lift",
+      "american": "elevator",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-19T16:51:32.159594"
+    },
+    {
+      "british": "flat",
+      "american": "apartment",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-19T16:51:32.159600"
+    },
+    {
+      "british": "biscuit",
+      "american": "cookie",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-19T16:51:32.159601"
     }
   ],
-  "last_updated": "2026-10-19T12:44:34.536978"
+  "last_updated": "2026-10-19T16:51:32.159602"
 }
