@@ -6233,7 +6233,25 @@
       "american": "cookie",
       "category": "money, shopping and banking",
       "generated_at": "2026-10-19T16:51:32.159601"
+    },
+    {
+      "british": "train station",
+      "american": "railway station",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-19T19:33:37.089680"
+    },
+    {
+      "british": "luggage",
+      "american": "baggage",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-19T19:33:37.089688"
+    },
+    {
+      "british": "chemist",
+      "american": "drugstore",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-19T19:33:37.089690"
     }
   ],
-  "last_updated": "2026-10-19T16:51:32.159602"
+  "last_updated": "2026-10-19T19:33:37.089692"
 }
