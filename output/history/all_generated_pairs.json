@@ -6197,7 +6197,25 @@
       "american": "dish room",
       "category": "buildings and architecture",
       "generated_at": "2026-10-19T07:02:52.525700"
+    },
+    {
+      "british": "sellotape",
+      "american": "scotch tape",
+      "category": "stationery and desk items",
+      "generated_at": "2026-10-19T12:44:34.536965"
+    },
+    {
+      "british": "sticky label",
+      "american": "sticker",
+      "category": "stationery and desk items",
+      "generated_at": "2026-10-19T12:44:34.536976"
+    },
+    {
+      "british": "hole punch",
+      "american": "punch",
+      "category": "stationery and desk items",
+      "generated_at": "2026-10-19T12:44:34.536977"
     }
   ],
-  "last_updated": "2026-10-19T07:02:52.525702"
+  "last_updated": "2026-10-19T12:44:34.536978"
 }
