@@ -6179,7 +6179,25 @@
       "american": "stuffed",
       "category": "entertainment and pop culture",
       "generated_at": "2026-10-18T20:15:04.298299"
+    },
+    {
+      "british": "garden shed",
+      "american": "tool shed",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-19T07:02:52.525689"
+    },
+    {
+      "british": "maisonette",
+      "american": "townhouse",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-19T07:02:52.525698"
+    },
+    {
+      "british": "scullery",
+      "american": "dish room",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-19T07:02:52.525700"
     }
   ],
-  "last_updated": "2026-10-18T20:15:04.298301"
+  "last_updated": "2026-10-19T07:02:52.525702"
 }
