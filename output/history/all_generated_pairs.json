@@ -6251,7 +6251,25 @@
       "american": "drugstore",
       "category": "travel, train and holiday",
       "generated_at": "2026-10-19T19:33:37.089690"
+    },
+    {
+      "british": "toilet paper",
+      "american": "bathroom tissue",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-19T22:05:38.669358"
+    },
+    {
+      "british": "plughole",
+      "american": "drain",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-19T22:05:38.669367"
+    },
+    {
+      "british": "bath towel",
+      "american": "bath sheet",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-19T22:05:38.669369"
     }
   ],
-  "last_updated": "2026-10-19T19:33:37.089692"
+  "last_updated": "2026-10-19T22:05:38.669371"
 }
