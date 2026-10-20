@@ -6305,7 +6305,25 @@
       "american": "pantry",
       "category": "kitchen and cooking",
       "generated_at": "2026-10-20T11:15:25.306837"
+    },
+    {
+      "british": "rugger",
+      "american": "football",
+      "category": "sports and games",
+      "generated_at": "2026-10-20T14:46:34.172376"
+    },
+    {
+      "british": "car-boot sale",
+      "american": "garage sale",
+      "category": "sports and games",
+      "generated_at": "2026-10-20T14:46:34.172387"
+    },
+    {
+      "british": "skittles",
+      "american": "bowling",
+      "category": "sports and games",
+      "generated_at": "2026-10-20T14:46:34.172388"
     }
   ],
-  "last_updated": "2026-10-20T11:15:25.306839"
+  "last_updated": "2026-10-20T14:46:34.172389"
 }
