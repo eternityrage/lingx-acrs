@@ -6287,7 +6287,25 @@
       "american": "restroom",
       "category": "money, shopping and banking",
       "generated_at": "2026-10-20T06:47:04.411065"
+    },
+    {
+      "british": "coriander",
+      "american": "cilantro",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-10-20T11:15:25.306826"
+    },
+    {
+      "british": "spring onion",
+      "american": "scallion",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-10-20T11:15:25.306836"
+    },
+    {
+      "british": "larder",
+      "american": "pantry",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-10-20T11:15:25.306837"
     }
   ],
-  "last_updated": "2026-10-20T06:47:04.411067"
+  "last_updated": "2026-10-20T11:15:25.306839"
 }
