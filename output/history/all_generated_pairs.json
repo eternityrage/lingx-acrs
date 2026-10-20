@@ -6269,7 +6269,25 @@
       "american": "bath sheet",
       "category": "bathroom and toiletries",
       "generated_at": "2026-10-19T22:05:38.669369"
+    },
+    {
+      "british": "cashpoint",
+      "american": "ATM",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-20T06:47:04.411053"
+    },
+    {
+      "british": "receipt",
+      "american": "stub",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-20T06:47:04.411064"
+    },
+    {
+      "british": "loo",
+      "american": "restroom",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-20T06:47:04.411065"
     }
   ],
-  "last_updated": "2026-10-19T22:05:38.669371"
+  "last_updated": "2026-10-20T06:47:04.411067"
 }
