@@ -6323,7 +6323,25 @@
       "american": "bowling",
       "category": "sports and games",
       "generated_at": "2026-10-20T14:46:34.172388"
+    },
+    {
+      "british": "bonnet",
+      "american": "hood",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-10-20T18:11:21.600766"
+    },
+    {
+      "british": "windscreen",
+      "american": "windshield",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-10-20T18:11:21.600778"
+    },
+    {
+      "british": "motorway",
+      "american": "freeway",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-10-20T18:11:21.600779"
     }
   ],
-  "last_updated": "2026-10-20T14:46:34.172389"
+  "last_updated": "2026-10-20T18:11:21.600781"
 }
