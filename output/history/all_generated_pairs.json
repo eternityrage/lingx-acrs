@@ -6395,7 +6395,25 @@
       "american": "baseball",
       "category": "sports and games",
       "generated_at": "2026-10-21T11:31:21.317529"
+    },
+    {
+      "british": "handover",
+      "american": "transition",
+      "category": "workplace and business",
+      "generated_at": "2026-10-21T14:55:31.230757"
+    },
+    {
+      "british": "redundancy",
+      "american": "layoff",
+      "category": "workplace and business",
+      "generated_at": "2026-10-21T14:55:31.230769"
+    },
+    {
+      "british": "staff room",
+      "american": "break room",
+      "category": "workplace and business",
+      "generated_at": "2026-10-21T14:55:31.230770"
     }
   ],
-  "last_updated": "2026-10-21T11:31:21.317531"
+  "last_updated": "2026-10-21T14:55:31.230771"
 }
