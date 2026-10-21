@@ -6431,7 +6431,25 @@
       "american": "car",
       "category": "travel, train and holiday",
       "generated_at": "2026-10-21T18:18:20.243200"
+    },
+    {
+      "british": "petrol",
+      "american": "gas",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-10-21T21:22:21.367634"
+    },
+    {
+      "british": "lorry",
+      "american": "truck",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-10-21T21:22:21.367643"
+    },
+    {
+      "british": "indicator",
+      "american": "turn signal",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-10-21T21:22:21.367645"
     }
   ],
-  "last_updated": "2026-10-21T18:18:20.243202"
+  "last_updated": "2026-10-21T21:22:21.367646"
 }
