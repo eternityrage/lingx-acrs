@@ -6377,7 +6377,25 @@
       "american": "sweater",
       "category": "everyday household objects",
       "generated_at": "2026-10-21T06:41:53.570475"
+    },
+    {
+      "british": "football",
+      "american": "soccer",
+      "category": "sports and games",
+      "generated_at": "2026-10-21T11:31:21.317517"
+    },
+    {
+      "british": "bowls",
+      "american": "lawn bowls",
+      "category": "sports and games",
+      "generated_at": "2026-10-21T11:31:21.317528"
+    },
+    {
+      "british": "cricket",
+      "american": "baseball",
+      "category": "sports and games",
+      "generated_at": "2026-10-21T11:31:21.317529"
     }
   ],
-  "last_updated": "2026-10-21T06:41:53.570477"
+  "last_updated": "2026-10-21T11:31:21.317531"
 }
