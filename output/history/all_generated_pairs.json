@@ -6359,7 +6359,25 @@
       "american": "hallway",
       "category": "buildings and architecture",
       "generated_at": "2026-10-20T21:21:25.803991"
+    },
+    {
+      "british": "dustbin",
+      "american": "trash can",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-21T06:41:53.570463"
+    },
+    {
+      "british": "torch",
+      "american": "flashlight",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-21T06:41:53.570474"
+    },
+    {
+      "british": "jumper",
+      "american": "sweater",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-21T06:41:53.570475"
     }
   ],
-  "last_updated": "2026-10-20T21:21:25.803993"
+  "last_updated": "2026-10-21T06:41:53.570477"
 }
