@@ -6413,7 +6413,25 @@
       "american": "break room",
       "category": "workplace and business",
       "generated_at": "2026-10-21T14:55:31.230770"
+    },
+    {
+      "british": "railway station",
+      "american": "train depot",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-21T18:18:20.243189"
+    },
+    {
+      "british": "luggage rack",
+      "american": "baggage carrier",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-21T18:18:20.243198"
+    },
+    {
+      "british": "carriage",
+      "american": "car",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-21T18:18:20.243200"
     }
   ],
-  "last_updated": "2026-10-21T14:55:31.230771"
+  "last_updated": "2026-10-21T18:18:20.243202"
 }
