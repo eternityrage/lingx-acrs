@@ -6449,7 +6449,25 @@
       "american": "turn signal",
       "category": "driving, roads and transport",
       "generated_at": "2026-10-21T21:22:21.367645"
+    },
+    {
+      "british": "telly",
+      "american": "TV",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-22T06:50:38.360492"
+    },
+    {
+      "british": "pub",
+      "american": "bar",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-22T06:50:38.360503"
+    },
+    {
+      "british": "film",
+      "american": "movie",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-22T06:50:38.360505"
     }
   ],
-  "last_updated": "2026-10-21T21:22:21.367646"
+  "last_updated": "2026-10-22T06:50:38.360507"
 }
