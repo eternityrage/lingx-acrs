@@ -6503,7 +6503,25 @@
       "american": "wrench",
       "category": "household tools and DIY",
       "generated_at": "2026-10-22T14:55:26.621458"
+    },
+    {
+      "british": "zebra crossing",
+      "american": "crosswalk",
+      "category": "street navigation and city life",
+      "generated_at": "2026-10-22T18:12:21.301648"
+    },
+    {
+      "british": "car park",
+      "american": "parking lot",
+      "category": "street navigation and city life",
+      "generated_at": "2026-10-22T18:12:21.301658"
+    },
+    {
+      "british": "pavement",
+      "american": "sidewalk",
+      "category": "street navigation and city life",
+      "generated_at": "2026-10-22T18:12:21.301660"
     }
   ],
-  "last_updated": "2026-10-22T14:55:26.621459"
+  "last_updated": "2026-10-22T18:12:21.301661"
 }
