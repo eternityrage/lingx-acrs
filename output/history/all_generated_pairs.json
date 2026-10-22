@@ -6467,7 +6467,25 @@
       "american": "movie",
       "category": "entertainment and pop culture",
       "generated_at": "2026-10-22T06:50:38.360505"
+    },
+    {
+      "british": "fancy dress",
+      "american": "costume party",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-10-22T11:31:01.820984"
+    },
+    {
+      "british": "dressing gown",
+      "american": "bathrobe",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-10-22T11:31:01.820995"
+    },
+    {
+      "british": "board game",
+      "american": "tabletop game",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-10-22T11:31:01.820998"
     }
   ],
-  "last_updated": "2026-10-22T06:50:38.360507"
+  "last_updated": "2026-10-22T11:31:01.820999"
 }
