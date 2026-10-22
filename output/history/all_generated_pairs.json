@@ -6521,7 +6521,25 @@
       "american": "sidewalk",
       "category": "street navigation and city life",
       "generated_at": "2026-10-22T18:12:21.301660"
+    },
+    {
+      "british": "loo",
+      "american": "bathroom",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-22T21:18:02.793059"
+    },
+    {
+      "british": "hoover",
+      "american": "vacuum cleaner",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-22T21:18:02.793069"
+    },
+    {
+      "british": "cot",
+      "american": "crib",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-22T21:18:02.793071"
     }
   ],
-  "last_updated": "2026-10-22T18:12:21.301661"
+  "last_updated": "2026-10-22T21:18:02.793073"
 }
