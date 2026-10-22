@@ -6485,7 +6485,25 @@
       "american": "tabletop game",
       "category": "leisure and hobbies",
       "generated_at": "2026-10-22T11:31:01.820998"
+    },
+    {
+      "british": "wire wool",
+      "american": "steel wool",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-22T14:55:26.621444"
+    },
+    {
+      "british": "spirit level",
+      "american": "bubble level",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-22T14:55:26.621456"
+    },
+    {
+      "british": "spanner",
+      "american": "wrench",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-22T14:55:26.621458"
     }
   ],
-  "last_updated": "2026-10-22T11:31:01.820999"
+  "last_updated": "2026-10-22T14:55:26.621459"
 }
