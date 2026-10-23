@@ -6539,7 +6539,25 @@
       "american": "crib",
       "category": "everyday household objects",
       "generated_at": "2026-10-22T21:18:02.793071"
+    },
+    {
+      "british": "doorbell",
+      "american": "buzzer",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-23T06:39:06.884850"
+    },
+    {
+      "british": "sweets",
+      "american": "candy",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-23T06:39:06.884863"
+    },
+    {
+      "british": "hair slide",
+      "american": "hair clip",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-23T06:39:06.884865"
     }
   ],
-  "last_updated": "2026-10-22T21:18:02.793073"
+  "last_updated": "2026-10-23T06:39:06.884869"
 }
