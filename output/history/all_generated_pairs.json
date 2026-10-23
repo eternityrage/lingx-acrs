@@ -6575,7 +6575,25 @@
       "american": "notepad",
       "category": "stationery and desk items",
       "generated_at": "2026-10-23T11:20:26.292352"
+    },
+    {
+      "british": "trainers",
+      "american": "sneakers",
+      "category": "clothing and accessories",
+      "generated_at": "2026-10-23T15:48:21.302162"
+    },
+    {
+      "british": "waistcoat",
+      "american": "vest",
+      "category": "clothing and accessories",
+      "generated_at": "2026-10-23T15:48:21.302173"
+    },
+    {
+      "british": "pants",
+      "american": "underwear",
+      "category": "clothing and accessories",
+      "generated_at": "2026-10-23T15:48:21.302174"
     }
   ],
-  "last_updated": "2026-10-23T11:20:26.292354"
+  "last_updated": "2026-10-23T15:48:21.302176"
 }
