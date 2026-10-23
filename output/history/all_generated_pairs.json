@@ -6593,7 +6593,25 @@
       "american": "underwear",
       "category": "clothing and accessories",
       "generated_at": "2026-10-23T15:48:21.302174"
+    },
+    {
+      "british": "lawn mower",
+      "american": "mower",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-23T18:01:07.644087"
+    },
+    {
+      "british": "watering can",
+      "american": "watering pot",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-23T18:01:07.644098"
+    },
+    {
+      "british": "hedges",
+      "american": "shrubs",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-23T18:01:07.644099"
     }
   ],
-  "last_updated": "2026-10-23T15:48:21.302176"
+  "last_updated": "2026-10-23T18:01:07.644100"
 }
