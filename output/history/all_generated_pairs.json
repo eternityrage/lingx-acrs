@@ -6557,7 +6557,25 @@
       "american": "hair clip",
       "category": "everyday household objects",
       "generated_at": "2026-10-23T06:39:06.884865"
+    },
+    {
+      "british": "crisps",
+      "american": "chips",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-23T11:20:26.292341"
+    },
+    {
+      "british": "post",
+      "american": "mail",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-23T11:20:26.292351"
+    },
+    {
+      "british": "writing pad",
+      "american": "notepad",
+      "category": "stationery and desk items",
+      "generated_at": "2026-10-23T11:20:26.292352"
     }
   ],
-  "last_updated": "2026-10-23T06:39:06.884869"
+  "last_updated": "2026-10-23T11:20:26.292354"
 }
