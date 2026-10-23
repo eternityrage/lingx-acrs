@@ -6611,7 +6611,25 @@
       "american": "shrubs",
       "category": "gardening and outdoors",
       "generated_at": "2026-10-23T18:01:07.644099"
+    },
+    {
+      "british": "primary school",
+      "american": "elementary school",
+      "category": "school and university",
+      "generated_at": "2026-10-23T21:07:01.088250"
+    },
+    {
+      "british": "university",
+      "american": "college",
+      "category": "school and university",
+      "generated_at": "2026-10-23T21:07:01.088262"
+    },
+    {
+      "british": "term",
+      "american": "semester",
+      "category": "school and university",
+      "generated_at": "2026-10-23T21:07:01.088263"
     }
   ],
-  "last_updated": "2026-10-23T18:01:07.644100"
+  "last_updated": "2026-10-23T21:07:01.088273"
 }
