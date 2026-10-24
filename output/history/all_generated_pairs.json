@@ -6683,7 +6683,25 @@
       "american": "yard",
       "category": "buildings and architecture",
       "generated_at": "2026-10-24T13:52:49.804664"
+    },
+    {
+      "british": "conservatory",
+      "american": "sunroom",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-24T17:04:52.583574"
+    },
+    {
+      "british": "chimney pot",
+      "american": "chimney cowl",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-24T17:04:52.583585"
+    },
+    {
+      "british": "attic",
+      "american": "loft",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-24T17:04:52.583586"
     }
   ],
-  "last_updated": "2026-10-24T13:52:49.804666"
+  "last_updated": "2026-10-24T17:04:52.583587"
 }
