@@ -6647,7 +6647,25 @@
       "american": "diaper",
       "category": "medical and pharmacy",
       "generated_at": "2026-10-24T06:36:08.470682"
+    },
+    {
+      "british": "courgette",
+      "american": "zucchini",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-24T10:42:10.637494"
+    },
+    {
+      "british": "queue",
+      "american": "line",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-24T10:42:10.637504"
+    },
+    {
+      "british": "boot",
+      "american": "trunk",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-10-24T10:42:10.637505"
     }
   ],
-  "last_updated": "2026-10-24T06:36:08.470684"
+  "last_updated": "2026-10-24T10:42:10.637507"
 }
