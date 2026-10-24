@@ -6629,7 +6629,25 @@
       "american": "semester",
       "category": "school and university",
       "generated_at": "2026-10-23T21:07:01.088263"
+    },
+    {
+      "british": "plaster",
+      "american": "band-aid",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-24T06:36:08.470671"
+    },
+    {
+      "british": "GP",
+      "american": "family doctor",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-24T06:36:08.470680"
+    },
+    {
+      "british": "nappy",
+      "american": "diaper",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-24T06:36:08.470682"
     }
   ],
-  "last_updated": "2026-10-23T21:07:01.088273"
+  "last_updated": "2026-10-24T06:36:08.470684"
 }
