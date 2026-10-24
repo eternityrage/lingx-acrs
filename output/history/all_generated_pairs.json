@@ -6665,7 +6665,25 @@
       "american": "trunk",
       "category": "travel, train and holiday",
       "generated_at": "2026-10-24T10:42:10.637505"
+    },
+    {
+      "british": "ground floor",
+      "american": "first floor",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-24T13:52:49.804651"
+    },
+    {
+      "british": "terrace house",
+      "american": "row house",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-24T13:52:49.804663"
+    },
+    {
+      "british": "garden",
+      "american": "yard",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-24T13:52:49.804664"
     }
   ],
-  "last_updated": "2026-10-24T10:42:10.637507"
+  "last_updated": "2026-10-24T13:52:49.804666"
 }
