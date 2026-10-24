@@ -6701,7 +6701,25 @@
       "american": "loft",
       "category": "buildings and architecture",
       "generated_at": "2026-10-24T17:04:52.583586"
+    },
+    {
+      "british": "programme",
+      "american": "program",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-24T20:24:05.378630"
+    },
+    {
+      "british": "gig",
+      "american": "show",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-24T20:24:05.378642"
+    },
+    {
+      "british": "cinema",
+      "american": "movie theater",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-10-24T20:24:05.378643"
     }
   ],
-  "last_updated": "2026-10-24T17:04:52.583587"
+  "last_updated": "2026-10-24T20:24:05.378645"
 }
