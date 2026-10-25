@@ -6737,7 +6737,25 @@
       "american": "power drill",
       "category": "household tools and DIY",
       "generated_at": "2026-10-25T07:03:05.882372"
+    },
+    {
+      "british": "chemist",
+      "american": "drugstore",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-25T11:04:18.781176"
+    },
+    {
+      "british": "stoma bag",
+      "american": "ostomy bag",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-25T11:04:18.781184"
+    },
+    {
+      "british": "bedpan",
+      "american": "bed pan",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-25T11:04:18.781185"
     }
   ],
-  "last_updated": "2026-10-25T07:03:05.882373"
+  "last_updated": "2026-10-25T11:04:18.781187"
 }
