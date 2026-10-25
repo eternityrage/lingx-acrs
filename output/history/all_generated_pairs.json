@@ -6791,7 +6791,25 @@
       "american": "flower bed",
       "category": "gardening and outdoors",
       "generated_at": "2026-10-25T17:19:17.301288"
+    },
+    {
+      "british": "aubergine",
+      "american": "eggplant",
+      "category": "food and sweets",
+      "generated_at": "2026-10-25T20:30:37.738562"
+    },
+    {
+      "british": "rocket",
+      "american": "arugula",
+      "category": "food and sweets",
+      "generated_at": "2026-10-25T20:30:37.738573"
+    },
+    {
+      "british": "marrow",
+      "american": "squash",
+      "category": "food and sweets",
+      "generated_at": "2026-10-25T20:30:37.738574"
     }
   ],
-  "last_updated": "2026-10-25T17:19:17.301290"
+  "last_updated": "2026-10-25T20:30:37.738575"
 }
