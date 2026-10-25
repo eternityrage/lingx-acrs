@@ -6719,7 +6719,25 @@
       "american": "movie theater",
       "category": "leisure and hobbies",
       "generated_at": "2026-10-24T20:24:05.378643"
+    },
+    {
+      "british": "wash basin",
+      "american": "sink",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-25T07:03:05.882361"
+    },
+    {
+      "british": "tap",
+      "american": "faucet",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-25T07:03:05.882370"
+    },
+    {
+      "british": "electric drill",
+      "american": "power drill",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-25T07:03:05.882372"
     }
   ],
-  "last_updated": "2026-10-24T20:24:05.378645"
+  "last_updated": "2026-10-25T07:03:05.882373"
 }
