@@ -6755,7 +6755,25 @@
       "american": "bed pan",
       "category": "medical and pharmacy",
       "generated_at": "2026-10-25T11:04:18.781185"
+    },
+    {
+      "british": "state school",
+      "american": "public school",
+      "category": "school and university",
+      "generated_at": "2026-10-25T14:09:07.723136"
+    },
+    {
+      "british": "maths",
+      "american": "math",
+      "category": "school and university",
+      "generated_at": "2026-10-25T14:09:07.723147"
+    },
+    {
+      "british": "timetable",
+      "american": "schedule",
+      "category": "school and university",
+      "generated_at": "2026-10-25T14:09:07.723149"
     }
   ],
-  "last_updated": "2026-10-25T11:04:18.781187"
+  "last_updated": "2026-10-25T14:09:07.723151"
 }
