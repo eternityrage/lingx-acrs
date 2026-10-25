@@ -6773,7 +6773,25 @@
       "american": "schedule",
       "category": "school and university",
       "generated_at": "2026-10-25T14:09:07.723149"
+    },
+    {
+      "british": "watering can",
+      "american": "water can",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-25T17:19:17.301277"
+    },
+    {
+      "british": "hosepipe",
+      "american": "garden hose",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-25T17:19:17.301284"
+    },
+    {
+      "british": "flowerbed",
+      "american": "flower bed",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-25T17:19:17.301288"
     }
   ],
-  "last_updated": "2026-10-25T14:09:07.723151"
+  "last_updated": "2026-10-25T17:19:17.301290"
 }
