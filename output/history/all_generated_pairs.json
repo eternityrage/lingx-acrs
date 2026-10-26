@@ -6881,7 +6881,25 @@
       "american": "lawn bowling",
       "category": "sports and games",
       "generated_at": "2026-10-26T19:38:55.478442"
+    },
+    {
+      "british": "garden shed",
+      "american": "tool shed",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-26T22:23:42.425357"
+    },
+    {
+      "british": "detached house",
+      "american": "single-family home",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-26T22:23:42.425370"
+    },
+    {
+      "british": "front door",
+      "american": "main entrance",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-26T22:23:42.425371"
     }
   ],
-  "last_updated": "2026-10-26T19:38:55.478444"
+  "last_updated": "2026-10-26T22:23:42.425373"
 }
