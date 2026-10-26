@@ -6827,7 +6827,25 @@
       "american": "roasted potatoes",
       "category": "kitchen and cooking",
       "generated_at": "2026-10-26T07:09:59.293636"
+    },
+    {
+      "british": "loo roll",
+      "american": "toilet paper",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-26T12:38:06.246410"
+    },
+    {
+      "british": "bath",
+      "american": "bathtub",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-26T12:38:06.246419"
+    },
+    {
+      "british": "cotton wool",
+      "american": "cotton balls",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-26T12:38:06.246421"
     }
   ],
-  "last_updated": "2026-10-26T07:09:59.293637"
+  "last_updated": "2026-10-26T12:38:06.246423"
 }
