@@ -6809,7 +6809,25 @@
       "american": "squash",
       "category": "food and sweets",
       "generated_at": "2026-10-25T20:30:37.738574"
+    },
+    {
+      "british": "bonnet",
+      "american": "hood",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-10-26T07:09:59.293625"
+    },
+    {
+      "british": "larder",
+      "american": "pantry",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-10-26T07:09:59.293634"
+    },
+    {
+      "british": "roast potatoes",
+      "american": "roasted potatoes",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-10-26T07:09:59.293636"
     }
   ],
-  "last_updated": "2026-10-25T20:30:37.738575"
+  "last_updated": "2026-10-26T07:09:59.293637"
 }
