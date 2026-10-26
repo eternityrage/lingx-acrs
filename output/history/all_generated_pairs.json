@@ -6863,7 +6863,25 @@
       "american": "hallway",
       "category": "buildings and architecture",
       "generated_at": "2026-10-26T16:36:40.067838"
+    },
+    {
+      "british": "football",
+      "american": "soccer",
+      "category": "sports and games",
+      "generated_at": "2026-10-26T19:38:55.478433"
+    },
+    {
+      "british": "billiards",
+      "american": "pool",
+      "category": "sports and games",
+      "generated_at": "2026-10-26T19:38:55.478441"
+    },
+    {
+      "british": "bowls",
+      "american": "lawn bowling",
+      "category": "sports and games",
+      "generated_at": "2026-10-26T19:38:55.478442"
     }
   ],
-  "last_updated": "2026-10-26T16:36:40.067840"
+  "last_updated": "2026-10-26T19:38:55.478444"
 }
