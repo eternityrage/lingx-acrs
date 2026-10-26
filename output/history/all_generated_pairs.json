@@ -6845,7 +6845,25 @@
       "american": "cotton balls",
       "category": "bathroom and toiletries",
       "generated_at": "2026-10-26T12:38:06.246421"
+    },
+    {
+      "british": "motorway",
+      "american": "freeway",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-10-26T16:36:40.067824"
+    },
+    {
+      "british": "terraced house",
+      "american": "row house",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-26T16:36:40.067836"
+    },
+    {
+      "british": "landing",
+      "american": "hallway",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-26T16:36:40.067838"
     }
   ],
-  "last_updated": "2026-10-26T12:38:06.246423"
+  "last_updated": "2026-10-26T16:36:40.067840"
 }
