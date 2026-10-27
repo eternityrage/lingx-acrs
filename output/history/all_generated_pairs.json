@@ -6917,7 +6917,25 @@
       "american": "Suspenders",
       "category": "clothing and accessories",
       "generated_at": "2026-10-27T06:55:42.007229"
+    },
+    {
+      "british": "courting",
+      "american": "playing singles",
+      "category": "sports and games",
+      "generated_at": "2026-10-27T11:54:57.404471"
+    },
+    {
+      "british": "rugger",
+      "american": "football",
+      "category": "sports and games",
+      "generated_at": "2026-10-27T11:54:57.404481"
+    },
+    {
+      "british": "net",
+      "american": "goal",
+      "category": "sports and games",
+      "generated_at": "2026-10-27T11:54:57.404486"
     }
   ],
-  "last_updated": "2026-10-27T06:55:42.007230"
+  "last_updated": "2026-10-27T11:54:57.404488"
 }
