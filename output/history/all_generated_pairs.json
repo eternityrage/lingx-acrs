@@ -6899,7 +6899,25 @@
       "american": "main entrance",
       "category": "buildings and architecture",
       "generated_at": "2026-10-26T22:23:42.425371"
+    },
+    {
+      "british": "jumper",
+      "american": "sweater",
+      "category": "clothing and accessories",
+      "generated_at": "2026-10-27T06:55:42.007217"
+    },
+    {
+      "british": "trousers",
+      "american": "pants",
+      "category": "clothing and accessories",
+      "generated_at": "2026-10-27T06:55:42.007228"
+    },
+    {
+      "british": "Braces",
+      "american": "Suspenders",
+      "category": "clothing and accessories",
+      "generated_at": "2026-10-27T06:55:42.007229"
     }
   ],
-  "last_updated": "2026-10-26T22:23:42.425373"
+  "last_updated": "2026-10-27T06:55:42.007230"
 }
