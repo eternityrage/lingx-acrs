@@ -6971,7 +6971,25 @@
       "american": "front desk",
       "category": "workplace and business",
       "generated_at": "2026-10-27T19:03:20.674479"
+    },
+    {
+      "british": "redundancy payment",
+      "american": "severance package",
+      "category": "workplace and business",
+      "generated_at": "2026-10-27T21:55:01.434546"
+    },
+    {
+      "british": "mobile phone",
+      "american": "cell phone",
+      "category": "workplace and business",
+      "generated_at": "2026-10-27T21:55:01.434557"
+    },
+    {
+      "british": "cheque",
+      "american": "check",
+      "category": "workplace and business",
+      "generated_at": "2026-10-27T21:55:01.434559"
     }
   ],
-  "last_updated": "2026-10-27T19:03:20.674480"
+  "last_updated": "2026-10-27T21:55:01.434561"
 }
