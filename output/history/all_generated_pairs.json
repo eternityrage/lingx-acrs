@@ -6953,7 +6953,25 @@
       "american": "changing pad",
       "category": "baby and parenting",
       "generated_at": "2026-10-27T15:46:33.106899"
+    },
+    {
+      "british": "colleague",
+      "american": "coworker",
+      "category": "workplace and business",
+      "generated_at": "2026-10-27T19:03:20.674468"
+    },
+    {
+      "british": "redundant",
+      "american": "laid off",
+      "category": "workplace and business",
+      "generated_at": "2026-10-27T19:03:20.674477"
+    },
+    {
+      "british": "receptionist",
+      "american": "front desk",
+      "category": "workplace and business",
+      "generated_at": "2026-10-27T19:03:20.674479"
     }
   ],
-  "last_updated": "2026-10-27T15:46:33.106900"
+  "last_updated": "2026-10-27T19:03:20.674480"
 }
