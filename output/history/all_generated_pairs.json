@@ -7025,7 +7025,25 @@
       "american": "cilantro",
       "category": "food and sweets",
       "generated_at": "2026-10-28T12:29:36.703150"
+    },
+    {
+      "british": "trolley",
+      "american": "cart",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-28T16:28:20.258840"
+    },
+    {
+      "british": "torch",
+      "american": "flashlight",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-28T16:28:20.258848"
+    },
+    {
+      "british": "hoover",
+      "american": "vacuum cleaner",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-28T16:28:20.258850"
     }
   ],
-  "last_updated": "2026-10-28T12:29:36.703151"
+  "last_updated": "2026-10-28T16:28:20.258851"
 }
