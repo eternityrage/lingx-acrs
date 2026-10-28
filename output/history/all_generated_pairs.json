@@ -6989,7 +6989,25 @@
       "american": "check",
       "category": "workplace and business",
       "generated_at": "2026-10-27T21:55:01.434559"
+    },
+    {
+      "british": "telly",
+      "american": "TV",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-28T07:37:13.241182"
+    },
+    {
+      "british": "film",
+      "american": "movie",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-28T07:37:13.241192"
+    },
+    {
+      "british": "pub",
+      "american": "bar",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-28T07:37:13.241193"
     }
   ],
-  "last_updated": "2026-10-27T21:55:01.434561"
+  "last_updated": "2026-10-28T07:37:13.241194"
 }
