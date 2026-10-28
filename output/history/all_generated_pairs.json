@@ -7007,7 +7007,25 @@
       "american": "bar",
       "category": "entertainment and pop culture",
       "generated_at": "2026-10-28T07:37:13.241193"
+    },
+    {
+      "british": "pitch",
+      "american": "field",
+      "category": "sports and games",
+      "generated_at": "2026-10-28T12:29:36.703138"
+    },
+    {
+      "british": "court",
+      "american": "rink",
+      "category": "sports and games",
+      "generated_at": "2026-10-28T12:29:36.703149"
+    },
+    {
+      "british": "coriander",
+      "american": "cilantro",
+      "category": "food and sweets",
+      "generated_at": "2026-10-28T12:29:36.703150"
     }
   ],
-  "last_updated": "2026-10-28T07:37:13.241194"
+  "last_updated": "2026-10-28T12:29:36.703151"
 }
