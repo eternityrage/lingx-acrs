@@ -7043,7 +7043,25 @@
       "american": "vacuum cleaner",
       "category": "everyday household objects",
       "generated_at": "2026-10-28T16:28:20.258850"
+    },
+    {
+      "british": "pavement",
+      "american": "sidewalk",
+      "category": "street navigation and city life",
+      "generated_at": "2026-10-28T19:16:06.384329"
+    },
+    {
+      "british": "kerb",
+      "american": "curb",
+      "category": "street navigation and city life",
+      "generated_at": "2026-10-28T19:16:06.384339"
+    },
+    {
+      "british": "carriageway",
+      "american": "roadway",
+      "category": "street navigation and city life",
+      "generated_at": "2026-10-28T19:16:06.384341"
     }
   ],
-  "last_updated": "2026-10-28T16:28:20.258851"
+  "last_updated": "2026-10-28T19:16:06.384343"
 }
