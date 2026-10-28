@@ -7061,7 +7061,25 @@
       "american": "roadway",
       "category": "street navigation and city life",
       "generated_at": "2026-10-28T19:16:06.384341"
+    },
+    {
+      "british": "GP",
+      "american": "PCP",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-28T22:19:02.616148"
+    },
+    {
+      "british": "waiting room",
+      "american": "waiting area",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-28T22:19:02.616157"
+    },
+    {
+      "british": "anaesthetist",
+      "american": "anesthesiologist",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-10-28T22:19:02.616158"
     }
   ],
-  "last_updated": "2026-10-28T19:16:06.384343"
+  "last_updated": "2026-10-28T22:19:02.616160"
 }
