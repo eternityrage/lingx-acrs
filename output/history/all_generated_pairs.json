@@ -7133,7 +7133,25 @@
       "american": "truck",
       "category": "entertainment and pop culture",
       "generated_at": "2026-10-29T16:47:33.301503"
+    },
+    {
+      "british": "cashpoint",
+      "american": "ATM",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-29T19:24:04.212443"
+    },
+    {
+      "british": "shop assistant",
+      "american": "sales clerk",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-29T19:24:04.212451"
+    },
+    {
+      "british": "goods",
+      "american": "merchandise",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-29T19:24:04.212453"
     }
   ],
-  "last_updated": "2026-10-29T16:47:33.301505"
+  "last_updated": "2026-10-29T19:24:04.212455"
 }
