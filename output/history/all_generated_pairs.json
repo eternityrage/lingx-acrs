@@ -7115,7 +7115,25 @@
       "american": "parking lot",
       "category": "workplace and business",
       "generated_at": "2026-10-29T12:40:45.865534"
+    },
+    {
+      "british": "crisps",
+      "american": "chips",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-29T16:47:33.301491"
+    },
+    {
+      "british": "trainers",
+      "american": "sneakers",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-29T16:47:33.301501"
+    },
+    {
+      "british": "lorry",
+      "american": "truck",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-10-29T16:47:33.301503"
     }
   ],
-  "last_updated": "2026-10-29T12:40:45.865535"
+  "last_updated": "2026-10-29T16:47:33.301505"
 }
