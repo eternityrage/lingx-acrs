@@ -7151,7 +7151,25 @@
       "american": "merchandise",
       "category": "money, shopping and banking",
       "generated_at": "2026-10-29T19:24:04.212453"
+    },
+    {
+      "british": "queue",
+      "american": "line",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-29T22:32:04.471347"
+    },
+    {
+      "british": "nappy",
+      "american": "diaper",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-29T22:32:04.471357"
+    },
+    {
+      "british": "boot",
+      "american": "trunk",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-10-29T22:32:04.471359"
     }
   ],
-  "last_updated": "2026-10-29T19:24:04.212455"
+  "last_updated": "2026-10-29T22:32:04.471361"
 }
