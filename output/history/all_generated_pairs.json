@@ -7169,7 +7169,25 @@
       "american": "trunk",
       "category": "money, shopping and banking",
       "generated_at": "2026-10-29T22:32:04.471359"
+    },
+    {
+      "british": "dustpan",
+      "american": "dust pan",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-30T07:49:51.715416"
+    },
+    {
+      "british": "spirit level",
+      "american": "level",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-30T07:49:51.715425"
+    },
+    {
+      "british": "screw top",
+      "american": "screw cap",
+      "category": "household tools and DIY",
+      "generated_at": "2026-10-30T07:49:51.715427"
     }
   ],
-  "last_updated": "2026-10-29T22:32:04.471361"
+  "last_updated": "2026-10-30T07:49:51.715431"
 }
