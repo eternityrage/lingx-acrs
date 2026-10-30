@@ -7205,7 +7205,25 @@
       "american": "major",
       "category": "school and university",
       "generated_at": "2026-10-30T12:31:43.964415"
+    },
+    {
+      "british": "loo",
+      "american": "bathroom",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-30T16:34:45.768913"
+    },
+    {
+      "british": "wardrobe",
+      "american": "closet",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-30T16:34:45.768924"
+    },
+    {
+      "british": "sofa",
+      "american": "couch",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-30T16:34:45.768926"
     }
   ],
-  "last_updated": "2026-10-30T12:31:43.964416"
+  "last_updated": "2026-10-30T16:34:45.768927"
 }
