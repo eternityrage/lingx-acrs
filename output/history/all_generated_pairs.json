@@ -7187,7 +7187,25 @@
       "american": "screw cap",
       "category": "household tools and DIY",
       "generated_at": "2026-10-30T07:49:51.715427"
+    },
+    {
+      "british": "school dinner",
+      "american": "school lunch",
+      "category": "school and university",
+      "generated_at": "2026-10-30T12:31:43.964403"
+    },
+    {
+      "british": "university",
+      "american": "college",
+      "category": "school and university",
+      "generated_at": "2026-10-30T12:31:43.964413"
+    },
+    {
+      "british": "course",
+      "american": "major",
+      "category": "school and university",
+      "generated_at": "2026-10-30T12:31:43.964415"
     }
   ],
-  "last_updated": "2026-10-30T07:49:51.715431"
+  "last_updated": "2026-10-30T12:31:43.964416"
 }
