@@ -7223,7 +7223,25 @@
       "american": "couch",
       "category": "everyday household objects",
       "generated_at": "2026-10-30T16:34:45.768926"
+    },
+    {
+      "british": "plaster",
+      "american": "band-aid",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-30T18:55:42.896697"
+    },
+    {
+      "british": "tap",
+      "american": "faucet",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-30T18:55:42.896705"
+    },
+    {
+      "british": "brolly",
+      "american": "umbrella",
+      "category": "everyday household objects",
+      "generated_at": "2026-10-30T18:55:42.896706"
     }
   ],
-  "last_updated": "2026-10-30T16:34:45.768927"
+  "last_updated": "2026-10-30T18:55:42.896707"
 }
