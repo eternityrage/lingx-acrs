@@ -7241,7 +7241,25 @@
       "american": "umbrella",
       "category": "everyday household objects",
       "generated_at": "2026-10-30T18:55:42.896706"
+    },
+    {
+      "british": "courgette",
+      "american": "zucchini",
+      "category": "food and sweets",
+      "generated_at": "2026-10-30T22:00:43.595202"
+    },
+    {
+      "british": "prawn",
+      "american": "shrimp",
+      "category": "food and sweets",
+      "generated_at": "2026-10-30T22:00:43.595212"
+    },
+    {
+      "british": "spring onion",
+      "american": "scallion",
+      "category": "food and sweets",
+      "generated_at": "2026-10-30T22:00:43.595214"
     }
   ],
-  "last_updated": "2026-10-30T18:55:42.896707"
+  "last_updated": "2026-10-30T22:00:43.595215"
 }
