@@ -7331,7 +7331,25 @@
       "american": "trash can",
       "category": "gardening and outdoors",
       "generated_at": "2026-10-31T18:01:41.146772"
+    },
+    {
+      "british": "hairnet",
+      "american": "hair net",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-31T21:08:29.456903"
+    },
+    {
+      "british": "cotton wool",
+      "american": "cotton balls",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-31T21:08:29.456914"
+    },
+    {
+      "british": "bath sponge",
+      "american": "loofah",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-10-31T21:08:29.456915"
     }
   ],
-  "last_updated": "2026-10-31T18:01:41.146774"
+  "last_updated": "2026-10-31T21:08:29.456917"
 }
