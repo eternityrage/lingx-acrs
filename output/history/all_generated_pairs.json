@@ -7259,7 +7259,25 @@
       "american": "scallion",
       "category": "food and sweets",
       "generated_at": "2026-10-30T22:00:43.595214"
+    },
+    {
+      "british": "drawing pin",
+      "american": "thumbtack",
+      "category": "stationery and desk items",
+      "generated_at": "2026-10-31T07:38:06.143196"
+    },
+    {
+      "british": "sticky tape",
+      "american": "scotch tape",
+      "category": "stationery and desk items",
+      "generated_at": "2026-10-31T07:38:06.143206"
+    },
+    {
+      "british": "felt-tip pen",
+      "american": "marker pen",
+      "category": "stationery and desk items",
+      "generated_at": "2026-10-31T07:38:06.143207"
     }
   ],
-  "last_updated": "2026-10-30T22:00:43.595215"
+  "last_updated": "2026-10-31T07:38:06.143209"
 }
