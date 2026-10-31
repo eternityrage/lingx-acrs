@@ -7295,7 +7295,25 @@
       "american": "first floor",
       "category": "buildings and architecture",
       "generated_at": "2026-10-31T11:59:07.579382"
+    },
+    {
+      "british": "revise",
+      "american": "review",
+      "category": "school and university",
+      "generated_at": "2026-10-31T15:38:09.085510"
+    },
+    {
+      "british": "headmaster",
+      "american": "principal",
+      "category": "school and university",
+      "generated_at": "2026-10-31T15:38:09.085519"
+    },
+    {
+      "british": "term",
+      "american": "semester",
+      "category": "school and university",
+      "generated_at": "2026-10-31T15:38:09.085521"
     }
   ],
-  "last_updated": "2026-10-31T11:59:07.579383"
+  "last_updated": "2026-10-31T15:38:09.085523"
 }
