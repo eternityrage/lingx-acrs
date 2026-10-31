@@ -7277,7 +7277,25 @@
       "american": "marker pen",
       "category": "stationery and desk items",
       "generated_at": "2026-10-31T07:38:06.143207"
+    },
+    {
+      "british": "conservatory",
+      "american": "sunroom",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-31T11:59:07.579374"
+    },
+    {
+      "british": "porch",
+      "american": "veranda",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-31T11:59:07.579381"
+    },
+    {
+      "british": "ground floor",
+      "american": "first floor",
+      "category": "buildings and architecture",
+      "generated_at": "2026-10-31T11:59:07.579382"
     }
   ],
-  "last_updated": "2026-10-31T07:38:06.143209"
+  "last_updated": "2026-10-31T11:59:07.579383"
 }
