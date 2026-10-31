@@ -7313,7 +7313,25 @@
       "american": "semester",
       "category": "school and university",
       "generated_at": "2026-10-31T15:38:09.085521"
+    },
+    {
+      "british": "watering can",
+      "american": "water pitcher",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-31T18:01:41.146761"
+    },
+    {
+      "british": "manhole cover",
+      "american": "sewer grate",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-31T18:01:41.146770"
+    },
+    {
+      "british": "dustbin",
+      "american": "trash can",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-10-31T18:01:41.146772"
     }
   ],
-  "last_updated": "2026-10-31T15:38:09.085523"
+  "last_updated": "2026-10-31T18:01:41.146774"
 }
