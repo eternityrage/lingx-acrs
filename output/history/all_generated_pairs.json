@@ -7349,7 +7349,25 @@
       "american": "loofah",
       "category": "bathroom and toiletries",
       "generated_at": "2026-10-31T21:08:29.456915"
+    },
+    {
+      "british": "motorway",
+      "american": "freeway",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-01T08:17:18.982522"
+    },
+    {
+      "british": "zebra crossing",
+      "american": "crosswalk",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-01T08:17:18.982534"
+    },
+    {
+      "british": "roundabout",
+      "american": "traffic circle",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-01T08:17:18.982536"
     }
   ],
-  "last_updated": "2026-10-31T21:08:29.456917"
+  "last_updated": "2026-11-01T08:17:18.982537"
 }
