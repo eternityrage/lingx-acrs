@@ -7403,7 +7403,25 @@
       "american": "graspers",
       "category": "household tools and DIY",
       "generated_at": "2026-11-01T16:37:37.473386"
+    },
+    {
+      "british": "bonnet",
+      "american": "hood",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-01T18:40:38.310740"
+    },
+    {
+      "british": "windscreen",
+      "american": "windshield",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-01T18:40:38.310750"
+    },
+    {
+      "british": "petrol",
+      "american": "gas",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-01T18:40:38.310751"
     }
   ],
-  "last_updated": "2026-11-01T16:37:37.473388"
+  "last_updated": "2026-11-01T18:40:38.310753"
 }
