@@ -7385,7 +7385,25 @@
       "american": "baggage",
       "category": "travel, train and holiday",
       "generated_at": "2026-11-01T12:59:26.078669"
+    },
+    {
+      "british": "screwdrivers",
+      "american": "screwy bits",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-01T16:37:37.473373"
+    },
+    {
+      "british": "spanner",
+      "american": "wrench",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-01T16:37:37.473386"
+    },
+    {
+      "british": "pliers",
+      "american": "graspers",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-01T16:37:37.473386"
     }
   ],
-  "last_updated": "2026-11-01T12:59:26.078670"
+  "last_updated": "2026-11-01T16:37:37.473388"
 }
