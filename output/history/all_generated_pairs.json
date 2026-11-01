@@ -7367,7 +7367,25 @@
       "american": "traffic circle",
       "category": "street navigation and city life",
       "generated_at": "2026-11-01T08:17:18.982536"
+    },
+    {
+      "british": "receipt",
+      "american": "stub",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-01T12:59:26.078657"
+    },
+    {
+      "british": "off-licence",
+      "american": "liquor store",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-01T12:59:26.078667"
+    },
+    {
+      "british": "luggage",
+      "american": "baggage",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-01T12:59:26.078669"
     }
   ],
-  "last_updated": "2026-11-01T08:17:18.982537"
+  "last_updated": "2026-11-01T12:59:26.078670"
 }
