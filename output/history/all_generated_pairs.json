@@ -7421,7 +7421,25 @@
       "american": "gas",
       "category": "driving, roads and transport",
       "generated_at": "2026-11-01T18:40:38.310751"
+    },
+    {
+      "british": "railway station",
+      "american": "train station",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-01T21:47:27.404049"
+    },
+    {
+      "british": "coach",
+      "american": "bus",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-01T21:47:27.404058"
+    },
+    {
+      "british": "track",
+      "american": "rail",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-01T21:47:27.404060"
     }
   ],
-  "last_updated": "2026-11-01T18:40:38.310753"
+  "last_updated": "2026-11-01T21:47:27.404062"
 }
