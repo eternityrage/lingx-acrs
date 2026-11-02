@@ -7475,7 +7475,25 @@
       "american": "check",
       "category": "entertainment and pop culture",
       "generated_at": "2026-11-02T15:24:22.331270"
+    },
+    {
+      "british": "downpipe",
+      "american": "gutter spout",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-02T20:01:44.263167"
+    },
+    {
+      "british": "scaffolding",
+      "american": "scaffold",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-02T20:01:44.263182"
+    },
+    {
+      "british": "terrace house",
+      "american": "row house",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-02T20:01:44.263183"
     }
   ],
-  "last_updated": "2026-11-02T15:24:22.331272"
+  "last_updated": "2026-11-02T20:01:44.263185"
 }
