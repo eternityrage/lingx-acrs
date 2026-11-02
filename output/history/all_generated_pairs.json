@@ -7457,7 +7457,25 @@
       "american": "toilet tissue",
       "category": "bathroom and toiletries",
       "generated_at": "2026-11-02T08:30:04.361687"
+    },
+    {
+      "british": "pub quiz",
+      "american": "trivia night",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-02T15:24:22.331258"
+    },
+    {
+      "british": "takeaway",
+      "american": "takeout",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-02T15:24:22.331268"
+    },
+    {
+      "british": "bill",
+      "american": "check",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-02T15:24:22.331270"
     }
   ],
-  "last_updated": "2026-11-02T08:30:04.361689"
+  "last_updated": "2026-11-02T15:24:22.331272"
 }
