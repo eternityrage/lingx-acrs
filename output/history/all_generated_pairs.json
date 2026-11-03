@@ -7601,7 +7601,25 @@
       "american": "one-dollar bill",
       "category": "money, shopping and banking",
       "generated_at": "2026-11-03T21:08:33.882774"
+    },
+    {
+      "british": "cot",
+      "american": "crib",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-03T23:00:13.426564"
+    },
+    {
+      "british": "toddler",
+      "american": "young child",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-03T23:00:13.426574"
+    },
+    {
+      "british": "medicines",
+      "american": "medications",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-03T23:00:13.426576"
     }
   ],
-  "last_updated": "2026-11-03T21:08:33.882776"
+  "last_updated": "2026-11-03T23:00:13.426577"
 }
