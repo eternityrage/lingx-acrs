@@ -7583,7 +7583,25 @@
       "american": "public phone",
       "category": "street navigation and city life",
       "generated_at": "2026-11-03T17:37:31.250873"
+    },
+    {
+      "british": "bills",
+      "american": "invoices",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-03T21:08:33.882763"
+    },
+    {
+      "british": "till",
+      "american": "cash register",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-03T21:08:33.882773"
+    },
+    {
+      "british": "pound note",
+      "american": "one-dollar bill",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-03T21:08:33.882774"
     }
   ],
-  "last_updated": "2026-11-03T17:37:31.250875"
+  "last_updated": "2026-11-03T21:08:33.882776"
 }
