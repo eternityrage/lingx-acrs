@@ -242,7 +242,7 @@ Return JSON array. Each item:
 
 Return ONLY the JSON array. No explanations."""
             payload = {
-                "model": AI_MODEL or "gemini-fast",
+                "model": AI_MODEL or "openai/gpt-5.4-nano",
                 "messages": [
                     {"role": "system", "content": "Return ONLY valid JSON arrays."},
                     {"role": "user", "content": prompt}
