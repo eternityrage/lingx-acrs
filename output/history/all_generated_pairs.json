@@ -7529,7 +7529,25 @@
       "american": "stroller",
       "category": "baby and parenting",
       "generated_at": "2026-11-03T00:40:59.232007"
+    },
+    {
+      "british": "bath mat",
+      "american": "bath rug",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-03T08:43:58.300993"
+    },
+    {
+      "british": "taps",
+      "american": "faucets",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-03T08:43:58.301004"
+    },
+    {
+      "british": "soap bar",
+      "american": "bar soap",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-03T08:43:58.301006"
     }
   ],
-  "last_updated": "2026-11-03T00:40:59.232009"
+  "last_updated": "2026-11-03T08:43:58.301008"
 }
