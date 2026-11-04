@@ -7673,7 +7673,25 @@
       "american": "installment plan",
       "category": "money, shopping and banking",
       "generated_at": "2026-11-04T17:51:21.752049"
+    },
+    {
+      "british": "washing-up liquid",
+      "american": "dish soap",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-04T21:22:24.119161"
+    },
+    {
+      "british": "kitchen bin",
+      "american": "garbage can",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-04T21:22:24.119170"
+    },
+    {
+      "british": "hoover",
+      "american": "vacuum cleaner",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-04T21:22:24.119172"
     }
   ],
-  "last_updated": "2026-11-04T17:51:21.752051"
+  "last_updated": "2026-11-04T21:22:24.119174"
 }
