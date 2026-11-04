@@ -7619,7 +7619,25 @@
       "american": "medications",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-03T23:00:13.426576"
+    },
+    {
+      "british": "cotton buds",
+      "american": "cotton swabs",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-04T08:13:03.302553"
+    },
+    {
+      "british": "wipes",
+      "american": "baby wipes",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-04T08:13:03.302564"
+    },
+    {
+      "british": "feeding cup",
+      "american": "sippy cup",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-04T08:13:03.302565"
     }
   ],
-  "last_updated": "2026-11-03T23:00:13.426577"
+  "last_updated": "2026-11-04T08:13:03.302566"
 }
