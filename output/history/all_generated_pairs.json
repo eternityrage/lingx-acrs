@@ -7637,7 +7637,25 @@
       "american": "sippy cup",
       "category": "baby and parenting",
       "generated_at": "2026-11-04T08:13:03.302565"
+    },
+    {
+      "british": "torch",
+      "american": "flashlight",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-04T14:07:45.073325"
+    },
+    {
+      "british": "bin bag",
+      "american": "trash bag",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-04T14:07:45.073339"
+    },
+    {
+      "british": "caravan",
+      "american": "trailer",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-04T14:07:45.073340"
     }
   ],
-  "last_updated": "2026-11-04T08:13:03.302566"
+  "last_updated": "2026-11-04T14:07:45.073342"
 }
