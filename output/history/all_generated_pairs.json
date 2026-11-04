@@ -7655,7 +7655,25 @@
       "american": "trailer",
       "category": "leisure and hobbies",
       "generated_at": "2026-11-04T14:07:45.073340"
+    },
+    {
+      "british": "cashpoint",
+      "american": "ATM",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-04T17:51:21.752036"
+    },
+    {
+      "british": "cheque",
+      "american": "check",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-04T17:51:21.752048"
+    },
+    {
+      "british": "HP agreement",
+      "american": "installment plan",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-04T17:51:21.752049"
     }
   ],
-  "last_updated": "2026-11-04T14:07:45.073342"
+  "last_updated": "2026-11-04T17:51:21.752051"
 }
