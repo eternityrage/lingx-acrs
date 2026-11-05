@@ -7709,7 +7709,25 @@
       "american": "range",
       "category": "kitchen and cooking",
       "generated_at": "2026-11-04T23:19:37.689249"
+    },
+    {
+      "british": "marks",
+      "american": "grades",
+      "category": "school and university",
+      "generated_at": "2026-11-05T08:39:25.698765"
+    },
+    {
+      "british": "timetable",
+      "american": "schedule",
+      "category": "school and university",
+      "generated_at": "2026-11-05T08:39:25.698780"
+    },
+    {
+      "british": "laptop",
+      "american": "notebook",
+      "category": "school and university",
+      "generated_at": "2026-11-05T08:39:25.698782"
     }
   ],
-  "last_updated": "2026-11-04T23:19:37.689251"
+  "last_updated": "2026-11-05T08:39:25.698784"
 }
