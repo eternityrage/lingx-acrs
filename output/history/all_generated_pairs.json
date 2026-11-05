@@ -7727,7 +7727,25 @@
       "american": "notebook",
       "category": "school and university",
       "generated_at": "2026-11-05T08:39:25.698782"
+    },
+    {
+      "british": "drawn door",
+      "american": "sliding door",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-05T14:26:13.221549"
+    },
+    {
+      "british": "piston",
+      "american": "plunger",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-05T14:26:13.221563"
+    },
+    {
+      "british": "floor mop",
+      "american": "string mop",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-05T14:26:13.221564"
     }
   ],
-  "last_updated": "2026-11-05T08:39:25.698784"
+  "last_updated": "2026-11-05T14:26:13.221566"
 }
