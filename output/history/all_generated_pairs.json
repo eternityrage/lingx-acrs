@@ -7745,7 +7745,25 @@
       "american": "string mop",
       "category": "household tools and DIY",
       "generated_at": "2026-11-05T14:26:13.221564"
+    },
+    {
+      "british": "tin opener",
+      "american": "can opener",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-05T17:53:49.756055"
+    },
+    {
+      "british": "garden centre",
+      "american": "garden center",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-05T17:53:49.756067"
+    },
+    {
+      "british": "bottle bank",
+      "american": "bottle drop",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-05T17:53:49.756068"
     }
   ],
-  "last_updated": "2026-11-05T14:26:13.221566"
+  "last_updated": "2026-11-05T17:53:49.756069"
 }
