@@ -7763,7 +7763,25 @@
       "american": "bottle drop",
       "category": "leisure and hobbies",
       "generated_at": "2026-11-05T17:53:49.756068"
+    },
+    {
+      "british": "dual carriageway",
+      "american": "divided highway",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-05T20:52:59.995902"
+    },
+    {
+      "british": "service station",
+      "american": "rest stop",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-05T20:52:59.995914"
+    },
+    {
+      "british": "junction",
+      "american": "intersection",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-05T20:52:59.995916"
     }
   ],
-  "last_updated": "2026-11-05T17:53:49.756069"
+  "last_updated": "2026-11-05T20:52:59.995918"
 }
