@@ -7799,7 +7799,25 @@
       "american": "favorite",
       "category": "entertainment and pop culture",
       "generated_at": "2026-11-06T08:39:11.994411"
+    },
+    {
+      "british": "nappy",
+      "american": "diaper",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-06T14:02:47.850315"
+    },
+    {
+      "british": "pram",
+      "american": "stroller",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-06T14:02:47.850326"
+    },
+    {
+      "british": "brolly",
+      "american": "umbrella",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-06T14:02:47.850328"
     }
   ],
-  "last_updated": "2026-11-06T08:39:11.994412"
+  "last_updated": "2026-11-06T14:02:47.850330"
 }
