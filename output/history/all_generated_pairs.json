@@ -7835,7 +7835,25 @@
       "american": "truck",
       "category": "driving, roads and transport",
       "generated_at": "2026-11-06T17:15:05.620355"
+    },
+    {
+      "british": "notepad",
+      "american": "pad",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-06T20:08:42.830660"
+    },
+    {
+      "british": "exercise book",
+      "american": "composition notebook",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-06T20:08:42.830671"
+    },
+    {
+      "british": "rubber",
+      "american": "eraser",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-06T20:08:42.830673"
     }
   ],
-  "last_updated": "2026-11-06T17:15:05.620357"
+  "last_updated": "2026-11-06T20:08:42.830675"
 }
