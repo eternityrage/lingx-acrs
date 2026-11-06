@@ -7781,7 +7781,25 @@
       "american": "intersection",
       "category": "driving, roads and transport",
       "generated_at": "2026-11-05T20:52:59.995916"
+    },
+    {
+      "british": "candy floss",
+      "american": "cotton candy",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-06T08:39:11.994398"
+    },
+    {
+      "british": "film",
+      "american": "movie",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-06T08:39:11.994410"
+    },
+    {
+      "british": "favourite",
+      "american": "favorite",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-06T08:39:11.994411"
     }
   ],
-  "last_updated": "2026-11-05T20:52:59.995918"
+  "last_updated": "2026-11-06T08:39:11.994412"
 }
