@@ -7853,7 +7853,25 @@
       "american": "eraser",
       "category": "stationery and desk items",
       "generated_at": "2026-11-06T20:08:42.830673"
+    },
+    {
+      "british": "carriageway",
+      "american": "roadway",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-06T22:48:27.706283"
+    },
+    {
+      "british": "traffic cone",
+      "american": "construction cone",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-06T22:48:27.706295"
+    },
+    {
+      "british": "bicycle lane",
+      "american": "bike lane",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-06T22:48:27.706296"
     }
   ],
-  "last_updated": "2026-11-06T20:08:42.830675"
+  "last_updated": "2026-11-06T22:48:27.706298"
 }
