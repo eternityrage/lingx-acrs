@@ -7817,7 +7817,25 @@
       "american": "umbrella",
       "category": "baby and parenting",
       "generated_at": "2026-11-06T14:02:47.850328"
+    },
+    {
+      "british": "traffic lights",
+      "american": "traffic signals",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-06T17:15:05.620339"
+    },
+    {
+      "british": "car park",
+      "american": "parking lot",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-06T17:15:05.620353"
+    },
+    {
+      "british": "lorry",
+      "american": "truck",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-06T17:15:05.620355"
     }
   ],
-  "last_updated": "2026-11-06T14:02:47.850330"
+  "last_updated": "2026-11-06T17:15:05.620357"
 }
