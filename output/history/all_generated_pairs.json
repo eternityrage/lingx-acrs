@@ -7871,7 +7871,25 @@
       "american": "bike lane",
       "category": "street navigation and city life",
       "generated_at": "2026-11-06T22:48:27.706296"
+    },
+    {
+      "british": "jumper",
+      "american": "sweater",
+      "category": "clothing and accessories",
+      "generated_at": "2026-11-07T07:54:44.066610"
+    },
+    {
+      "british": "trainers",
+      "american": "sneakers",
+      "category": "clothing and accessories",
+      "generated_at": "2026-11-07T07:54:44.066621"
+    },
+    {
+      "british": "boot",
+      "american": "shoe",
+      "category": "clothing and accessories",
+      "generated_at": "2026-11-07T07:54:44.066622"
     }
   ],
-  "last_updated": "2026-11-06T22:48:27.706298"
+  "last_updated": "2026-11-07T07:54:44.066623"
 }
