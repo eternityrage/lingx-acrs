@@ -7889,7 +7889,25 @@
       "american": "shoe",
       "category": "clothing and accessories",
       "generated_at": "2026-11-07T07:54:44.066622"
+    },
+    {
+      "british": "pudding",
+      "american": "dessert",
+      "category": "food and sweets",
+      "generated_at": "2026-11-07T12:45:47.997959"
+    },
+    {
+      "british": "toffee",
+      "american": "caramel",
+      "category": "food and sweets",
+      "generated_at": "2026-11-07T12:45:47.997973"
+    },
+    {
+      "british": "crisps",
+      "american": "potato chips",
+      "category": "food and sweets",
+      "generated_at": "2026-11-07T12:45:47.997975"
     }
   ],
-  "last_updated": "2026-11-07T07:54:44.066623"
+  "last_updated": "2026-11-07T12:45:47.997978"
 }
