@@ -7925,7 +7925,25 @@
       "american": "garden hose",
       "category": "household tools and DIY",
       "generated_at": "2026-11-07T16:08:46.820613"
+    },
+    {
+      "british": "carriage return",
+      "american": "return key",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-07T18:23:23.817833"
+    },
+    {
+      "british": "season ticket",
+      "american": "monthly pass",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-07T18:23:23.817844"
+    },
+    {
+      "british": "platform",
+      "american": "track",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-07T18:23:23.817845"
     }
   ],
-  "last_updated": "2026-11-07T16:08:46.820614"
+  "last_updated": "2026-11-07T18:23:23.817846"
 }
