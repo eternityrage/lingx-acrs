@@ -7943,7 +7943,25 @@
       "american": "track",
       "category": "travel, train and holiday",
       "generated_at": "2026-11-07T18:23:23.817845"
+    },
+    {
+      "british": "prescription",
+      "american": "Rx",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-07T21:33:04.198361"
+    },
+    {
+      "british": "dispensing chemist",
+      "american": "pharmacy",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-07T21:33:04.198369"
+    },
+    {
+      "british": "paracetamol",
+      "american": "acetaminophen",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-07T21:33:04.198370"
     }
   ],
-  "last_updated": "2026-11-07T18:23:23.817846"
+  "last_updated": "2026-11-07T21:33:04.198372"
 }
