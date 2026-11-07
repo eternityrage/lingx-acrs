@@ -7907,7 +7907,25 @@
       "american": "potato chips",
       "category": "food and sweets",
       "generated_at": "2026-11-07T12:45:47.997975"
+    },
+    {
+      "british": "bolts",
+      "american": "screws",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-07T16:08:46.820601"
+    },
+    {
+      "british": "fuse",
+      "american": "circuit breaker",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-07T16:08:46.820612"
+    },
+    {
+      "british": "hosepipe",
+      "american": "garden hose",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-07T16:08:46.820613"
     }
   ],
-  "last_updated": "2026-11-07T12:45:47.997978"
+  "last_updated": "2026-11-07T16:08:46.820614"
 }
