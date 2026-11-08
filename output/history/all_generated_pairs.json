@@ -8033,7 +8033,25 @@
       "american": "emery cloth",
       "category": "household tools and DIY",
       "generated_at": "2026-11-08T18:34:13.825541"
+    },
+    {
+      "british": "zebra crossing",
+      "american": "crosswalk",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-08T21:48:19.728027"
+    },
+    {
+      "british": "kerb",
+      "american": "curb",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-08T21:48:19.728039"
+    },
+    {
+      "british": "screwdriver",
+      "american": "screw driver",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-08T21:48:19.728041"
     }
   ],
-  "last_updated": "2026-11-08T18:34:13.825542"
+  "last_updated": "2026-11-08T21:48:19.728043"
 }
