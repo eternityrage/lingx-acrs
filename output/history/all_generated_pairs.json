@@ -7997,7 +7997,25 @@
       "american": "masking tape",
       "category": "stationery and desk items",
       "generated_at": "2026-11-08T13:03:55.667346"
+    },
+    {
+      "british": "roundabout",
+      "american": "traffic circle",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-08T16:32:26.051926"
+    },
+    {
+      "british": "motorway",
+      "american": "freeway",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-08T16:32:26.051936"
+    },
+    {
+      "british": "bunting",
+      "american": "roadwork cones",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-08T16:32:26.051937"
     }
   ],
-  "last_updated": "2026-11-08T13:03:55.667348"
+  "last_updated": "2026-11-08T16:32:26.051938"
 }
