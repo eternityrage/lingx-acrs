@@ -8015,7 +8015,25 @@
       "american": "roadwork cones",
       "category": "driving, roads and transport",
       "generated_at": "2026-11-08T16:32:26.051937"
+    },
+    {
+      "british": "billhook",
+      "american": "machete",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-08T18:34:13.825528"
+    },
+    {
+      "british": "mortar",
+      "american": "mortar mix",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-08T18:34:13.825540"
+    },
+    {
+      "british": "sandpaper",
+      "american": "emery cloth",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-08T18:34:13.825541"
     }
   ],
-  "last_updated": "2026-11-08T16:32:26.051938"
+  "last_updated": "2026-11-08T18:34:13.825542"
 }
