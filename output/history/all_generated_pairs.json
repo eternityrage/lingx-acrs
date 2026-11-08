@@ -7961,7 +7961,25 @@
       "american": "acetaminophen",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-07T21:33:04.198370"
+    },
+    {
+      "british": "telly",
+      "american": "TV",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-08T08:10:33.619207"
+    },
+    {
+      "british": "chips",
+      "american": "French fries",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-08T08:10:33.619218"
+    },
+    {
+      "british": "bootleg",
+      "american": "pirated",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-08T08:10:33.619219"
     }
   ],
-  "last_updated": "2026-11-07T21:33:04.198372"
+  "last_updated": "2026-11-08T08:10:33.619221"
 }
