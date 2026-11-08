@@ -7979,7 +7979,25 @@
       "american": "pirated",
       "category": "entertainment and pop culture",
       "generated_at": "2026-11-08T08:10:33.619219"
+    },
+    {
+      "british": "string",
+      "american": "twine",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-08T13:03:55.667334"
+    },
+    {
+      "british": "fountain pen",
+      "american": "rollerball pen",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-08T13:03:55.667345"
+    },
+    {
+      "british": "adhesive tape",
+      "american": "masking tape",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-08T13:03:55.667346"
     }
   ],
-  "last_updated": "2026-11-08T08:10:33.619221"
+  "last_updated": "2026-11-08T13:03:55.667348"
 }
