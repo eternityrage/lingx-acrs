@@ -8051,7 +8051,25 @@
       "american": "screw driver",
       "category": "household tools and DIY",
       "generated_at": "2026-11-08T21:48:19.728041"
+    },
+    {
+      "british": "holiday",
+      "american": "vacation",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-09T08:46:54.934357"
+    },
+    {
+      "british": "baggage trolley",
+      "american": "luggage cart",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-09T08:46:54.934369"
+    },
+    {
+      "british": "railway",
+      "american": "railroad",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-09T08:46:54.934370"
     }
   ],
-  "last_updated": "2026-11-08T21:48:19.728043"
+  "last_updated": "2026-11-09T08:46:54.934371"
 }
