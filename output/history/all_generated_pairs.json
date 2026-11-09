@@ -8087,7 +8087,25 @@
       "american": "bath rug",
       "category": "household tools and DIY",
       "generated_at": "2026-11-09T15:51:11.518591"
+    },
+    {
+      "british": "annual leave",
+      "american": "vacation time",
+      "category": "workplace and business",
+      "generated_at": "2026-11-09T20:31:16.517859"
+    },
+    {
+      "british": "workwear",
+      "american": "uniforms",
+      "category": "workplace and business",
+      "generated_at": "2026-11-09T20:31:16.517870"
+    },
+    {
+      "british": "payslip",
+      "american": "pay stub",
+      "category": "workplace and business",
+      "generated_at": "2026-11-09T20:31:16.517872"
     }
   ],
-  "last_updated": "2026-11-09T15:51:11.518592"
+  "last_updated": "2026-11-09T20:31:16.517874"
 }
