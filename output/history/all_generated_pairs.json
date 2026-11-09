@@ -8069,7 +8069,25 @@
       "american": "railroad",
       "category": "travel, train and holiday",
       "generated_at": "2026-11-09T08:46:54.934370"
+    },
+    {
+      "british": "wall plug",
+      "american": "drywall anchor",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-09T15:51:11.518579"
+    },
+    {
+      "british": "woolly jumper",
+      "american": "sweater",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-09T15:51:11.518589"
+    },
+    {
+      "british": "bath mat",
+      "american": "bath rug",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-09T15:51:11.518591"
     }
   ],
-  "last_updated": "2026-11-09T08:46:54.934371"
+  "last_updated": "2026-11-09T15:51:11.518592"
 }
