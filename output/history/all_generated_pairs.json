@@ -8105,7 +8105,25 @@
       "american": "pay stub",
       "category": "workplace and business",
       "generated_at": "2026-11-09T20:31:16.517872"
+    },
+    {
+      "british": "sweetcorn",
+      "american": "corn",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-09T23:12:53.899020"
+    },
+    {
+      "british": "sweets",
+      "american": "candy",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-09T23:12:53.899033"
+    },
+    {
+      "british": "queue",
+      "american": "line",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-09T23:12:53.899034"
     }
   ],
-  "last_updated": "2026-11-09T20:31:16.517874"
+  "last_updated": "2026-11-09T23:12:53.899035"
 }
