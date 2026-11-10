@@ -8141,7 +8141,25 @@
       "american": "spackle knife",
       "category": "household tools and DIY",
       "generated_at": "2026-11-10T01:16:07.360018"
+    },
+    {
+      "british": "petrol station",
+      "american": "gas station",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-10T08:54:03.833556"
+    },
+    {
+      "british": "pavement",
+      "american": "sidewalk",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-10T08:54:03.833567"
+    },
+    {
+      "british": "postcode",
+      "american": "ZIP code",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-10T08:54:03.833568"
     }
   ],
-  "last_updated": "2026-11-10T01:16:07.360019"
+  "last_updated": "2026-11-10T08:54:03.833569"
 }
