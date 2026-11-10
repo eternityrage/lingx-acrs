@@ -8195,7 +8195,25 @@
       "american": "bar soap",
       "category": "bathroom and toiletries",
       "generated_at": "2026-11-10T17:32:57.072187"
+    },
+    {
+      "british": "cheque",
+      "american": "check",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-10T20:39:22.942789"
+    },
+    {
+      "british": "hire purchase",
+      "american": "installment plan",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-10T20:39:22.942796"
+    },
+    {
+      "british": "pound note",
+      "american": "one-dollar bill",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-10T20:39:22.942797"
     }
   ],
-  "last_updated": "2026-11-10T17:32:57.072188"
+  "last_updated": "2026-11-10T20:39:22.942799"
 }
