@@ -8213,7 +8213,25 @@
       "american": "one-dollar bill",
       "category": "money, shopping and banking",
       "generated_at": "2026-11-10T20:39:22.942797"
+    },
+    {
+      "british": "fancy dress",
+      "american": "costume party",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-10T22:57:08.328649"
+    },
+    {
+      "british": "football",
+      "american": "soccer",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-10T22:57:08.328658"
+    },
+    {
+      "british": "pound coin",
+      "american": "one-dollar coin",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-10T22:57:08.328660"
     }
   ],
-  "last_updated": "2026-11-10T20:39:22.942799"
+  "last_updated": "2026-11-10T22:57:08.328662"
 }
