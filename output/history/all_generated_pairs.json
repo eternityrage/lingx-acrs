@@ -8177,7 +8177,25 @@
       "american": "feeding solids",
       "category": "baby and parenting",
       "generated_at": "2026-11-10T14:56:19.120279"
+    },
+    {
+      "british": "bathroom bin",
+      "american": "trash can",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-10T17:32:57.072175"
+    },
+    {
+      "british": "loo roll",
+      "american": "toilet paper",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-10T17:32:57.072185"
+    },
+    {
+      "british": "soap bar",
+      "american": "bar soap",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-10T17:32:57.072187"
     }
   ],
-  "last_updated": "2026-11-10T14:56:19.120280"
+  "last_updated": "2026-11-10T17:32:57.072188"
 }
