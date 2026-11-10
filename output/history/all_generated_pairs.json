@@ -8159,7 +8159,25 @@
       "american": "ZIP code",
       "category": "street navigation and city life",
       "generated_at": "2026-11-10T08:54:03.833568"
+    },
+    {
+      "british": "cot",
+      "american": "crib",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-10T14:56:19.120267"
+    },
+    {
+      "british": "soother",
+      "american": "pacifier",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-10T14:56:19.120277"
+    },
+    {
+      "british": "weaning",
+      "american": "feeding solids",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-10T14:56:19.120279"
     }
   ],
-  "last_updated": "2026-11-10T08:54:03.833569"
+  "last_updated": "2026-11-10T14:56:19.120280"
 }
