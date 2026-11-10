@@ -8123,7 +8123,25 @@
       "american": "line",
       "category": "leisure and hobbies",
       "generated_at": "2026-11-09T23:12:53.899034"
+    },
+    {
+      "british": "drawer liner",
+      "american": "drawer mat",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-10T01:16:07.360006"
+    },
+    {
+      "british": "filler",
+      "american": "spackle",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-10T01:16:07.360017"
+    },
+    {
+      "british": "putty knife",
+      "american": "spackle knife",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-10T01:16:07.360018"
     }
   ],
-  "last_updated": "2026-11-09T23:12:53.899035"
+  "last_updated": "2026-11-10T01:16:07.360019"
 }
