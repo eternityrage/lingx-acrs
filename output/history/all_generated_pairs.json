@@ -8267,7 +8267,25 @@
       "american": "luggage",
       "category": "travel, train and holiday",
       "generated_at": "2026-11-11T17:45:13.963905"
+    },
+    {
+      "british": "union",
+      "american": "labor union",
+      "category": "workplace and business",
+      "generated_at": "2026-11-11T20:58:38.150617"
+    },
+    {
+      "british": "holiday pay",
+      "american": "vacation pay",
+      "category": "workplace and business",
+      "generated_at": "2026-11-11T20:58:38.150626"
+    },
+    {
+      "british": "sick note",
+      "american": "doctor's note",
+      "category": "workplace and business",
+      "generated_at": "2026-11-11T20:58:38.150627"
     }
   ],
-  "last_updated": "2026-11-11T17:45:13.963906"
+  "last_updated": "2026-11-11T20:58:38.150629"
 }
