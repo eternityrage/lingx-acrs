@@ -8249,7 +8249,25 @@
       "american": "vacation rental",
       "category": "travel, train and holiday",
       "generated_at": "2026-11-11T08:31:15.375874"
+    },
+    {
+      "british": "timetable",
+      "american": "schedule",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-11T17:45:13.963893"
+    },
+    {
+      "british": "holiday",
+      "american": "trip",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-11T17:45:13.963904"
+    },
+    {
+      "british": "baggage",
+      "american": "luggage",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-11T17:45:13.963905"
     }
   ],
-  "last_updated": "2026-11-11T08:31:15.375876"
+  "last_updated": "2026-11-11T17:45:13.963906"
 }
