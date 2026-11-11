@@ -8231,7 +8231,25 @@
       "american": "one-dollar coin",
       "category": "money, shopping and banking",
       "generated_at": "2026-11-10T22:57:08.328660"
+    },
+    {
+      "british": "carriage",
+      "american": "coach",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-11T08:31:15.375862"
+    },
+    {
+      "british": "return ticket",
+      "american": "round-trip ticket",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-11T08:31:15.375874"
+    },
+    {
+      "british": "holiday home",
+      "american": "vacation rental",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-11T08:31:15.375874"
     }
   ],
-  "last_updated": "2026-11-10T22:57:08.328662"
+  "last_updated": "2026-11-11T08:31:15.375876"
 }
