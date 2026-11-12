@@ -8375,7 +8375,25 @@
       "american": "steamed pudding",
       "category": "food and sweets",
       "generated_at": "2026-11-12T21:13:59.819179"
+    },
+    {
+      "british": "spanner",
+      "american": "wrench",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-12T23:17:55.521010"
+    },
+    {
+      "british": "cooker hood",
+      "american": "range hood",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-12T23:17:55.521023"
+    },
+    {
+      "british": "strimmer",
+      "american": "string trimmer",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-12T23:17:55.521025"
     }
   ],
-  "last_updated": "2026-11-12T21:13:59.819181"
+  "last_updated": "2026-11-12T23:17:55.521026"
 }
