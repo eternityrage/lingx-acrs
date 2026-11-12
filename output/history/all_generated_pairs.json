@@ -8339,7 +8339,25 @@
       "american": "marshal",
       "category": "workplace and business",
       "generated_at": "2026-11-12T14:56:24.573262"
+    },
+    {
+      "british": "cylinder lock",
+      "american": "deadbolt",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-12T17:58:11.551214"
+    },
+    {
+      "british": "bin liner",
+      "american": "trash bag",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-12T17:58:11.551227"
+    },
+    {
+      "british": "emery paper",
+      "american": "sandpaper",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-12T17:58:11.551229"
     }
   ],
-  "last_updated": "2026-11-12T14:56:24.573264"
+  "last_updated": "2026-11-12T17:58:11.551231"
 }
