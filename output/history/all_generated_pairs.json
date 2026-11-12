@@ -8321,7 +8321,25 @@
       "american": "notepad",
       "category": "stationery and desk items",
       "generated_at": "2026-11-12T08:55:59.725886"
+    },
+    {
+      "british": "handbrake",
+      "american": "parking brake",
+      "category": "workplace and business",
+      "generated_at": "2026-11-12T14:56:24.573249"
+    },
+    {
+      "british": "cashier",
+      "american": "teller",
+      "category": "workplace and business",
+      "generated_at": "2026-11-12T14:56:24.573261"
+    },
+    {
+      "british": "bailiff",
+      "american": "marshal",
+      "category": "workplace and business",
+      "generated_at": "2026-11-12T14:56:24.573262"
     }
   ],
-  "last_updated": "2026-11-12T08:55:59.725888"
+  "last_updated": "2026-11-12T14:56:24.573264"
 }
