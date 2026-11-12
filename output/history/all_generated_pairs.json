@@ -8285,7 +8285,25 @@
       "american": "doctor's note",
       "category": "workplace and business",
       "generated_at": "2026-11-11T20:58:38.150627"
+    },
+    {
+      "british": "traffic lights",
+      "american": "stoplights",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-12T00:11:43.348158"
+    },
+    {
+      "british": "bathroom tap",
+      "american": "faucet",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-12T00:11:43.348170"
+    },
+    {
+      "british": "cotton bud",
+      "american": "cotton swab",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-12T00:11:43.348172"
     }
   ],
-  "last_updated": "2026-11-11T20:58:38.150629"
+  "last_updated": "2026-11-12T00:11:43.348177"
 }
