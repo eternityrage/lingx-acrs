@@ -8303,7 +8303,25 @@
       "american": "cotton swab",
       "category": "bathroom and toiletries",
       "generated_at": "2026-11-12T00:11:43.348172"
+    },
+    {
+      "british": "ring binder",
+      "american": "three-ring binder",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-12T08:55:59.725875"
+    },
+    {
+      "british": "spare key",
+      "american": "extra key",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-12T08:55:59.725885"
+    },
+    {
+      "british": "writing pad",
+      "american": "notepad",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-12T08:55:59.725886"
     }
   ],
-  "last_updated": "2026-11-12T00:11:43.348177"
+  "last_updated": "2026-11-12T08:55:59.725888"
 }
