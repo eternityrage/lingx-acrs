@@ -8357,7 +8357,25 @@
       "american": "sandpaper",
       "category": "household tools and DIY",
       "generated_at": "2026-11-12T17:58:11.551229"
+    },
+    {
+      "british": "jam sponge",
+      "american": "jelly roll",
+      "category": "food and sweets",
+      "generated_at": "2026-11-12T21:13:59.819165"
+    },
+    {
+      "british": "candy floss",
+      "american": "cotton candy",
+      "category": "food and sweets",
+      "generated_at": "2026-11-12T21:13:59.819178"
+    },
+    {
+      "british": "spotted dick",
+      "american": "steamed pudding",
+      "category": "food and sweets",
+      "generated_at": "2026-11-12T21:13:59.819179"
     }
   ],
-  "last_updated": "2026-11-12T17:58:11.551231"
+  "last_updated": "2026-11-12T21:13:59.819181"
 }
