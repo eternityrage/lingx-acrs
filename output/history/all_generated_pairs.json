@@ -8447,7 +8447,25 @@
       "american": "bacon wrap",
       "category": "food and sweets",
       "generated_at": "2026-11-13T17:33:46.942773"
+    },
+    {
+      "british": "jobcentre",
+      "american": "employment office",
+      "category": "workplace and business",
+      "generated_at": "2026-11-13T20:42:25.674698"
+    },
+    {
+      "british": "job advert",
+      "american": "job posting",
+      "category": "workplace and business",
+      "generated_at": "2026-11-13T20:42:25.674709"
+    },
+    {
+      "british": "notice period",
+      "american": "notice",
+      "category": "workplace and business",
+      "generated_at": "2026-11-13T20:42:25.674710"
     }
   ],
-  "last_updated": "2026-11-13T17:33:46.942774"
+  "last_updated": "2026-11-13T20:42:25.674712"
 }
