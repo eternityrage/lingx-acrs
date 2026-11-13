@@ -8393,7 +8393,25 @@
       "american": "string trimmer",
       "category": "household tools and DIY",
       "generated_at": "2026-11-12T23:17:55.521025"
+    },
+    {
+      "british": "kitchen roll",
+      "american": "paper towels",
+      "category": "school and university",
+      "generated_at": "2026-11-13T08:51:40.954127"
+    },
+    {
+      "british": "term time",
+      "american": "school year",
+      "category": "school and university",
+      "generated_at": "2026-11-13T08:51:40.954142"
+    },
+    {
+      "british": "module",
+      "american": "course",
+      "category": "school and university",
+      "generated_at": "2026-11-13T08:51:40.954144"
     }
   ],
-  "last_updated": "2026-11-12T23:17:55.521026"
+  "last_updated": "2026-11-13T08:51:40.954147"
 }
