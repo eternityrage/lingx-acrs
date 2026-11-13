@@ -8411,7 +8411,25 @@
       "american": "course",
       "category": "school and university",
       "generated_at": "2026-11-13T08:51:40.954144"
+    },
+    {
+      "british": "barm cake",
+      "american": "cinnamon roll",
+      "category": "food and sweets",
+      "generated_at": "2026-11-13T14:21:45.253525"
+    },
+    {
+      "british": "sherbet",
+      "american": "hard candy",
+      "category": "food and sweets",
+      "generated_at": "2026-11-13T14:21:45.253534"
+    },
+    {
+      "british": "toffee",
+      "american": "caramel",
+      "category": "food and sweets",
+      "generated_at": "2026-11-13T14:21:45.253536"
     }
   ],
-  "last_updated": "2026-11-13T08:51:40.954147"
+  "last_updated": "2026-11-13T14:21:45.253538"
 }
