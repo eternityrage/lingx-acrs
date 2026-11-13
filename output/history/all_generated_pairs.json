@@ -8465,7 +8465,25 @@
       "american": "notice",
       "category": "workplace and business",
       "generated_at": "2026-11-13T20:42:25.674710"
+    },
+    {
+      "british": "bottle opener",
+      "american": "can opener",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-11-13T23:20:49.495235"
+    },
+    {
+      "british": "gravy",
+      "american": "sauce",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-11-13T23:20:49.495247"
+    },
+    {
+      "british": "hob",
+      "american": "stove top",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-11-13T23:20:49.495249"
     }
   ],
-  "last_updated": "2026-11-13T20:42:25.674712"
+  "last_updated": "2026-11-13T23:20:49.495251"
 }
