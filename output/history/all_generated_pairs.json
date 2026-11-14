@@ -8501,7 +8501,25 @@
       "american": "trunk",
       "category": "driving, roads and transport",
       "generated_at": "2026-11-14T08:12:24.926631"
+    },
+    {
+      "british": "chopping board",
+      "american": "cutting board",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-11-14T13:16:58.293178"
+    },
+    {
+      "british": "larder",
+      "american": "pantry",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-11-14T13:16:58.293188"
+    },
+    {
+      "british": "pudding basin",
+      "american": "pudding dish",
+      "category": "kitchen and cooking",
+      "generated_at": "2026-11-14T13:16:58.293189"
     }
   ],
-  "last_updated": "2026-11-14T08:12:24.926632"
+  "last_updated": "2026-11-14T13:16:58.293191"
 }
