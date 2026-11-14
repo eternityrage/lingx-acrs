@@ -8555,7 +8555,25 @@
       "american": "community garden",
       "category": "leisure and hobbies",
       "generated_at": "2026-11-14T18:53:44.851292"
+    },
+    {
+      "british": "biscuit tin",
+      "american": "cookie jar",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-14T22:04:09.278123"
+    },
+    {
+      "british": "washing-up bowl",
+      "american": "dishpan",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-14T22:04:09.278131"
+    },
+    {
+      "british": "dustbin",
+      "american": "trash can",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-14T22:04:09.278133"
     }
   ],
-  "last_updated": "2026-11-14T18:53:44.851294"
+  "last_updated": "2026-11-14T22:04:09.278135"
 }
