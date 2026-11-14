@@ -8519,7 +8519,25 @@
       "american": "pudding dish",
       "category": "kitchen and cooking",
       "generated_at": "2026-11-14T13:16:58.293189"
+    },
+    {
+      "british": "pudding",
+      "american": "dessert",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-14T16:25:26.153413"
+    },
+    {
+      "british": "box office",
+      "american": "ticket sales",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-14T16:25:26.153422"
+    },
+    {
+      "british": "cinema",
+      "american": "movie theater",
+      "category": "entertainment and pop culture",
+      "generated_at": "2026-11-14T16:25:26.153424"
     }
   ],
-  "last_updated": "2026-11-14T13:16:58.293191"
+  "last_updated": "2026-11-14T16:25:26.153425"
 }
