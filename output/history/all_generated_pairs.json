@@ -8609,7 +8609,25 @@
       "american": "upright freezer",
       "category": "everyday household objects",
       "generated_at": "2026-11-15T13:45:26.059317"
+    },
+    {
+      "british": "toilet roll",
+      "american": "toilet paper",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-15T16:51:48.543244"
+    },
+    {
+      "british": "hand towel",
+      "american": "bath towel",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-15T16:51:48.543252"
+    },
+    {
+      "british": "taps",
+      "american": "faucets",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-15T16:51:48.543254"
     }
   ],
-  "last_updated": "2026-11-15T13:45:26.059318"
+  "last_updated": "2026-11-15T16:51:48.543258"
 }
