@@ -8627,7 +8627,25 @@
       "american": "faucets",
       "category": "bathroom and toiletries",
       "generated_at": "2026-11-15T16:51:48.543254"
+    },
+    {
+      "british": "dual carriageway",
+      "american": "divided highway",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-15T19:30:38.693123"
+    },
+    {
+      "british": "traffic lights",
+      "american": "traffic signals",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-15T19:30:38.693136"
+    },
+    {
+      "british": "petrol station",
+      "american": "gas station",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-15T19:30:38.693137"
     }
   ],
-  "last_updated": "2026-11-15T16:51:48.543258"
+  "last_updated": "2026-11-15T19:30:38.693139"
 }
