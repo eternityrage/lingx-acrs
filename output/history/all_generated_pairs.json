@@ -8591,7 +8591,25 @@
       "american": "foyer",
       "category": "buildings and architecture",
       "generated_at": "2026-11-15T08:31:39.949745"
+    },
+    {
+      "british": "wardrobe",
+      "american": "closet",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-15T13:45:26.059304"
+    },
+    {
+      "british": "mains",
+      "american": "outlet",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-15T13:45:26.059316"
+    },
+    {
+      "british": "chest freezer",
+      "american": "upright freezer",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-15T13:45:26.059317"
     }
   ],
-  "last_updated": "2026-11-15T08:31:39.949746"
+  "last_updated": "2026-11-15T13:45:26.059318"
 }
