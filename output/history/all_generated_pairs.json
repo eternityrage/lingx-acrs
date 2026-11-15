@@ -8645,7 +8645,25 @@
       "american": "gas station",
       "category": "driving, roads and transport",
       "generated_at": "2026-11-15T19:30:38.693137"
+    },
+    {
+      "british": "carriageway",
+      "american": "roadway",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-15T22:34:41.428675"
+    },
+    {
+      "british": "roundabout",
+      "american": "traffic circle",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-15T22:34:41.428686"
+    },
+    {
+      "british": "torch",
+      "american": "flashlight",
+      "category": "clothing and accessories",
+      "generated_at": "2026-11-15T22:34:41.428687"
     }
   ],
-  "last_updated": "2026-11-15T19:30:38.693139"
+  "last_updated": "2026-11-15T22:34:41.428689"
 }
