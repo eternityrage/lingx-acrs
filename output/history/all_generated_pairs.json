@@ -8573,7 +8573,25 @@
       "american": "trash can",
       "category": "everyday household objects",
       "generated_at": "2026-11-14T22:04:09.278133"
+    },
+    {
+      "british": "bakehouse",
+      "american": "bakery",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-15T08:31:39.949732"
+    },
+    {
+      "british": "crèche",
+      "american": "daycare",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-15T08:31:39.949744"
+    },
+    {
+      "british": "lobby",
+      "american": "foyer",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-15T08:31:39.949745"
     }
   ],
-  "last_updated": "2026-11-14T22:04:09.278135"
+  "last_updated": "2026-11-15T08:31:39.949746"
 }
