@@ -8681,7 +8681,25 @@
       "american": "umbrella",
       "category": "clothing and accessories",
       "generated_at": "2026-11-16T08:43:36.035606"
+    },
+    {
+      "british": "candyfloss",
+      "american": "cotton candy",
+      "category": "food and sweets",
+      "generated_at": "2026-11-16T15:23:24.354152"
+    },
+    {
+      "british": "biscuits",
+      "american": "cookies",
+      "category": "food and sweets",
+      "generated_at": "2026-11-16T15:23:24.354163"
+    },
+    {
+      "british": "sweets",
+      "american": "candy",
+      "category": "food and sweets",
+      "generated_at": "2026-11-16T15:23:24.354164"
     }
   ],
-  "last_updated": "2026-11-16T08:43:36.035608"
+  "last_updated": "2026-11-16T15:23:24.354165"
 }
