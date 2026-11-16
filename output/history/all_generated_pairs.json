@@ -8663,7 +8663,25 @@
       "american": "flashlight",
       "category": "clothing and accessories",
       "generated_at": "2026-11-15T22:34:41.428687"
+    },
+    {
+      "british": "jumper",
+      "american": "sweater",
+      "category": "clothing and accessories",
+      "generated_at": "2026-11-16T08:43:36.035592"
+    },
+    {
+      "british": "trainers",
+      "american": "sneakers",
+      "category": "clothing and accessories",
+      "generated_at": "2026-11-16T08:43:36.035605"
+    },
+    {
+      "british": "brolly",
+      "american": "umbrella",
+      "category": "clothing and accessories",
+      "generated_at": "2026-11-16T08:43:36.035606"
     }
   ],
-  "last_updated": "2026-11-15T22:34:41.428689"
+  "last_updated": "2026-11-16T08:43:36.035608"
 }
