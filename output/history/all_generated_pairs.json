@@ -8717,7 +8717,25 @@
       "american": "birth control",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-16T20:02:49.534625"
+    },
+    {
+      "british": "fountain pen",
+      "american": "pen",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-16T23:06:11.021535"
+    },
+    {
+      "british": "pencil sharpener",
+      "american": "manual sharpener",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-16T23:06:11.021545"
+    },
+    {
+      "british": "eraser rubber",
+      "american": "rubber",
+      "category": "stationery and desk items",
+      "generated_at": "2026-11-16T23:06:11.021547"
     }
   ],
-  "last_updated": "2026-11-16T20:02:49.534627"
+  "last_updated": "2026-11-16T23:06:11.021548"
 }
