@@ -8699,7 +8699,25 @@
       "american": "candy",
       "category": "food and sweets",
       "generated_at": "2026-11-16T15:23:24.354164"
+    },
+    {
+      "british": "medication",
+      "american": "medicine",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-16T20:02:49.534611"
+    },
+    {
+      "british": "pharmacy",
+      "american": "drugstore",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-16T20:02:49.534623"
+    },
+    {
+      "british": "contraception",
+      "american": "birth control",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-16T20:02:49.534625"
     }
   ],
-  "last_updated": "2026-11-16T15:23:24.354165"
+  "last_updated": "2026-11-16T20:02:49.534627"
 }
