@@ -8735,7 +8735,25 @@
       "american": "rubber",
       "category": "stationery and desk items",
       "generated_at": "2026-11-16T23:06:11.021547"
+    },
+    {
+      "british": "syringe",
+      "american": "syringes",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-17T01:42:04.303473"
+    },
+    {
+      "british": "plasters",
+      "american": "bandages",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-17T01:42:04.303484"
+    },
+    {
+      "british": "antibiotics",
+      "american": "antimicrobials",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-17T01:42:04.303485"
     }
   ],
-  "last_updated": "2026-11-16T23:06:11.021548"
+  "last_updated": "2026-11-17T01:42:04.303487"
 }
