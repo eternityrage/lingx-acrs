@@ -8753,7 +8753,25 @@
       "american": "antimicrobials",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-17T01:42:04.303485"
+    },
+    {
+      "british": "plasma",
+      "american": "blood plasma",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-17T09:49:56.856930"
+    },
+    {
+      "british": "fluids",
+      "american": "IV fluids",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-17T09:49:56.856942"
+    },
+    {
+      "british": "sore throat",
+      "american": "throat pain",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-17T09:49:56.856944"
     }
   ],
-  "last_updated": "2026-11-17T01:42:04.303487"
+  "last_updated": "2026-11-17T09:49:56.856945"
 }
