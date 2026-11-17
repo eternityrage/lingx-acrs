@@ -8771,7 +8771,25 @@
       "american": "throat pain",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-17T09:49:56.856944"
+    },
+    {
+      "british": "chemist",
+      "american": "pharmacy",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-17T15:46:51.534896"
+    },
+    {
+      "british": "cough medicine",
+      "american": "cough syrup",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-17T15:46:51.534907"
+    },
+    {
+      "british": "insulin pen",
+      "american": "insulin injector",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-17T15:46:51.534908"
     }
   ],
-  "last_updated": "2026-11-17T09:49:56.856945"
+  "last_updated": "2026-11-17T15:46:51.534910"
 }
