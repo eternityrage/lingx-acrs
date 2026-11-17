@@ -8789,7 +8789,25 @@
       "american": "insulin injector",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-17T15:46:51.534908"
+    },
+    {
+      "british": "nappy",
+      "american": "diaper",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-17T18:59:06.914410"
+    },
+    {
+      "british": "dummy",
+      "american": "pacifier",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-17T18:59:06.914420"
+    },
+    {
+      "british": "cot",
+      "american": "crib",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-17T18:59:06.914422"
     }
   ],
-  "last_updated": "2026-11-17T15:46:51.534910"
+  "last_updated": "2026-11-17T18:59:06.914423"
 }
