@@ -8807,7 +8807,25 @@
       "american": "crib",
       "category": "baby and parenting",
       "generated_at": "2026-11-17T18:59:06.914422"
+    },
+    {
+      "british": "cotton buds",
+      "american": "cotton swabs",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-17T21:58:12.036767"
+    },
+    {
+      "british": "maternity leave",
+      "american": "parental leave",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-17T21:58:12.036778"
+    },
+    {
+      "british": "pushchair",
+      "american": "stroller",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-17T21:58:12.036779"
     }
   ],
-  "last_updated": "2026-11-17T18:59:06.914423"
+  "last_updated": "2026-11-17T21:58:12.036781"
 }
