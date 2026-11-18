@@ -8825,7 +8825,25 @@
       "american": "stroller",
       "category": "baby and parenting",
       "generated_at": "2026-11-17T21:58:12.036779"
+    },
+    {
+      "british": "dessert spoon",
+      "american": "teaspoon",
+      "category": "food and sweets",
+      "generated_at": "2026-11-18T00:41:10.821833"
+    },
+    {
+      "british": "sparkling water",
+      "american": "seltzer",
+      "category": "food and sweets",
+      "generated_at": "2026-11-18T00:41:10.821844"
+    },
+    {
+      "british": "tomato ketchup",
+      "american": "ketchup",
+      "category": "food and sweets",
+      "generated_at": "2026-11-18T00:41:10.821846"
     }
   ],
-  "last_updated": "2026-11-17T21:58:12.036781"
+  "last_updated": "2026-11-18T00:41:10.821847"
 }
