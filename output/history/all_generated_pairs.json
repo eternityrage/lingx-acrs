@@ -8897,7 +8897,25 @@
       "american": "goalie",
       "category": "sports and games",
       "generated_at": "2026-11-18T18:42:13.552816"
+    },
+    {
+      "british": "pavement",
+      "american": "sidewalk",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-18T23:25:05.715060"
+    },
+    {
+      "british": "zebra crossing",
+      "american": "crosswalk",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-18T23:25:05.715074"
+    },
+    {
+      "british": "car park",
+      "american": "parking lot",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-18T23:25:05.715075"
     }
   ],
-  "last_updated": "2026-11-18T18:42:13.552818"
+  "last_updated": "2026-11-18T23:25:05.715077"
 }
