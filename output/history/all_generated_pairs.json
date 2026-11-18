@@ -8861,7 +8861,25 @@
       "american": "chocolate bar",
       "category": "food and sweets",
       "generated_at": "2026-11-18T09:21:30.883735"
+    },
+    {
+      "british": "payslip",
+      "american": "pay stub",
+      "category": "workplace and business",
+      "generated_at": "2026-11-18T15:27:00.091110"
+    },
+    {
+      "british": "onsite",
+      "american": "on-site",
+      "category": "workplace and business",
+      "generated_at": "2026-11-18T15:27:00.091121"
+    },
+    {
+      "british": "shop floor",
+      "american": "factory floor",
+      "category": "workplace and business",
+      "generated_at": "2026-11-18T15:27:00.091122"
     }
   ],
-  "last_updated": "2026-11-18T09:21:30.883737"
+  "last_updated": "2026-11-18T15:27:00.091124"
 }
