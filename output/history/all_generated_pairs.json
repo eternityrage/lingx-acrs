@@ -8843,7 +8843,25 @@
       "american": "ketchup",
       "category": "food and sweets",
       "generated_at": "2026-11-18T00:41:10.821846"
+    },
+    {
+      "british": "baked beans",
+      "american": "canned beans",
+      "category": "food and sweets",
+      "generated_at": "2026-11-18T09:21:30.883723"
+    },
+    {
+      "british": "sponge cake",
+      "american": "pound cake",
+      "category": "food and sweets",
+      "generated_at": "2026-11-18T09:21:30.883733"
+    },
+    {
+      "british": "cadbury bar",
+      "american": "chocolate bar",
+      "category": "food and sweets",
+      "generated_at": "2026-11-18T09:21:30.883735"
     }
   ],
-  "last_updated": "2026-11-18T00:41:10.821847"
+  "last_updated": "2026-11-18T09:21:30.883737"
 }
