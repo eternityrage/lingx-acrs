@@ -8879,7 +8879,25 @@
       "american": "factory floor",
       "category": "workplace and business",
       "generated_at": "2026-11-18T15:27:00.091122"
+    },
+    {
+      "british": "dustcoat",
+      "american": "lab coat",
+      "category": "clothing and accessories",
+      "generated_at": "2026-11-18T18:42:13.552804"
+    },
+    {
+      "british": "tights",
+      "american": "pantyhose",
+      "category": "clothing and accessories",
+      "generated_at": "2026-11-18T18:42:13.552815"
+    },
+    {
+      "british": "goalkeeper",
+      "american": "goalie",
+      "category": "sports and games",
+      "generated_at": "2026-11-18T18:42:13.552816"
     }
   ],
-  "last_updated": "2026-11-18T15:27:00.091124"
+  "last_updated": "2026-11-18T18:42:13.552818"
 }
