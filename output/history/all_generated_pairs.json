@@ -8933,7 +8933,25 @@
       "american": "molding",
       "category": "buildings and architecture",
       "generated_at": "2026-11-18T23:59:56.990839"
+    },
+    {
+      "british": "cupboard",
+      "american": "closet",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-19T09:50:05.275548"
+    },
+    {
+      "british": "dustbin",
+      "american": "garbage can",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-19T09:50:05.275558"
+    },
+    {
+      "british": "bin bag",
+      "american": "trash bag",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-19T09:50:05.275559"
     }
   ],
-  "last_updated": "2026-11-18T23:59:56.990841"
+  "last_updated": "2026-11-19T09:50:05.275561"
 }
