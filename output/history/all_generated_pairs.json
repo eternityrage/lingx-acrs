@@ -8915,7 +8915,25 @@
       "american": "parking lot",
       "category": "street navigation and city life",
       "generated_at": "2026-11-18T23:25:05.715075"
+    },
+    {
+      "british": "skirting board",
+      "american": "baseboard",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-18T23:59:56.990826"
+    },
+    {
+      "british": "doorstep",
+      "american": "front step",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-18T23:59:56.990838"
+    },
+    {
+      "british": "moulding",
+      "american": "molding",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-18T23:59:56.990839"
     }
   ],
-  "last_updated": "2026-11-18T23:25:05.715077"
+  "last_updated": "2026-11-18T23:59:56.990841"
 }
