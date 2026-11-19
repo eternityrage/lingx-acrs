@@ -8951,7 +8951,25 @@
       "american": "trash bag",
       "category": "everyday household objects",
       "generated_at": "2026-11-19T09:50:05.275559"
+    },
+    {
+      "british": "bank holiday",
+      "american": "public holiday",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-19T15:31:56.266095"
+    },
+    {
+      "british": "cheque",
+      "american": "check",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-19T15:31:56.266109"
+    },
+    {
+      "british": "pound note",
+      "american": "dollar bill",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-19T15:31:56.266110"
     }
   ],
-  "last_updated": "2026-11-19T09:50:05.275561"
+  "last_updated": "2026-11-19T15:31:56.266112"
 }
