@@ -8969,7 +8969,25 @@
       "american": "dollar bill",
       "category": "money, shopping and banking",
       "generated_at": "2026-11-19T15:31:56.266110"
+    },
+    {
+      "british": "masonry",
+      "american": "brickwork",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-19T18:57:57.664449"
+    },
+    {
+      "british": "windscreen",
+      "american": "windshield",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-19T18:57:57.664462"
+    },
+    {
+      "british": "barrister",
+      "american": "attorney",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-19T18:57:57.664463"
     }
   ],
-  "last_updated": "2026-11-19T15:31:56.266112"
+  "last_updated": "2026-11-19T18:57:57.664465"
 }
