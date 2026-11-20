@@ -9059,7 +9059,25 @@
       "american": "thinset",
       "category": "household tools and DIY",
       "generated_at": "2026-11-20T15:14:10.588589"
+    },
+    {
+      "british": "traffic lights",
+      "american": "stoplights",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-20T18:23:28.725164"
+    },
+    {
+      "british": "kerb",
+      "american": "curb",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-20T18:23:28.725176"
+    },
+    {
+      "british": "postcode",
+      "american": "zip code",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-20T18:23:28.725176"
     }
   ],
-  "last_updated": "2026-11-20T15:14:10.588591"
+  "last_updated": "2026-11-20T18:23:28.725178"
 }
