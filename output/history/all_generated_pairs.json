@@ -9077,7 +9077,25 @@
       "american": "zip code",
       "category": "street navigation and city life",
       "generated_at": "2026-11-20T18:23:28.725176"
+    },
+    {
+      "british": "lorry",
+      "american": "truck",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-20T21:37:49.486305"
+    },
+    {
+      "british": "junction",
+      "american": "intersection",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-20T21:37:49.486314"
+    },
+    {
+      "british": "holiday home",
+      "american": "vacation rental",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-20T21:37:49.486316"
     }
   ],
-  "last_updated": "2026-11-20T18:23:28.725178"
+  "last_updated": "2026-11-20T21:37:49.486317"
 }
