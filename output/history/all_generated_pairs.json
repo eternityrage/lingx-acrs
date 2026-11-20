@@ -9023,7 +9023,25 @@
       "american": "pitchfork",
       "category": "gardening and outdoors",
       "generated_at": "2026-11-20T00:27:56.877371"
+    },
+    {
+      "british": "bangers",
+      "american": "sausages",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-20T09:18:19.846922"
+    },
+    {
+      "british": "allotment",
+      "american": "backyard garden",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-20T09:18:19.846933"
+    },
+    {
+      "british": "football",
+      "american": "soccer",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-20T09:18:19.846934"
     }
   ],
-  "last_updated": "2026-11-20T00:27:56.877373"
+  "last_updated": "2026-11-20T09:18:19.846936"
 }
