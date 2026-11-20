@@ -9041,7 +9041,25 @@
       "american": "soccer",
       "category": "leisure and hobbies",
       "generated_at": "2026-11-20T09:18:19.846934"
+    },
+    {
+      "british": "screwdriver",
+      "american": "screw driver",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-20T15:14:10.588576"
+    },
+    {
+      "british": "plasterboard",
+      "american": "drywall",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-20T15:14:10.588587"
+    },
+    {
+      "british": "mortar mix",
+      "american": "thinset",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-20T15:14:10.588589"
     }
   ],
-  "last_updated": "2026-11-20T09:18:19.846936"
+  "last_updated": "2026-11-20T15:14:10.588591"
 }
