@@ -9005,7 +9005,25 @@
       "american": "trailer",
       "category": "driving, roads and transport",
       "generated_at": "2026-11-19T22:18:09.992464"
+    },
+    {
+      "british": "lawnmower",
+      "american": "lawn mower",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-20T00:27:56.877357"
+    },
+    {
+      "british": "compost heap",
+      "american": "compost pile",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-20T00:27:56.877370"
+    },
+    {
+      "british": "garden fork",
+      "american": "pitchfork",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-20T00:27:56.877371"
     }
   ],
-  "last_updated": "2026-11-19T22:18:09.992465"
+  "last_updated": "2026-11-20T00:27:56.877373"
 }
