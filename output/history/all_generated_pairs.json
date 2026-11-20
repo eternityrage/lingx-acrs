@@ -9095,7 +9095,25 @@
       "american": "vacation rental",
       "category": "travel, train and holiday",
       "generated_at": "2026-11-20T21:37:49.486316"
+    },
+    {
+      "british": "candy floss",
+      "american": "cotton candy",
+      "category": "food and sweets",
+      "generated_at": "2026-11-20T23:45:57.621729"
+    },
+    {
+      "british": "treacle tart",
+      "american": "molasses pie",
+      "category": "food and sweets",
+      "generated_at": "2026-11-20T23:45:57.621739"
+    },
+    {
+      "british": "marmalade",
+      "american": "orange jam",
+      "category": "food and sweets",
+      "generated_at": "2026-11-20T23:45:57.621740"
     }
   ],
-  "last_updated": "2026-11-20T21:37:49.486317"
+  "last_updated": "2026-11-20T23:45:57.621742"
 }
