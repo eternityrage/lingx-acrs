@@ -9131,7 +9131,25 @@
       "american": "round-trip ticket",
       "category": "travel, train and holiday",
       "generated_at": "2026-11-21T08:55:04.380055"
+    },
+    {
+      "british": "banknote",
+      "american": "bill",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-21T14:28:06.970878"
+    },
+    {
+      "british": "store card",
+      "american": "credit card",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-21T14:28:06.970888"
+    },
+    {
+      "british": "shop assistant",
+      "american": "sales associate",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-21T14:28:06.970890"
     }
   ],
-  "last_updated": "2026-11-21T08:55:04.380057"
+  "last_updated": "2026-11-21T14:28:06.970891"
 }
