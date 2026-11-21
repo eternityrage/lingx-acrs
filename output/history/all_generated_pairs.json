@@ -9185,7 +9185,25 @@
       "american": "sales receipt",
       "category": "money, shopping and banking",
       "generated_at": "2026-11-21T20:18:05.865683"
+    },
+    {
+      "british": "pram",
+      "american": "stroller",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-21T22:52:30.330377"
+    },
+    {
+      "british": "toddler",
+      "american": "young child",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-21T22:52:30.330388"
+    },
+    {
+      "british": "cot death",
+      "american": "SIDS",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-21T22:52:30.330389"
     }
   ],
-  "last_updated": "2026-11-21T20:18:05.865684"
+  "last_updated": "2026-11-21T22:52:30.330390"
 }
