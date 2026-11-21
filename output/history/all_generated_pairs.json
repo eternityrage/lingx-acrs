@@ -9167,7 +9167,25 @@
       "american": "faucet",
       "category": "bathroom and toiletries",
       "generated_at": "2026-11-21T17:10:10.727795"
+    },
+    {
+      "british": "pounds",
+      "american": "dollars",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-21T20:18:05.865672"
+    },
+    {
+      "british": "hire purchase",
+      "american": "installment plan",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-21T20:18:05.865681"
+    },
+    {
+      "british": "receipt",
+      "american": "sales receipt",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-21T20:18:05.865683"
     }
   ],
-  "last_updated": "2026-11-21T17:10:10.727797"
+  "last_updated": "2026-11-21T20:18:05.865684"
 }
