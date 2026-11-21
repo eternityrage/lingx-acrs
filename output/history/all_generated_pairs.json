@@ -9113,7 +9113,25 @@
       "american": "orange jam",
       "category": "food and sweets",
       "generated_at": "2026-11-20T23:45:57.621740"
+    },
+    {
+      "british": "railway carriage",
+      "american": "train car",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-21T08:55:04.380047"
+    },
+    {
+      "british": "platform",
+      "american": "train platform",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-21T08:55:04.380054"
+    },
+    {
+      "british": "return ticket",
+      "american": "round-trip ticket",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-21T08:55:04.380055"
     }
   ],
-  "last_updated": "2026-11-20T23:45:57.621742"
+  "last_updated": "2026-11-21T08:55:04.380057"
 }
