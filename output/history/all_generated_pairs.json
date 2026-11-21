@@ -9149,7 +9149,25 @@
       "american": "sales associate",
       "category": "money, shopping and banking",
       "generated_at": "2026-11-21T14:28:06.970890"
+    },
+    {
+      "british": "toilet roll",
+      "american": "toilet paper",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-21T17:10:10.727786"
+    },
+    {
+      "british": "shower gel",
+      "american": "body wash",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-21T17:10:10.727794"
+    },
+    {
+      "british": "bath tap",
+      "american": "faucet",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-21T17:10:10.727795"
     }
   ],
-  "last_updated": "2026-11-21T14:28:06.970891"
+  "last_updated": "2026-11-21T17:10:10.727797"
 }
