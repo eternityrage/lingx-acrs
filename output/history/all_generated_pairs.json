@@ -9221,7 +9221,25 @@
       "american": "corner kicks",
       "category": "sports and games",
       "generated_at": "2026-11-22T08:57:08.041352"
+    },
+    {
+      "british": "plaster",
+      "american": "bandage",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-22T14:23:39.910761"
+    },
+    {
+      "british": "toothpaste",
+      "american": "dentifrice",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-22T14:23:39.910772"
+    },
+    {
+      "british": "elbow crutch",
+      "american": "underarm crutch",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-22T14:23:39.910773"
     }
   ],
-  "last_updated": "2026-11-22T08:57:08.041354"
+  "last_updated": "2026-11-22T14:23:39.910774"
 }
