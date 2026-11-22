@@ -9203,7 +9203,25 @@
       "american": "SIDS",
       "category": "baby and parenting",
       "generated_at": "2026-11-21T22:52:30.330389"
+    },
+    {
+      "british": "winger",
+      "american": "wide receiver",
+      "category": "sports and games",
+      "generated_at": "2026-11-22T08:57:08.041338"
+    },
+    {
+      "british": "penalty area",
+      "american": "penalty box",
+      "category": "sports and games",
+      "generated_at": "2026-11-22T08:57:08.041350"
+    },
+    {
+      "british": "corners",
+      "american": "corner kicks",
+      "category": "sports and games",
+      "generated_at": "2026-11-22T08:57:08.041352"
     }
   ],
-  "last_updated": "2026-11-21T22:52:30.330390"
+  "last_updated": "2026-11-22T08:57:08.041354"
 }
