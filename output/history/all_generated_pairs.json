@@ -9239,7 +9239,25 @@
       "american": "underarm crutch",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-22T14:23:39.910773"
+    },
+    {
+      "british": "traffic lights",
+      "american": "traffic signals",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-22T17:39:58.275079"
+    },
+    {
+      "british": "petrol station",
+      "american": "gas station",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-22T17:39:58.275091"
+    },
+    {
+      "british": "roundabout",
+      "american": "traffic circle",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-22T17:39:58.275093"
     }
   ],
-  "last_updated": "2026-11-22T14:23:39.910774"
+  "last_updated": "2026-11-22T17:39:58.275095"
 }
