@@ -9275,7 +9275,25 @@
       "american": "divided highway",
       "category": "driving, roads and transport",
       "generated_at": "2026-11-22T20:31:20.868328"
+    },
+    {
+      "british": "employment contract",
+      "american": "employment agreement",
+      "category": "workplace and business",
+      "generated_at": "2026-11-22T23:21:19.755341"
+    },
+    {
+      "british": "pay rise",
+      "american": "pay raise",
+      "category": "workplace and business",
+      "generated_at": "2026-11-22T23:21:19.755351"
+    },
+    {
+      "british": "sick leave",
+      "american": "sick time",
+      "category": "workplace and business",
+      "generated_at": "2026-11-22T23:21:19.755352"
     }
   ],
-  "last_updated": "2026-11-22T20:31:20.868329"
+  "last_updated": "2026-11-22T23:21:19.755354"
 }
