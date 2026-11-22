@@ -9257,7 +9257,25 @@
       "american": "traffic circle",
       "category": "street navigation and city life",
       "generated_at": "2026-11-22T17:39:58.275093"
+    },
+    {
+      "british": "bills",
+      "american": "utilities",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-22T20:31:20.868316"
+    },
+    {
+      "british": "council",
+      "american": "city hall",
+      "category": "street navigation and city life",
+      "generated_at": "2026-11-22T20:31:20.868327"
+    },
+    {
+      "british": "dual carriageway",
+      "american": "divided highway",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-22T20:31:20.868328"
     }
   ],
-  "last_updated": "2026-11-22T17:39:58.275095"
+  "last_updated": "2026-11-22T20:31:20.868329"
 }
