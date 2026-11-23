@@ -9311,7 +9311,25 @@
       "american": "starting solids",
       "category": "baby and parenting",
       "generated_at": "2026-11-23T09:55:39.335926"
+    },
+    {
+      "british": "brolly",
+      "american": "umbrella",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-23T17:57:05.802978"
+    },
+    {
+      "british": "booking office",
+      "american": "ticket office",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-23T17:57:05.802990"
+    },
+    {
+      "british": "campsite",
+      "american": "campground",
+      "category": "travel, train and holiday",
+      "generated_at": "2026-11-23T17:57:05.802992"
     }
   ],
-  "last_updated": "2026-11-23T09:55:39.335928"
+  "last_updated": "2026-11-23T17:57:05.802993"
 }
