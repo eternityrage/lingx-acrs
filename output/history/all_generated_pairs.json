@@ -9293,7 +9293,25 @@
       "american": "sick time",
       "category": "workplace and business",
       "generated_at": "2026-11-22T23:21:19.755352"
+    },
+    {
+      "british": "nappy",
+      "american": "diaper",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-23T09:55:39.335913"
+    },
+    {
+      "british": "dummy",
+      "american": "pacifier",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-23T09:55:39.335925"
+    },
+    {
+      "british": "weaning",
+      "american": "starting solids",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-23T09:55:39.335926"
     }
   ],
-  "last_updated": "2026-11-22T23:21:19.755354"
+  "last_updated": "2026-11-23T09:55:39.335928"
 }
