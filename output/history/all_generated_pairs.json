@@ -9329,7 +9329,25 @@
       "american": "campground",
       "category": "travel, train and holiday",
       "generated_at": "2026-11-23T17:57:05.802992"
+    },
+    {
+      "british": "plant pots",
+      "american": "flower pots",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-23T22:50:35.306090"
+    },
+    {
+      "british": "garden shears",
+      "american": "hedge trimmer",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-23T22:50:35.306103"
+    },
+    {
+      "british": "bark mulch",
+      "american": "mulch",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-23T22:50:35.306104"
     }
   ],
-  "last_updated": "2026-11-23T17:57:05.802993"
+  "last_updated": "2026-11-23T22:50:35.306106"
 }
