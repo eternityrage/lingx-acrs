@@ -9437,7 +9437,25 @@
       "american": "hood",
       "category": "leisure and hobbies",
       "generated_at": "2026-11-24T20:31:46.417067"
+    },
+    {
+      "british": "outpatient",
+      "american": "outpatient department",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-24T23:19:16.388844"
+    },
+    {
+      "british": "capsule",
+      "american": "caplet",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-24T23:19:16.388855"
+    },
+    {
+      "british": "pharmacy",
+      "american": "drugstore",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-24T23:19:16.388857"
     }
   ],
-  "last_updated": "2026-11-24T20:31:46.417068"
+  "last_updated": "2026-11-24T23:19:16.388858"
 }
