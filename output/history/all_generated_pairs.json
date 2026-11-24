@@ -9383,7 +9383,25 @@
       "american": "lobby",
       "category": "buildings and architecture",
       "generated_at": "2026-11-24T03:53:11.224337"
+    },
+    {
+      "british": "cot",
+      "american": "crib",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-24T11:43:36.708677"
+    },
+    {
+      "british": "mum",
+      "american": "mom",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-24T11:43:36.708688"
+    },
+    {
+      "british": "bottle",
+      "american": "baby bottle",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-24T11:43:36.708689"
     }
   ],
-  "last_updated": "2026-11-24T03:53:11.224339"
+  "last_updated": "2026-11-24T11:43:36.708691"
 }
