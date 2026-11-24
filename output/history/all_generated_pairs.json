@@ -9347,7 +9347,25 @@
       "american": "mulch",
       "category": "gardening and outdoors",
       "generated_at": "2026-11-23T22:50:35.306104"
+    },
+    {
+      "british": "plasters",
+      "american": "bandages",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-24T01:19:39.844398"
+    },
+    {
+      "british": "first aid",
+      "american": "emergency care",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-24T01:19:39.844407"
+    },
+    {
+      "british": "GP",
+      "american": "doctor",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-24T01:19:39.844409"
     }
   ],
-  "last_updated": "2026-11-23T22:50:35.306106"
+  "last_updated": "2026-11-24T01:19:39.844414"
 }
