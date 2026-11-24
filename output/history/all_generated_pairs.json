@@ -9401,7 +9401,25 @@
       "american": "baby bottle",
       "category": "baby and parenting",
       "generated_at": "2026-11-24T11:43:36.708689"
+    },
+    {
+      "british": "biscuit tin",
+      "american": "cookie tin",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-24T17:20:49.394773"
+    },
+    {
+      "british": "washing-up liquid",
+      "american": "dish soap",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-24T17:20:49.394783"
+    },
+    {
+      "british": "toilet roll",
+      "american": "bathroom tissue",
+      "category": "everyday household objects",
+      "generated_at": "2026-11-24T17:20:49.394785"
     }
   ],
-  "last_updated": "2026-11-24T11:43:36.708691"
+  "last_updated": "2026-11-24T17:20:49.394786"
 }
