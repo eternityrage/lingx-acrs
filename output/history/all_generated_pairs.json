@@ -9419,7 +9419,25 @@
       "american": "bathroom tissue",
       "category": "everyday household objects",
       "generated_at": "2026-11-24T17:20:49.394785"
+    },
+    {
+      "british": "mags",
+      "american": "magazines",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-24T20:31:46.417056"
+    },
+    {
+      "british": "torch",
+      "american": "flashlight",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-24T20:31:46.417065"
+    },
+    {
+      "british": "bonnet",
+      "american": "hood",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-24T20:31:46.417067"
     }
   ],
-  "last_updated": "2026-11-24T17:20:49.394786"
+  "last_updated": "2026-11-24T20:31:46.417068"
 }
