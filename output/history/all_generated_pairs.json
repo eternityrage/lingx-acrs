@@ -9365,7 +9365,25 @@
       "american": "doctor",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-24T01:19:39.844409"
+    },
+    {
+      "british": "shopping basket",
+      "american": "shopping cart",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-24T03:53:11.224326"
+    },
+    {
+      "british": "façade",
+      "american": "front",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-24T03:53:11.224336"
+    },
+    {
+      "british": "concourse",
+      "american": "lobby",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-24T03:53:11.224337"
     }
   ],
-  "last_updated": "2026-11-24T01:19:39.844414"
+  "last_updated": "2026-11-24T03:53:11.224339"
 }
