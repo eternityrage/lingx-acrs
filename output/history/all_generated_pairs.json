@@ -9455,7 +9455,25 @@
       "american": "drugstore",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-24T23:19:16.388857"
+    },
+    {
+      "british": "motorway",
+      "american": "freeway",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-25T01:58:46.306759"
+    },
+    {
+      "british": "roundabout",
+      "american": "rotary",
+      "category": "driving, roads and transport",
+      "generated_at": "2026-11-25T01:58:46.306769"
+    },
+    {
+      "british": "wean",
+      "american": "introduce solids",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-25T01:58:46.306771"
     }
   ],
-  "last_updated": "2026-11-24T23:19:16.388858"
+  "last_updated": "2026-11-25T01:58:46.306772"
 }
