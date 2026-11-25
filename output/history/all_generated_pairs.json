@@ -9509,7 +9509,25 @@
       "american": "toilet tank",
       "category": "bathroom and toiletries",
       "generated_at": "2026-11-25T17:00:48.496950"
+    },
+    {
+      "british": "bub",
+      "american": "baby",
+      "category": "baby and parenting",
+      "generated_at": "2026-11-25T19:48:36.215090"
+    },
+    {
+      "british": "garden shears",
+      "american": "pruning shears",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-25T19:48:36.215103"
+    },
+    {
+      "british": "spade",
+      "american": "shovel",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-25T19:48:36.215105"
     }
   ],
-  "last_updated": "2026-11-25T17:00:48.496952"
+  "last_updated": "2026-11-25T19:48:36.215106"
 }
