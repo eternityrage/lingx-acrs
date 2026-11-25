@@ -9491,7 +9491,25 @@
       "american": "terrace",
       "category": "gardening and outdoors",
       "generated_at": "2026-11-25T10:36:40.214157"
+    },
+    {
+      "british": "bathroom bin",
+      "american": "trash can",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-25T17:00:48.496934"
+    },
+    {
+      "british": "bathroom tap",
+      "american": "faucet",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-25T17:00:48.496948"
+    },
+    {
+      "british": "toilet cistern",
+      "american": "toilet tank",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-25T17:00:48.496950"
     }
   ],
-  "last_updated": "2026-11-25T10:36:40.214158"
+  "last_updated": "2026-11-25T17:00:48.496952"
 }
