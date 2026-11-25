@@ -9473,7 +9473,25 @@
       "american": "introduce solids",
       "category": "baby and parenting",
       "generated_at": "2026-11-25T01:58:46.306771"
+    },
+    {
+      "british": "garden can",
+      "american": "watering can",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-25T10:36:40.214144"
+    },
+    {
+      "british": "hedgerow",
+      "american": "hedge",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-25T10:36:40.214156"
+    },
+    {
+      "british": "patio",
+      "american": "terrace",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-25T10:36:40.214157"
     }
   ],
-  "last_updated": "2026-11-25T01:58:46.306772"
+  "last_updated": "2026-11-25T10:36:40.214158"
 }
