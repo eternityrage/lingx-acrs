@@ -9581,7 +9581,25 @@
       "american": "baseboard",
       "category": "buildings and architecture",
       "generated_at": "2026-11-26T10:08:10.697290"
+    },
+    {
+      "british": "currant bun",
+      "american": "raisin bun",
+      "category": "food and sweets",
+      "generated_at": "2026-11-26T16:41:20.390464"
+    },
+    {
+      "british": "mince pies",
+      "american": "minced pies",
+      "category": "food and sweets",
+      "generated_at": "2026-11-26T16:41:20.390478"
+    },
+    {
+      "british": "toffee apple",
+      "american": "candy apple",
+      "category": "food and sweets",
+      "generated_at": "2026-11-26T16:41:20.390479"
     }
   ],
-  "last_updated": "2026-11-26T10:08:10.697292"
+  "last_updated": "2026-11-26T16:41:20.390481"
 }
