@@ -9599,7 +9599,25 @@
       "american": "candy apple",
       "category": "food and sweets",
       "generated_at": "2026-11-26T16:41:20.390479"
+    },
+    {
+      "british": "plant pot",
+      "american": "flowerpot",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-26T19:27:18.866479"
+    },
+    {
+      "british": "lawnmower",
+      "american": "lawn mower",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-26T19:27:18.866490"
+    },
+    {
+      "british": "garden shed",
+      "american": "storage shed",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-26T19:27:18.866491"
     }
   ],
-  "last_updated": "2026-11-26T16:41:20.390481"
+  "last_updated": "2026-11-26T19:27:18.866493"
 }
