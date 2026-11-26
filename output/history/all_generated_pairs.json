@@ -9545,7 +9545,25 @@
       "american": "serviette",
       "category": "leisure and hobbies",
       "generated_at": "2026-11-25T22:52:09.826608"
+    },
+    {
+      "british": "garden hose",
+      "american": "yard hose",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-26T01:40:13.506495"
+    },
+    {
+      "british": "tarmac",
+      "american": "asphalt",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-26T01:40:13.506505"
+    },
+    {
+      "british": "garden fork",
+      "american": "pitchfork",
+      "category": "gardening and outdoors",
+      "generated_at": "2026-11-26T01:40:13.506506"
     }
   ],
-  "last_updated": "2026-11-25T22:52:09.826610"
+  "last_updated": "2026-11-26T01:40:13.506508"
 }
