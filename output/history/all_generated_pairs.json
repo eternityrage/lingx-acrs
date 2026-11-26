@@ -9563,7 +9563,25 @@
       "american": "pitchfork",
       "category": "gardening and outdoors",
       "generated_at": "2026-11-26T01:40:13.506506"
+    },
+    {
+      "british": "car park",
+      "american": "parking lot",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-26T10:08:10.697276"
+    },
+    {
+      "british": "gatehouse",
+      "american": "guard house",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-26T10:08:10.697288"
+    },
+    {
+      "british": "skirting board",
+      "american": "baseboard",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-26T10:08:10.697290"
     }
   ],
-  "last_updated": "2026-11-26T01:40:13.506508"
+  "last_updated": "2026-11-26T10:08:10.697292"
 }
