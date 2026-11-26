@@ -9617,7 +9617,25 @@
       "american": "storage shed",
       "category": "gardening and outdoors",
       "generated_at": "2026-11-26T19:27:18.866491"
+    },
+    {
+      "british": "cheque",
+      "american": "check",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-26T22:41:15.163382"
+    },
+    {
+      "british": "cashpoint",
+      "american": "ATM",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-26T22:41:15.163392"
+    },
+    {
+      "british": "value-added tax",
+      "american": "sales tax",
+      "category": "money, shopping and banking",
+      "generated_at": "2026-11-26T22:41:15.163394"
     }
   ],
-  "last_updated": "2026-11-26T19:27:18.866493"
+  "last_updated": "2026-11-26T22:41:15.163396"
 }
