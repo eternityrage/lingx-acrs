@@ -9635,7 +9635,25 @@
       "american": "sales tax",
       "category": "money, shopping and banking",
       "generated_at": "2026-11-26T22:41:15.163394"
+    },
+    {
+      "british": "lecture theatre",
+      "american": "lecture hall",
+      "category": "school and university",
+      "generated_at": "2026-11-27T01:33:06.450175"
+    },
+    {
+      "british": "student union",
+      "american": "student government",
+      "category": "school and university",
+      "generated_at": "2026-11-27T01:33:06.450185"
+    },
+    {
+      "british": "supervisor",
+      "american": "advisor",
+      "category": "school and university",
+      "generated_at": "2026-11-27T01:33:06.450187"
     }
   ],
-  "last_updated": "2026-11-26T22:41:15.163396"
+  "last_updated": "2026-11-27T01:33:06.450188"
 }
