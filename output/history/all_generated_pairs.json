@@ -9707,7 +9707,25 @@
       "american": "kickoff",
       "category": "sports and games",
       "generated_at": "2026-11-27T19:23:22.413505"
+    },
+    {
+      "british": "skylight",
+      "american": "roof window",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-27T22:26:13.083741"
+    },
+    {
+      "british": "dwelling",
+      "american": "residence",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-27T22:26:13.083754"
+    },
+    {
+      "british": "pavement",
+      "american": "sidewalk",
+      "category": "buildings and architecture",
+      "generated_at": "2026-11-27T22:26:13.083755"
     }
   ],
-  "last_updated": "2026-11-27T19:23:22.413507"
+  "last_updated": "2026-11-27T22:26:13.083757"
 }
