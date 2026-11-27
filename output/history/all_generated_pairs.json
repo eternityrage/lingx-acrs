@@ -9653,7 +9653,25 @@
       "american": "advisor",
       "category": "school and university",
       "generated_at": "2026-11-27T01:33:06.450187"
+    },
+    {
+      "british": "biscuit",
+      "american": "cookie",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-27T10:13:39.892184"
+    },
+    {
+      "british": "holiday",
+      "american": "vacation",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-27T10:13:39.892195"
+    },
+    {
+      "british": "football",
+      "american": "soccer",
+      "category": "leisure and hobbies",
+      "generated_at": "2026-11-27T10:13:39.892196"
     }
   ],
-  "last_updated": "2026-11-27T01:33:06.450188"
+  "last_updated": "2026-11-27T10:13:39.892198"
 }
