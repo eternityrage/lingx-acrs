@@ -9689,7 +9689,25 @@
       "american": "grade",
       "category": "school and university",
       "generated_at": "2026-11-27T16:26:47.056260"
+    },
+    {
+      "british": "snooker",
+      "american": "billiards",
+      "category": "sports and games",
+      "generated_at": "2026-11-27T19:23:22.413494"
+    },
+    {
+      "british": "pitch",
+      "american": "field",
+      "category": "sports and games",
+      "generated_at": "2026-11-27T19:23:22.413504"
+    },
+    {
+      "british": "boot",
+      "american": "kickoff",
+      "category": "sports and games",
+      "generated_at": "2026-11-27T19:23:22.413505"
     }
   ],
-  "last_updated": "2026-11-27T16:26:47.056261"
+  "last_updated": "2026-11-27T19:23:22.413507"
 }
