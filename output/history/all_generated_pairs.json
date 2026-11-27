@@ -9671,7 +9671,25 @@
       "american": "soccer",
       "category": "leisure and hobbies",
       "generated_at": "2026-11-27T10:13:39.892196"
+    },
+    {
+      "british": "timetable",
+      "american": "schedule",
+      "category": "school and university",
+      "generated_at": "2026-11-27T16:26:47.056247"
+    },
+    {
+      "british": "term",
+      "american": "semester",
+      "category": "school and university",
+      "generated_at": "2026-11-27T16:26:47.056259"
+    },
+    {
+      "british": "mark",
+      "american": "grade",
+      "category": "school and university",
+      "generated_at": "2026-11-27T16:26:47.056260"
     }
   ],
-  "last_updated": "2026-11-27T10:13:39.892198"
+  "last_updated": "2026-11-27T16:26:47.056261"
 }
