@@ -9725,7 +9725,25 @@
       "american": "sidewalk",
       "category": "buildings and architecture",
       "generated_at": "2026-11-27T22:26:13.083755"
+    },
+    {
+      "british": "bath mat",
+      "american": "bathroom rug",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-28T01:13:51.424697"
+    },
+    {
+      "british": "soap bar",
+      "american": "bar soap",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-28T01:13:51.424709"
+    },
+    {
+      "british": "bin",
+      "american": "trash can",
+      "category": "bathroom and toiletries",
+      "generated_at": "2026-11-28T01:13:51.424711"
     }
   ],
-  "last_updated": "2026-11-27T22:26:13.083757"
+  "last_updated": "2026-11-28T01:13:51.424713"
 }
