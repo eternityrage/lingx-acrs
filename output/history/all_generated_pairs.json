@@ -9743,7 +9743,25 @@
       "american": "trash can",
       "category": "bathroom and toiletries",
       "generated_at": "2026-11-28T01:13:51.424711"
+    },
+    {
+      "british": "outpatient",
+      "american": "ambulatory patient",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-28T09:32:01.074729"
+    },
+    {
+      "british": "syringe",
+      "american": "needle",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-28T09:32:01.074740"
+    },
+    {
+      "british": "antibiotic",
+      "american": "antibacterial",
+      "category": "medical and pharmacy",
+      "generated_at": "2026-11-28T09:32:01.074741"
     }
   ],
-  "last_updated": "2026-11-28T01:13:51.424713"
+  "last_updated": "2026-11-28T09:32:01.074743"
 }
