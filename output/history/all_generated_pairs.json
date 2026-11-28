@@ -9761,7 +9761,25 @@
       "american": "antibacterial",
       "category": "medical and pharmacy",
       "generated_at": "2026-11-28T09:32:01.074741"
+    },
+    {
+      "british": "mains plug",
+      "american": "wall plug",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-28T15:19:16.984333"
+    },
+    {
+      "british": "screwdriver",
+      "american": "screw gun",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-28T15:19:16.984343"
+    },
+    {
+      "british": "filler",
+      "american": "spackle",
+      "category": "household tools and DIY",
+      "generated_at": "2026-11-28T15:19:16.984345"
     }
   ],
-  "last_updated": "2026-11-28T09:32:01.074743"
+  "last_updated": "2026-11-28T15:19:16.984346"
 }
